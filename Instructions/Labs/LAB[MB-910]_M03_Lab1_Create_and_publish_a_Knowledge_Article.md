@@ -87,17 +87,29 @@ Once we have received the returned / damaged item, your account will be credited
 
 14. On the **Command Bar**, select the **Save and Close** button to save your changes and close the article.
 
+   ![](../images/module4/lab1/13.png)
+
 After the author initially creates the record, it will generally go through an approval process before it is live. Next, we will act as an approver and approve the article. 
 
-15. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval. 
+15. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval.
+
+   ![](../images/module4/lab1/14.png)
 
 16. Open the **Item Broken on Arrival – your initials** article you just created.
 
+   ![](../images/module4/lab1/15.png)
+
 17. On the **New Process**, select the **Review** stage. Set the **Review** field to **Approved**.
+
+   ![](../images/module4/lab1/16.png)
 
 18. You will be asked to confirm the article approval, select **OK**. 
 
+   ![](../images/module4/lab1/17.png)
+
 19. Select the **Next Stage** button to advance to the **Publish** stage. 
+
+   ![](../images/module4/lab1/18.png)
 
 20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
 
