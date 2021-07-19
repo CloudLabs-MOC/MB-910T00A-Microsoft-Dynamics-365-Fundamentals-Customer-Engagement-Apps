@@ -119,13 +119,19 @@ After the author initially creates the record, it will generally go through an a
 
 23. On the **New Process**, select the **Publish** stage. 
 
+   ![](../images/module4/lab1/20.png)
+
 24. Mark the **Set Product Associations** as **Complete**. 
 
 25. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
 26. Select the **Finish** button to complete the process. 
 
+   ![](../images/module4/lab1/21.png)
+
 27. On the **Command Bar** for the article, select the **Publish** button. 
+
+   ![](../images/module4/lab1/22.png)
 
 28. Confirm that the following is selected:
 
@@ -141,4 +147,4 @@ After the author initially creates the record, it will generally go through an a
 
 	- **Publish Approved translations:** No
 
-
+   ![](../images/module4/lab1/23.png)
