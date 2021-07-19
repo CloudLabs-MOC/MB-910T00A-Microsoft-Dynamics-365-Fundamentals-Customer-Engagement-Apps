@@ -17,19 +17,29 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 1. If is not open already, open the **Dynamics 365 Customer Service Hub** application. 
 
-2. Using the navigation on the left side of the screen, select **Knowledge Articles**. 
+2. Using the navigation on the left side of the screen, select **Knowledge Articles**.
 
-3. To easily see the which articles are in different stages, select the drop-down arrow next to **My Active Articles**. 
+3. To easily see the which articles are in different stages, select the drop-down arrow next to **My Active Articles**.
 
-4. Select the **Draft Articles** view. 
+    ![](../images/module4/lab1/4.png)
 
-5. Select **Approved Articles**. 
+4. Select the **Draft Articles** view.
+
+    ![](../images/module4/lab1/5.png)
+
+5. Select **Approved Articles**.
+
+    ![](../images/module4/lab1/6.png)
 
 6. Switch back to **My Active Articles**
 
-7. On the **Command Bar**, select the **New** button. 
+7. On the **Command Bar**, select the **New** button.
+
+    ![](../images/module4/lab1/7.png)
 
 8. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. Set **Language** to **English - United States**.
+
+    ![](../images/module4/lab1/8.png)
 
 8. Complete the article as follows:
 
@@ -39,6 +49,8 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 	- **Description:** Helps resolve issues when an Item arrives damaged. 
 
+    ![](../images/module4/lab1/9.png)
+    
 9. Enter the following text into the Content Designer text.   
 ‎  
 ‎	Item Arrived Damaged
@@ -59,13 +71,19 @@ Once we have received the returned / damaged item, your account will be credited
 
 **NOTE:** You can add formatting to the text if desired. 
 
-10. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open. 
+   ![](../images/module4/lab1/10.png)
+
+10. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open.
+
+   ![](../images/module4/lab1/11.png)
 
 11. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Delivery** (Located under Service). 
 
 12. Set the **Mark for Review** field to **Completed**.
 
 13. Select **Next Stage** button to advance to **Review** stage.
+
+   ![](../images/module4/lab1/12.png)
 
 14. On the **Command Bar**, select the **Save and Close** button to save your changes and close the article.
 
