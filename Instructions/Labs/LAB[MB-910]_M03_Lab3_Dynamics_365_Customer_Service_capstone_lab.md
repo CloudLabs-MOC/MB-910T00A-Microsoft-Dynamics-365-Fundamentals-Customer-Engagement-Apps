@@ -89,6 +89,7 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Description:** Helps work through scenarios where a sensor is not working. 
 
+    ![](../images/module3/lab3/1.png)
 9. Enter the following text into the **Content Designer** text.   
 
 	Sensor is not currently working
@@ -107,6 +108,8 @@ Upon completion of the lab, you will have completed the following:
 
 	Once the device reboots, it will be back online. 
 
+    ![](../images/module3/lab3/2.png)
+
 10. In the content editor, select the Sensor is not currently working text
 
 11. Change the font size to **22** and select the **Bold** button. 
@@ -119,9 +122,11 @@ Upon completion of the lab, you will have completed the following:
 
 15. Select **Next Stage** button to advance to **Review** stage.
 
+    ![](../images/module3/lab3/2-1.png)
+
 16. On the **Command Bar**, select the **Save and Close** button to save your changes and close the article.
 
- 
+    ![](../images/module3/lab3/3.png)
 
 ### Task 2: Manage an article through the approval process
 
@@ -129,21 +134,35 @@ In most organizations, after the article author creates the record, it goes thro
 
 1. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval. 
 
+     ![](../images/module3/lab3/4.png)
+
 2. Open the **Sensor is not working – your initials** article you just created.
 
+     ![](../images/module3/lab3/5.png)
+
 3. On the **New Process**, select the **Review** stage. Set the **Review** field to **Rejected**.
+
+     ![](../images/module3/lab3/6.png)
 
 4. On the Reject knowledge Article screen, enter the text **These steps do not work, when I try to replicate it.**
 
 5. Select the **Reject** button
 
+     ![](../images/module3/lab3/7.png)
+
 6. Select the **Save &amp; Close** to close the article record.
+
+     ![](../images/module3/lab3/8.png)
 
 7. Using the **view selector**, change the view to **My Active Articles**. 
 
+     ![](../images/module3/lab3/9.png)
+
 8. Open the **Sensor is not working – your initials** record.
 
-9. Once the record is open, select the **Summary** tab. 
+9. Once the record is open, select the **Summary** tab.
+
+     ![](../images/module3/lab3/10.png)
 
 10. On the record **Timeline**, notice a note that indicated that the article was rejected and why it was rejected. 
 
@@ -157,16 +176,23 @@ In most organizations, after the article author creates the record, it goes thro
 
 15. On the **Command Bar**, select the **Save &amp; Close** button.
 
+     ![](../images/module3/lab3/11.png)
+
 16. Use the **View Selector** and switch the view to **Proposed Articles.**
 
 17. Open the **Sensor is not working – Your Initials** article. 
+
+     ![](../images/module3/lab3/12.png)
 
 18. On the **New Process** business process flow, select the **Review** stage.
 
 19. Change the Status to **Approved**. 
 
+     ![](../images/module3/lab3/13.png)
+
 20. You will be asked to confirm the article approval, select **OK**. 
 
+     ![](../images/module3/lab3/14.png)
 
 ### Task 3: Approve the Knowledge Article
 
@@ -174,13 +200,17 @@ Now that the article has been approved, we will publish it so that it will be av
 
 1. Select the **Next Stage** button to advance to the **Publish** stage. 
 
-2. Mark the **Set Product Associations** as **Complete**. 
+2. Mark the **Set Product Associations** as **Completed**. 
 
 3. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
 4. Select the **Finish** button to complete the process. 
 
+     ![](../images/module3/lab3/15.png)
+
 5. On the **Command Bar** for the article, select the **Publish** button. 
+
+     ![](../images/module3/lab3/16.png)
 
 6. Confirm that the following is selected:
 
@@ -193,9 +223,10 @@ Now that the article has been approved, we will publish it so that it will be av
 	- **Expiration State:** Expired
 
 	- **Expiration Status:** Expired
-
+     
 7. Select the **Publish** button to publish the article.
 
+    ![](../images/module3/lab3/17.png)
 
 ## Exercise 2: Manage a support case through its lifecycle
 
@@ -208,14 +239,11 @@ Now that the article has been approved, we will publish it so that it will be av
 
 3. On the **Command Bar**, select the **Show Visual Filter** button.
 
+    ![](../images/module3/lab3/18.png)
 
 4. Additional dashboards provide further details about the current case load. You can work with other dashboards by using the dashboard selector. Change the dashboard from **Tier 1 Dashboard** to **Tier 2 Dashboard**. 
 
- 
-
 Now that you are familiar with some of the different views and dashboards, we will create a new case record to assist Piper with her problem.
-
- 
 
 10. Using the navigation on the left side of the screen, select **Cases**. 
 
@@ -233,9 +261,13 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 13. Select the **Save** button to save the record and leave it open. 
 
+    ![](../images/module3/lab3/19.png)
+
 14. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
 15. From the menu that appears, select **Phone Call**.
+
+    ![](../images/module3/lab3/20.png)
 
 16. On the **Quick Create: Phone Call** form complete the activity as follows:
 
@@ -249,15 +281,23 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 17. Select the **Save and Close** button. 
 
+    ![](../images/module3/lab3/21.png)
+
 18. On the **Phone to Case Process**, select the **Identify** stage.
 
 19. Select the **Next Stage** button to advance to the **Research** stage. 
 
-20. Select the **X** on the **Research** stage fly out window to remove the window so you can continue working. 
+    ![](../images/module3/lab3/22.png)
+
+20. Select the **X** on the **Research** stage fly out window to remove the window so you can continue working.
+
+    ![](../images/module3/lab3/23.png)
 
 21. Using the **Record Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
 22. From the menu that appears, select **Task**.
+
+    ![](../images/module3/lab3/24.png)
 
 23. On the **Quick Create: Phone Call** form complete the activity as follows:
 
@@ -269,15 +309,17 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 24. Select the **Save and Close** button. 
 
+    ![](../images/module3/lab3/25.png)
+
 25. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
 
 26. Notice that the title of the case y is automatically being used as the search text. Locate and select the **Sensor is not working – your initials** article you created earlier. 
 
-27. The full contents of the article will be displayed, select the **Thumbs Up** icon at the bottom of the article to indicate the article was helpful. 
+27. The full contents of the article will be displayed, select the **Thumbs Up** icon at the bottom of the article to indicate the article was helpful.
+
+    ![](../images/module3/lab3/26.png)
 
 28. Select the **Link this article to the current record** icon. Verify that the text **Linked to Case** appears. 
-
- 
 
 ### Task 2: Close the case
 
@@ -285,17 +327,29 @@ Now that we have identified a resolution to the customers problem, we will get r
 
 1. On the cases record **Timeline**, hover over the **Research Pipers Issue task** that you created earlier**.** Select the mark complete **Check Mark Icon** to complete the activity. 
 
+    ![](../images/module3/lab3/27.png)
+
 2. On the **Close Task** screen, verify the stat is Completed and select the **Close** button. The status of the task should say **Closed**. 
+
+    ![](../images/module3/lab3/28.png)
 
 3. Hover over the **Return call to piper Phone Call** you created earlier**.** Select the mark complete **Check Mark Icon** to complete the activity. 
 
 4. On the **Close Phone Call** screen, verify the **State** is **Completed** and the **Status** is **Made**. Select the **Close** button. Verify the activity appears as closed on the Timeline. 
 
+    ![](../images/module3/lab3/28-1.png)
+    
+    ![](../images/module3/lab3/29.png)
+
 5. On the **Phone to Case Process**, select the **Research** stage, and select **Next Stage** to advance to the **Resolve** stage. 
 
 6. On the **Resolve** stage, select the **Finish** button to complete the process flow. 
 
+    ![](../images/module3/lab3/30.png)
+
 7. On the **Command Bar** for the case record, select the **Resolve Case** button.
+
+    ![](../images/module3/lab3/31.png)
 
 8. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. 
 
