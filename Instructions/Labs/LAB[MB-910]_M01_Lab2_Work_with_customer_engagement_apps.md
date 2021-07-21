@@ -16,8 +16,6 @@ During this exercise, you will see that it is very easy to access the different 
 
 In this exercise, you will become familiar with how to access the different Dynamics 365 Customer engagement applications by using the Dynamics 365 Home screen. 
 
-1. In a web browser, navigate to [**https://dynamics.microsoft.com/en-us/**](https://dynamics.microsoft.com/en-us/)**.** All the applications that you have access to will be displayed. 
-
 1.  Navigate to this web URL in a new private window -> <https://dynamics.microsoft.com/en-us/> .
 
     ![](../images/module1/lab1/1.png)
