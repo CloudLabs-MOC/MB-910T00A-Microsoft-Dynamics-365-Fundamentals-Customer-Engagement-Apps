@@ -24,21 +24,39 @@ In this exercise, you will become familiar with how to access the different Dyna
 
     ![](../images/module1/lab1/2.png)
 
-1. After logged in, click on the products tab from the top navigation pane and from the options find marketing and click on it to open the marketing portal. Refer below screenshot for reference.
+1. After logged in, click on the products tab from the top navigation pane and from the options find **Sales** and click on it to open the marketing portal. Refer below screenshot for reference.
 
-    ![](../images/module1/lab1/3.png)
+    ![](../images/module1/lab2/2-1.png)
 
-1. To locate a specific app, you can search for it by Selecting the **Search my apps** field on the left side of the screen. 
+1. Select the **Sales** text in the upper left part of the screen next to the text Dynamic 365 as shown in image below.
+
+    ![](../images/module1/lab2/1.png)
+    
+1. Now the apps page will appear.
+
+    ![](../images/module1/lab2/1-2.png)
 
 1. Type the text **Sales Hub** and select the **Sales Hub** app to open it. 
 
+    ![](../images/module1/lab2/2.png)
+
 1. When you are within an app, there will be different areas that you can work with based on what you are trying to do. For example, the Sales Hub application contains different administrative settings that you can work with. 
+
+    ![](../images/module1/lab2/3.png)
 
 1. On the lower left side of the navigation pane, Select **Sales** and change to the the **App Settings** area. Explore the application settings.
 
+    ![](../images/module1/lab2/4.png)
+    
+    ![](../images/module1/lab2/5.png)
+
 1. Select the Area selector again and change it from **App Settings** back to **Sales**.
 
+    ![](../images/module1/lab2/6.png)
+
 1. If you want to switch from the Sales app to a different app such as Customer Service hub, select the **Sales Hub** text in the upper left part of the screen next to the text Dynamic 365. 
+
+    ![](../images/module1/lab2/7.png)
 
 1. The Apps screen will appear, select **Customer Service Hub** and you will be taken to the Customer Service Hub Application. 
 
