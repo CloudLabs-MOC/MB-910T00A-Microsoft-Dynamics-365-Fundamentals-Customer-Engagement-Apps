@@ -6,13 +6,13 @@ Exercise 1 - Access the Dynamics 365
 
 ### Task 1 – Log into the Dynamics 365
 
-1.  Access <https://dynamics.microsoft.com/en-us/> and log in with your user credentials.
+1.  Navigate to this web URL in a new private window -> <https://dynamics.microsoft.com/en-us/> .
 
-2. Record your user credential up to the **@** symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization. 
+2. In the lab environment, navigate to environment details page as shown in the below image and use the given user credentials to login into dynamics 365.
 
-**Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.
 
-3. Feel free to explore the Power Platform admin center but **do not make any changes**.
+
+
 
 ### Task 2 – Access the Dynamics 365 application
 
