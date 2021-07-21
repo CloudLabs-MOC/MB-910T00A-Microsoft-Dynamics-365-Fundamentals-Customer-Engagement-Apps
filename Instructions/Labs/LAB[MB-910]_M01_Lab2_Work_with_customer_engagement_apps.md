@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 1.2: Work with customer engagement apps'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
----
-
 Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 ========================
 
@@ -22,13 +16,8 @@ During this exercise, you will see that it is very easy to access the different 
 
 In this exercise, you will become familiar with how to access the different Dynamics 365 Customer engagement applications by using the Dynamics 365 Home screen. 
 
-1. In a web browser, navigate to [**https://home.dynamics.com**](https://home.dynamics.com/)**.** All the applications that you have access to will be displayed. 
+1. In a web browser, navigate to [**https://dynamics.microsoft.com/en-us/**](https://dynamics.microsoft.com/en-us/)**.** All the applications that you have access to will be displayed. 
 
-2. To reduce the number of applications being displayed, select the **Filter Icon** located next to the Get more apps button. 
-
-3. Under **BY INSTANCE NAME**, select **NONE**. And choose the Environment that you want to leverage. 
-
-4. Select the **X** in the upper right-hand corner of the **Filter box** to close the filter box. 
 
 5. To locate a specific app, you can search for it by Selecting the **Search my apps** field on the left side of the screen. 
 
