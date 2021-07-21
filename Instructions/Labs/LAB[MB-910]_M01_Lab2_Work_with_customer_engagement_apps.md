@@ -60,4 +60,8 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 1. The Apps screen will appear, select **Customer Service Hub** and you will be taken to the Customer Service Hub Application. 
 
+    ![](../images/module1/lab2/8.png)
+
 1. Select the **Customer Service Hub** text at the top to switch back to the **Sales Hub** App. 
+
+    ![](../images/module1/lab2/9.png)
