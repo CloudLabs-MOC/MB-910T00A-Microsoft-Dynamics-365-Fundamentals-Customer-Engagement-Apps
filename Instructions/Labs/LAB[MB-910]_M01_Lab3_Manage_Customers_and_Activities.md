@@ -1,11 +1,5 @@
----
-lab:
-    title: 'Lab 1.3: Manage Customers and Activities'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
----
+## Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
-Module 1: Learn the Fundamentals of Dynamics 365 Marketing
-========================
 
 ## Practice Lab 1.3 - Manage Customers and Activities
 
@@ -67,6 +61,8 @@ In this exercise, you will be working with common records that are used by all D
 	- **Address 1 State/ Province:** IL
 
 	- **Address 1 Postal Code:** 60176
+
+	- **Address 1 Country/Region:** United States
 
 8. Set the **Parent Account** field to the **Contoso Corporate** account you created earlier. 
 
