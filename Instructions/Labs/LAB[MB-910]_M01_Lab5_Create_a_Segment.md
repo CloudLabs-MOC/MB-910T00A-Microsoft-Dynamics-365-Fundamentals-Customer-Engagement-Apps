@@ -1,11 +1,5 @@
----
-lab:
-    title: 'Lab 1.5: Create a Segment in Dynamics 365 Marketing'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
----
+## Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
-Module 1: Learn the Fundamentals of Dynamics 365 Marketing
-========================
 
 ## Practice Lab 1.5 - Create a Segment in Dynamics 365 Marketing
 
@@ -19,31 +13,68 @@ During this exercise you will see that it is very easy to create customer segmen
 
 ## Instructions
 
+1. Open the Dynamics Marketing application. The **Marketing** area should be selected.
 
-1. Open the Dynamics Marketing application. The **Marketing** area should be selected. Select **Segments** under **Customers**.
+1. Using the navigation on the left side of the screen, select **Accounts**. 
 
-2. On the command bar, select **New**.
+1. On the Command Bar at the top of the screen, select the **New** button.
 
-3. From the drop-down menu that appears, select **New Dynamic Segment**.
+1. Complete the account record as follows:
 
-4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
+	- **Account Name:** Contoso North America – deploymentID
 
-5. Select **Add query block** to create a query against the contact table. 
+	- **Phone:** 888-555-4321
 
-6. Select the **Select attribute** control.
+	- **Address 1 – Street 1**: 187 11th ST N
 
-7. Type "city" to filter the list and select **Address 1: City**.
+	- **Address 1 City:** Chicago
 
-8. Leave the next drop-down list set to **Is**. 
+	- **Address 1 State/ Province:** IL
 
-9. Clck **Type to search** and type **Chicago**.
+	- **Address 1 Postal Code:** 60176
 
-10. Select the **Name** field at the top of the query and enter **Chicago Contacts - Your initials**.
+	- **Address 1 Country/Region:** United States
 
-11. Select **Save** on the command bar to save your segment
+1. Locate the **Contacts Sub-grid** on the right side of the screen. You need to scroll down to find this.
 
-12. Select **Go Live** to publish the segment 
+1. Select the **Vertical Ellipsis**, and from the menu that appears, select **New Contact**.
 
-13. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
+1. Using the **Quick Create Contact** form, complete the contact as follows:
 
-14. You should now see that a **Members** tab has been added. Jackson Anderson is listed.
+	- **First Name:** Jackson
+
+	- **Last Name:** Anderson - deploymentID
+
+	- **Job Title:** CEO
+
+	- **Email:** Jackson@contososample.com
+
+1. Select the **Save and Close** button.
+
+1. Select **Segments** under **Customers**.
+
+1. On the command bar, select **New**.
+
+1. From the drop-down menu that appears, select **New Dynamic Segment**.
+
+1. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
+
+1. Select **Add query block** to create a query against the contact table. 
+
+1. Select the **Select attribute** control.
+
+1. Type "city" to filter the list and select **Address 1: City**.
+
+1. Leave the next drop-down list set to **Is**. 
+
+1. Clck **Type to search** and type **Chicago**.
+
+1. Select the **Name** field at the top of the query and enter **Chicago Contacts - Your initials**.
+
+1. Select **Save** on the command bar to save your segment
+
+1. Select **Go Live** to publish the segment 
+
+1. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
+
+1. You should now see that a **Members** tab has been added. Jackson Anderson is listed.
