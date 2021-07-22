@@ -1,11 +1,4 @@
----
-lab:
-    title: 'Lab 1.4: Search and filter data'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
----
-
-Module 1: Learn the Fundamentals of Dynamics 365 Marketing
-========================
+## Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Practice Lab 1.4 - Search and filter data
 
