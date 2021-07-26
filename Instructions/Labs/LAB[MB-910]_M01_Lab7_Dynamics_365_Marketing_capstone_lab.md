@@ -1,11 +1,4 @@
----
-lab:
-    title: 'Lab 1.7: Dynamics 365 Marketing capstone lab'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
----
-
-Module 1: Learn the Fundamentals of Dynamics 365 Marketing
-========================
+## Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Practice Lab 1.7 - Dynamics 365 Marketing capstone lab
 
@@ -71,11 +64,17 @@ Upon completion of the lab, you will have completed the following:
 
 3. To create a new marketing email, on the **Command Bar**, select **New**.
 
+    ![](../images/module1/lab7/new/5.png)
+
 4. From the list of **Marketing email Templates**, select **1 column newsletter**, and select the **Select** button.
+
+    ![](../images/module1/lab7/new/6.png)
 
 5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
 
-6. In the **Name** field enter **Home Security – Your Initials**. 
+6. In the **Name** field enter **Home Security – deploymentID**. 
+
+    ![](../images/module1/lab7/new/7.png)
 
 7. In the **Subject** field enter the text **Keep you family Safe**! You may need to scroll to the top of the Design page to reveal the Subject field.
 
