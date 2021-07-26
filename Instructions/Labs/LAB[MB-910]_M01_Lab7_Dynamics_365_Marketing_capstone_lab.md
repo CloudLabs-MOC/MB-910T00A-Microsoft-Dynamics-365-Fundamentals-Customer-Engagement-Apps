@@ -78,29 +78,25 @@ Upon completion of the lab, you will have completed the following:
 
 7. In the **Subject** field enter the text **Keep you family Safe**! You may need to scroll to the top of the Design page to reveal the Subject field.
 
-8. In the message window, locate and select the small image **above** the text a **Short headline goes here**. 
+    ![](../images/module1/lab7/new/8.png)
 
-9. In the Properties Pane, hover over and select the **Image gallery** button. 
+8. In the message window, locate and select the small image **above** the text a **Short headline goes here**. Here one can change the images as per there requirements, by clicking on the image and selecting the properties pane and select the image. For now we are not changing and following the next step.
 
-10. Select the **contosologo.png** image and select the **Select** button to insert into your email. 
+    ![](../images/module1/lab7/new/9.png)
 
-11. Use the size handles on the image to size the image to the desired size. 
+9. You can manage the size of by Using the size handles on the image to size the image to the desired size. 
 
-12. Select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
+10. Select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
 
-13. Select the section below the text you just modified. 
+    ![](../images/module1/lab7/new/10-1.png)
 
-14. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
+11. Select the section below the text you just modified. 
 
-15. Select the **Image** just below the text you added. 
+12. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
 
-16. Select the **Image gallery** button. 
+    ![](../images/module1/lab7/new/11.png)
 
-17. Select the **safebox.png** image, and then select the **Select** button to insert into your email. 
-
-18. Size the image. 
-
-19. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
+13. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
 
 20. Select in the text box below the heading you just modified. 
 
