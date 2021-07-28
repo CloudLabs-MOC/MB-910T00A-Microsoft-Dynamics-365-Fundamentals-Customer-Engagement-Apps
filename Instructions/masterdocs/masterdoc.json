@@ -1,1 +1,35 @@
-
+[{
+  "Name": "Module 1: Learn the Fundamentals of Dynamics 365 Marketing",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab1_Validate%20lab%20environment.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab2_Work_with_customer_engagement_apps.md",
+      "Order": 2
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab3_Manage_Customers_and_Activities.md",
+      "Order": 3
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab4_Search_and_filter_data.md",
+      "Order": 4
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab5_Create_a_Segment.md",
+      "Order": 5
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab6_Create_a_simple_Customer_Journey.md",
+      "Order": 6
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/prod/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab7_Dynamics_365_Marketing_capstone_lab.md",
+      "Order": 7
+    }
+     ]
+}]
