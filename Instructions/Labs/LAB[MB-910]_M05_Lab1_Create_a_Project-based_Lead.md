@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 5.1: Create a Project-based Lead'
-    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
----
-
 Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
 ========================
 
@@ -62,29 +56,23 @@ Upon completion of the lab, you will have completed the following:
 
 ### Task 1: Create a new Lead
 
-1. If necessary, open an InPrivate browser and navigate to [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. When prompted, log in with the user credentials provided to you by the instructor. 
 
-2. When prompted, log in with the user credentials provided to you by the instructor. 
+2. From the list of applications that appears, select **Project Service**.
 
-3. From the list of applications that appears, select **Project Service**. 
+    ![](../images/module5/lab1/1.png)
 
-4. If Project Service is not present, visit trials.dynamics.com and install the Project Service trial. 
+3. Using the navigation on the left side of the screen, select the **Sales** Area. 
 
-	- Work Email: Tenant email. 
+    ![](../images/module5/lab1/2.png)
 
-	- Phone number: mobile phone
+4. Using the navigation, select **Leads**. 
 
-5. Using the navigation on the left side of the screen, select the **Sales** Area. 
+5. Next, we will create a new lead for a company called Consolidated Sample, from the **My Open Leads** view, Select the **New** button on the Command bar.
 
-6. Using the navigation, select **Leads**. 
+    ![](../images/module5/lab1/3.png)
 
-7. To view all the current sales leads in the system, select the down arrow next to **My Open leads**, from the menu that appears select **Active Leads**. 
-
-8. To navigate back to your list of leads, select the down arrow next to Active Leads, and from the menu that appears, select **My Open Leads**. 
-
-9. Next, we will create a new lead for a company called Consolidated Sample, from the **My Open Leads** view, Select the **New** button on the Command bar.
-
-10. Complete your new lead record as follows:
+6. Complete your new lead record as follows:
 
 	- **Topic:** Complete Global Implementation – Your Initials
 
@@ -106,11 +94,16 @@ Upon completion of the lab, you will have completed the following:
 
 	- **State/Province:** WA
 
-	- **ZIP/Postal Code:** 98001 
+	- **ZIP/Postal Code:** 98001
 
-11. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
+	- **Country/Region:** United States
 
-12. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Select the **Qualify Stage** to select it. Complete the stage as follows:
+    ![](../images/module5/lab1/4.png)
+7. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
+
+    ![](../images/module5/lab1/5.png)
+
+8. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Select the **Qualify Stage** to select it. Complete the stage as follows:
 
 	- **Purchase Timeframe:** This Quarter
 
@@ -120,11 +113,17 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Identify Decision Maker:** Completed
 
-13. Select the **X** on the stage window to close the window. 
+9. Select the **X** on the stage window to close the window. 
 
-14. Go to the **Record Timeline** in the middle of the screen and select the **Plus Sign Icon** to add a new activity. 
+    ![](../images/module5/lab1/6.png)
+
+10. Go to the **Record Timeline** in the middle of the screen and select the **Plus Sign Icon** to add a new activity. 
+
+    ![](../images/module5/lab1/7.png)
 
 15. From the menu that appears, select **Phone Call**.
+
+    ![](../images/module5/lab1/8.png)
 
 16. On Quick Create Phone Call Screen, complete the phone call as follows:
 
@@ -138,19 +137,32 @@ Upon completion of the lab, you will have completed the following:
 
 17. Select the **Save and Close** button.
 
+    ![](../images/module5/lab1/9.png)
+
 18. Notice the **Initial Qualification Call** activity is now displayed on the **Record Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
+
+    ![](../images/module5/lab1/10.png)
+    
+    ![](../images/module5/lab1/11.png)
 
 19. On the **Close Phone Call** window, verify the state is set to **Completed**, and select the **Close** button.
 
+    ![](../images/module5/lab1/12.png)
  
 
 ### Task 2: Qualify the Lead and convert to Opportunity for further qualification
 
 1. On the **Command Bar**, select the **Qualify** button. 
 
+    ![](../images/module5/lab1/13.png)
+
 2. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
+
+    ![](../images/module5/lab1/14.png)
 
 3. Select the **Develop** stage to return to the opportunity.
 
 4. Select the **Save &amp; Close** button to close the Opportunity record that was created. 
+
+    ![](../images/module5/lab1/15.png)
 
