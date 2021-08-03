@@ -1,11 +1,4 @@
----
-lab:
-    title: 'Lab 4.2: Schedule Items in Dynamics 365 Field Service'
-    module: 'Module 4: Learn the Fundamentals of Dynamics 365 Field Service'
----
-
-Module 4: Learn the Fundamentals of Dynamics 365 Field Service
-========================
+## Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 ## Practice Lab 4.2 - Schedule Items in Dynamics 365 Field Service
 
@@ -17,17 +10,32 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
   
 ## Instructions
 
-1. If is not open already, open the **Dynamics 365 Field Service** application. 
+1. Open the **Dynamics 365 Field Service** application. 
 
-2. Using the navigation on the left, select the **Resources** area, then select **Resources**.
+2. Go to contacts from the left navigation pane and add new contact with name **Eleanor Ribeiro**. and click **Save & Close**.
 
-3. On the **Command Bar**, select the **New** button to create a new Bookable Resource.
+    ![](../images/module4/lab2/contact-1.png)
+    
+    ![](../images/module4/lab2/contact-2.png)
+    
+3. Similarly create other contacts with names **Abbie Gardiner** , **Cacilia Viera** , **Aidan Knaggs**
+    
+3. Using the navigation on the left, select the **Resources** area, then select **Resources**.
+
+    ![](../images/module4/lab2/1.png)
+
+4. On the **Command Bar**, select the **New** button to create a new Bookable Resource.
+
+    ![](../images/module4/lab2/2.png)
 
 	- **Resource Type:** Contact
+	   ![](../images/module4/lab2/3.png)
 
-	- **Contact:** Eleanor Ribeiro
-
+	- **Contact:** Eleanor Ribeiro (you can search the name and select **eleanor** which we created earlier)
+	 
 4. On the **Command Bar**, select the **Save & Close** button.
+
+    ![](../images/module4/lab2/4.png)
 
 5. Repeat the steps to create three more Bookable Resource.
 
@@ -35,13 +43,14 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 	- **Contact:** Abbie Gardiner
 
-
 	- **Resource Type:** Contact
 
 	- **Contact:** Aidan Knaggs
 	
-	- Select the Related tab and add a new Related Territory - WA
-
+	- Select the Related tab and add a new Related Resource Territory - WA (check below images to add one)
+	    ![](../images/module4/lab2/6.png)
+	    ![](../images/module4/lab2/6-1.png)
+	    ![](../images/module4/lab2/6-2.png)
 
 	- **Resource Type:** Contact
 
@@ -49,26 +58,37 @@ Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 	
 	- Select the Related tab and add a new Related Territory - WA
 
-
 6. On the **Command Bar**, select the **Save & Close** button.
 
-27 Using the navigation on the left, select the **Service** area, then select **Work Orders**.
+7. Using the navigation on the left, select the **Service** area, then select **Work Orders**.
+
+    ![](../images/module4/lab2/7.png)
 
 8. On the **Command Bar**, select the **New** button to create a new Work Order.
 
+    ![](../images/module4/lab2/8.png)
+
 9. Complete the Work Order details as follows:
 
-	- **Service Account:** Adatum Corporation
+	- **Service Account:** Adatum Corporation (create new)
+               ![](../images/module4/lab2/9-accoutnnew.png)
+	       ![](../images/module4/lab2/9-accoutnnew-1.png)
 
 	- **Work Order Type:** Service
+	       ![](../images/module4/lab2/10.png)
 
-	- **Price List:** CRM Service USE (sample)
+	- **Price List:** CRM Service USA (sample)
+	       ![](../images/module4/lab2/11.png)
 
-	- **Taxable:** No
+10. Select **Save** to save you changes.
 
-10. Select **Save** to save you changes.\
+    ![](../images/module4/lab2/11.png)
 
-	- **Primary Incident Type:** Unit Overheating. (create new)
+11. Scroll down to fill **Primary Incident Type:** Unit Overheating. (create new) Click **+ new incident type**
+     ![](../images/module4/lab2/12.png)
+        - Add name as Unit Overheating and then add a description(optional) and then click Save and close
+           ![](../images/module4/lab2/13.png)
+	   ![](../images/module4/lab2/13-1.png)
 
 11. On the **Command Bar** of the **Work Order**, select the **Book** button. This will open the **Schedule Assistant.** 
 
