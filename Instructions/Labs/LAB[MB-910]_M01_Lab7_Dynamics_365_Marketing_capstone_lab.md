@@ -102,7 +102,15 @@ Upon completion of the lab, you will have completed the following:
 
 21. Replace the text with the following text: **Our award-winning systems protect you.**
 
+    ![](../images/module1/lab7/new/12.png)
+    
+    ![](../images/module1/lab7/new/12-1.png)
+
 22. Select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
+
+    ![](../images/module1/lab7/new/13.png)
+    
+    ![](../images/module1/lab7/new/14.png)
 
 23. Repeat the process for the remaining sections or other elements in the message.
 
