@@ -77,7 +77,7 @@ Upon completion of the lab, you will have completed the following:
 
 8. Complete the article as follows:
 
-	- **Title:** Sensor is not working – Your Initials
+	- **Title:** Sensor is not working –[DeploymentID]
 
 	- **Keywords:** Sensor, Damaged, Not Working
 
@@ -110,7 +110,7 @@ Upon completion of the lab, you will have completed the following:
 
 12. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open. 
 
-13. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Service**. 
+13. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Default Subject**. 
 
 14. Set the **Mark for Review** field to **Completed**.
 
@@ -152,7 +152,7 @@ In most organizations, after the article author creates the record, it goes thro
 
      ![](../images/module3/lab3/9.png)
 
-8. Open the **Sensor is not working – your initials** record.
+8. Open the **Sensor is not working –[DeploymentID]** record.
 
 9. Once the record is open, select the **Summary** tab.
 
@@ -174,7 +174,7 @@ In most organizations, after the article author creates the record, it goes thro
 
 16. Use the **View Selector** and switch the view to **Proposed Articles.**
 
-17. Open the **Sensor is not working – Your Initials** article. 
+17. Open the **Sensor is not working –[DeploymentID]** article. 
 
      ![](../images/module3/lab3/12.png)
 
@@ -245,7 +245,7 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 12. Complete the new case record as follows:
 
-	- **Case Title:** Sensor is not working – Your Initials
+	- **Case Title:** Sensor is not working –[DeploymentID]
 
 	- **Customer:** Piper Smith
 
@@ -293,7 +293,7 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
     ![](../images/module3/lab3/24.png)
 
-23. On the **Quick Create: Phone Call** form complete the activity as follows:
+23. On the **Quick Create: Task** form complete the activity as follows:
 
 	- **Subject:** Research Pipers issue
 
@@ -307,7 +307,7 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 25. On the right side of the case screen, locate and select the **Knowledge** book Icon. (It will be directly below the wrench icon).
 
-26. Notice that the title of the case y is automatically being used as the search text. Locate and select the **Sensor is not working – your initials** article you created earlier. 
+26. Notice that the title of the case y is automatically being used as the search text. Locate and select the **Sensor is not working –[DeploymentID]** article you created earlier. 
 
 27. The full contents of the article will be displayed, select the **Thumbs Up** icon at the bottom of the article to indicate the article was helpful.
 
