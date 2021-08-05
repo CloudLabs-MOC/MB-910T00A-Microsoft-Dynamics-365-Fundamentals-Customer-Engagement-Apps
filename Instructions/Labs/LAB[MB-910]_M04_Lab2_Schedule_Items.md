@@ -12,7 +12,7 @@
 
 1. Open the **Dynamics 365 Field Service** application. 
 
-2. Go to contacts from the left navigation pane and add new contact with name **Eleanor Ribeiro**. and click **Save & Close**.
+2. Go to contacts under customers from the left navigation pane and add new contact with name **Eleanor Ribeiro**. and click **Save & Close**.
 
     ![](../images/module4/lab2/contact-1.png)
     
