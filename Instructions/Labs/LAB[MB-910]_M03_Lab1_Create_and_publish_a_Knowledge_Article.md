@@ -37,7 +37,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
     ![](../images/module3/setup/7.png)
     
-8. it will open the application and let it be open to perform the remaining exercises.
+8. We will be now in the customer service hub and let it be open to perform the remaining exercises.
 
 ## Instructions
 
