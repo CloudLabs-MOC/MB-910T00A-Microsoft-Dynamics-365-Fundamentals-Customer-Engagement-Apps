@@ -19,9 +19,9 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 4. Complete the new case record as follows:
 
-	- **Case Title:** Item arrived Damaged – Your Initials
+	- **Case Title:** Item arrived Damaged – deploymentID
 
-	- **Customer:** Alpine Ski House
+	- **Customer:** Alpine Ski House (Create new)
 
 	- **Origin:** Phone
 
