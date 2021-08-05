@@ -31,7 +31,9 @@
     ![](../images/module4/lab1/setup/4.png)
     ![](../images/module4/lab1/setup/5.png)
  
-7. The apps section will appear and from the list select **Field Service**
+7. The apps section will appear and from the list select **Field Service**.
+
+    ![](../images/module4/lab1/setup/5-1.png)
 
 ## Instructions
 
