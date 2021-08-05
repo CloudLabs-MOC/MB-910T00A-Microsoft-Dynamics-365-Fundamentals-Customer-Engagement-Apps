@@ -69,7 +69,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 8. Complete the article as follows:
 
-	- **Title:** Item Broken on Arrival – your initials
+	- **Title:** Item Broken on Arrival –[DeploymentID]
 
 	- **Keywords:** Broken Item, Damaged, Return
 
@@ -121,7 +121,7 @@ After the author initially creates the record, it will generally go through an a
 
    ![](../images/module3/lab1/14.png)
 
-16. Open the **Item Broken on Arrival – your initials** article you just created.
+16. Open the **Item Broken on Arrival –[DeploymentID]** article you just created.
 
    ![](../images/module3/lab1/15.png)
 
@@ -137,29 +137,25 @@ After the author initially creates the record, it will generally go through an a
 
    ![](../images/module3/lab1/18.png)
 
-20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
+20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**.  
 
-21. In the **Relate Product** window, select **Office 365 for Enterprise (Sample).**
-
-22. Select the **Associate** button. 
-
-23. On the **New Process**, select the **Publish** stage. 
+21. On the **New Process**, select the **Publish** stage. 
 
    ![](../images/module3/lab1/20.png)
 
-24. Mark the **Set Product Associations** as **Complete**. 
+22. Mark the **Set Product Associations** as **Complete**. 
 
-25. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
+23. Set the **Expiration Date** to **one year from today at 12:00 AM**. 
 
-26. Select the **Finish** button to complete the process. 
+24. Select the **Finish** button to complete the process. 
 
    ![](../images/module3/lab1/21.png)
 
-27. On the **Command Bar** for the article, select the **Publish** button. 
+25. On the **Command Bar** for the article, select the **Publish** button. 
 
    ![](../images/module3/lab1/22.png)
 
-28. Confirm that the following is selected:
+26. Confirm that the following is selected:
 
 	- **Publish:** Now
 
