@@ -15,24 +15,29 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
     
 3. On the Window that opens in the right, Enter first a unique name for the environment like **customer-deploymentID** and select **Sandbox** as type and Set **Yes** for create a database for this environment and then click **Next**.
 
-    ![](../images/module4/lab1/setup/2.png)
+    ![](../images/module3/setup/1.png)
     
 4. Scroll down and select **Enable Dynamics 365 apps** to **Yes** and inautomatically deploy these apps , select **Customer Service Pro**.
 
-    ![](../images/module4/lab1/setup/3.png)
+    ![](../images/module3/setup/2.png)
 
-5. Just ensure the settings as in the image below and select **Yes**.
+5. Just ensure the settings as in the image below and select **Save**.
 
-    ![](../images/module4/lab1/setup/3-1.png)
+    ![](../images/module3/setup/3.png)
 
-6. Once the environment is ready, select the environment and find and click the URL to open the Customer Service Hub application.
+6. A field will appear under environemnts with name customer and it will be in preparing state and once the environment is ready, select the environment and find and click the URL to open the Customer Service Hub application.
 
-    ![](../images/module4/lab1/setup/4.png)
-    ![](../images/module4/lab1/setup/5.png)
+    ![](../images/module3/setup/4.png)
+    
+    ![](../images/module3/setup/5.png)
+    
+    ![](../images/module3/setup/6.png)
  
 7. The apps section will appear and from the list select **Customer Service Hub**.
 
-    ![](../images/module4/lab1/setup/5-1.png)
+    ![](../images/module3/setup/7.png)
+    
+8. it will open the application and let it be open to perform the remaining exercises.
 
 ## Instructions
 
