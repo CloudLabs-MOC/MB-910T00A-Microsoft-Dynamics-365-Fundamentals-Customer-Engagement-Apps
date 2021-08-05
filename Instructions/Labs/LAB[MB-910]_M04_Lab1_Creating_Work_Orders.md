@@ -28,6 +28,11 @@
 
 6. Once the environment is ready, select the environment and find and click the URL to open the field Service application.
 
+    ![](../images/module4/lab1/setup/4.png)
+    ![](../images/module4/lab1/setup/5.png)
+ 
+7. The apps section will appear and from the list select **Field Service**
+
 ## Instructions
 
 1. Using the navigation on the left, select **Work Orders**.
