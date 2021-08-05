@@ -6,6 +6,28 @@
 
   - **Estimated Time**: 10 minutes
 
+## Setup the lab environment
+
+1. Once logged into https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
+
+2. Create a new environment by clicking on **+ New**
+
+    ![](../images/module4/lab1/setup/1.png)
+    
+3. On the Window that opens in the right, Enter first a unique name for the environment like **sales-field-deploymentID** and select **Sandbox** as type and Set **Yes** for create a database for this environment and then click **Next**.
+
+    ![](../images/module4/lab1/setup/2.png)
+    
+4. Scroll down and select **Enable Dynamics 365 apps** to **Yes** and inautomatically deploy these apps , select **Field Service** and **Sales Enterprise**.
+
+    ![](../images/module4/lab1/setup/3.png)
+
+5. Just ensure the settings as in the image below and select **Yes**.
+
+    ![](../images/module4/lab1/setup/3-1.png)
+
+6. Once the environment is ready, select the environment and find and click the URL to open the field Service application.
+
 ## Instructions
 
 1. Using the navigation on the left, select **Work Orders**.
