@@ -50,7 +50,13 @@
 	- Click the save button after entering the name for Aidan and then other options are available from it, Select the Related tab and add a new Related Resource Territory - WA (check below images to add one)
 	    ![](../images/module4/lab2/6.png)
 	    ![](../images/module4/lab2/6-1.png)
+	    If the territory is not there, create a new one by clicking on **+ new territory** and enter **WA** and then click **Save and close**.
+	    ![](../images/module4/lab2/4-1new.png)
+	    ![](../images/module4/lab2/4-2new.png)
+	    After selecting the territory, then click **Save and Close**
 	    ![](../images/module4/lab2/6-2.png)
+	    Once completed click **Save and close**
+	    ![](../images/module4/lab2/4-3new.png)
 
 	- **Resource Type:** Contact
 
