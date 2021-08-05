@@ -13,11 +13,11 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
     ![](../images/module4/lab1/setup/1.png)
     
-3. On the Window that opens in the right, Enter first a unique name for the environment like **sales-field-deploymentID** and select **Sandbox** as type and Set **Yes** for create a database for this environment and then click **Next**.
+3. On the Window that opens in the right, Enter first a unique name for the environment like **customer-deploymentID** and select **Sandbox** as type and Set **Yes** for create a database for this environment and then click **Next**.
 
     ![](../images/module4/lab1/setup/2.png)
     
-4. Scroll down and select **Enable Dynamics 365 apps** to **Yes** and inautomatically deploy these apps , select **Field Service** and **Sales Enterprise**.
+4. Scroll down and select **Enable Dynamics 365 apps** to **Yes** and inautomatically deploy these apps , select **Customer Service Pro**.
 
     ![](../images/module4/lab1/setup/3.png)
 
@@ -25,12 +25,12 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
     ![](../images/module4/lab1/setup/3-1.png)
 
-6. Once the environment is ready, select the environment and find and click the URL to open the field Service application.
+6. Once the environment is ready, select the environment and find and click the URL to open the Customer Service Hub application.
 
     ![](../images/module4/lab1/setup/4.png)
     ![](../images/module4/lab1/setup/5.png)
  
-7. The apps section will appear and from the list select **Field Service**.
+7. The apps section will appear and from the list select **Customer Service Hub**.
 
     ![](../images/module4/lab1/setup/5-1.png)
 
