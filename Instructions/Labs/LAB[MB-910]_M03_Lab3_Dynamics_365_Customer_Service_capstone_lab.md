@@ -1,9 +1,3 @@
----
-lab:
-    title: 'Lab 3.3: Dynamics 365 Customer Service capstone lab'
-    module: 'Module 3: Learn the Fundamentals of Dynamics 365 Customer Service'
----
-
 Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 ========================
 
