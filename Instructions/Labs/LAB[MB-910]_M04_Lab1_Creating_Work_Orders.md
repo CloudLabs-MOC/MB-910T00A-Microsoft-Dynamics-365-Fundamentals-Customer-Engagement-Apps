@@ -45,7 +45,9 @@
 
 3. Complete the Work Order details as follows:
 
-	- **Service Account:** Adventure Works Cycles
+	- **Service Account:** Adventure Works Cycles (Create New), enter the name "Adventure Works Cycles" and then select the account you just created
+	   ![](../images/module4/lab1/new/1-1.png)
+	   ![](../images/module4/lab1/new/1.png)
 
 	- **Work Order Type**: Service (Create new)
            ![](../images/module4/lab1/3.png)
