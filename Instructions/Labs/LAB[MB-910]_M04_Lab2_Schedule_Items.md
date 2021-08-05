@@ -98,35 +98,53 @@
 
 11. On the **Command Bar** of the **Work Order**, select the **Book** button. This will open the **Schedule Assistant.** 
 
+    ![](../images/module4/lab2/14.png)
+
 12. You should be presented with options for scheduling the item. Select the **Abbie Gardiner** record.
 
-13. In the **Create Resource Booking** window, set the **Start Time** to the top of the next hour.
+    ![](../images/module4/lab2/new/new1.png)
+
+13. In the **Create Resource Booking** window, set the **Start Time** to the top of the next hour i.e. if its 3:30 AM , then select 4:00 AM or 4:30 AM, just need to be the next hour.(specify time in UTC)
 
 14. Set the **End Time** to the **2.5 hours** after that. 
 
 15. Select the **Book &amp; Exit** button to book the item and leave the scheduling window. 
 
+    ![](../images/module4/lab2/new/new2.png)
+
 16. Once back on the Work Order, select the **Save and Close** button from the Command Bar. 
 
-17. Using the left navigation, select **Work Orders**. Select the **Unscheduled Work Orders** view.
+    ![](../images/module4/lab2/new/new3.png)
 
-18. At the bottom of the screen is the Booking Requirements panel. Use the handle at the top middle of the panel to open it. Select the **Unscheduled Work Orders** tab.
+17. Using the left navigation, select **Work Orders**. Select the **Unscheduled Work Orders** view, by clicking on the arrow next to active work orders and change the view.
 
-19. Select the **Adventure Works** Work Order you created earlier using the work order number you wrote down. From the options that appear select **Find Availability**. 
+    ![](../images/module4/lab2/new/new4.png)
 
-20. This will open the **Schedule Assistant.** 
+18. Select the **Adventure Works** Work Order you created earlier using the work order number you wrote down. From the options that appear select **Book**. 
 
-21. You should be presented with options for scheduling the item. Select the Aidan Knaggs record.
+    ![](../images/module4/lab2/new/new5.png)
+    
+    ![](../images/module4/lab2/new/new6.png)
 
-22. In the **Create Resource Booking** window, set the **Start Time** to the top of the next hour.
+19. This will open the **Schedule Assistant.** 
 
-23. Set the **End Time** to the **2.5 hours** after that. 
+20. You should be presented with options for scheduling the item. Select the Aidan Knaggs record.
 
-24. Select the **Book &amp; Exit** button to book the item and leave the scheduling window. 
+    ![](../images/module4/lab2/new/new7.png)
+
+21. In the **Create Resource Booking** window, set the **Start Time** to the top of the next hour.
+
+22. Set the **End Time** to the **2.5 hours** after that. 
+
+23. Select the **Book &amp; Exit** button to book the item and leave the scheduling window. 
+
+    ![](../images/module4/lab2/new/new8.png)
+
+24. Following steps are optional , please read through them to understand how to handle such situations.
 
 25. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
 
-26. Select the search resources box on the schedule board (Located right above the resource name column), enter Abboe and locate the work order that is scheduled for Abbie later today. 
+26. Select the search resources box on the schedule board (Located right above the resource name column), enter Abbie and locate the work order that is scheduled for Abbie later today. 
 
 27. Right-click on the work order, and from the menu that appears, select **Substitute Resource**, select the **Find Substitution** button**.**
 
