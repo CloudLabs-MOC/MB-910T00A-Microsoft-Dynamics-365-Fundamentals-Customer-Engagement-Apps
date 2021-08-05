@@ -47,7 +47,7 @@
 
 	- **Contact:** Aidan Knaggs
 	
-	- Select the Related tab and add a new Related Resource Territory - WA (check below images to add one)
+	- Click the save button after entering the name for Aidan and then other options are available from it, Select the Related tab and add a new Related Resource Territory - WA (check below images to add one)
 	    ![](../images/module4/lab2/6.png)
 	    ![](../images/module4/lab2/6-1.png)
 	    ![](../images/module4/lab2/6-2.png)
