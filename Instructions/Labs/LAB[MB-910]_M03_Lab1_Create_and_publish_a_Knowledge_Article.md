@@ -21,25 +21,25 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 3. To easily see the which articles are in different stages, select the drop-down arrow next to **My Active Articles**.
 
-    ![](../images/module4/lab1/4.png)
+    ![](../images/module3/lab1/4.png)
 
 4. Select the **Draft Articles** view.
 
-    ![](../images/module4/lab1/5.png)
+    ![](../images/module3/lab1/5.png)
 
 5. Select **Approved Articles**.
 
-    ![](../images/module4/lab1/6.png)
+    ![](../images/module3/lab1/6.png)
 
 6. Switch back to **My Active Articles**
 
 7. On the **Command Bar**, select the **New** button.
 
-    ![](../images/module4/lab1/7.png)
+    ![](../images/module3/lab1/7.png)
 
 8. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. Set **Language** to **English - United States**.
 
-    ![](../images/module4/lab1/8.png)
+    ![](../images/module3/lab1/8.png)
 
 8. Complete the article as follows:
 
@@ -49,7 +49,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 	- **Description:** Helps resolve issues when an Item arrives damaged. 
 
-    ![](../images/module4/lab1/9.png)
+    ![](../images/module3/lab1/9.png)
     
 9. Enter the following text into the Content Designer text.   
 ‎  
@@ -71,11 +71,11 @@ Once we have received the returned / damaged item, your account will be credited
 
 **NOTE:** You can add formatting to the text if desired. 
 
-   ![](../images/module4/lab1/10.png)
+   ![](../images/module3/lab1/10.png)
 
 10. On the **Command Bar**, select the **Save** button to save the Knowledge Article and leave it open.
 
-   ![](../images/module4/lab1/11.png)
+   ![](../images/module3/lab1/11.png)
 
 11. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Delivery** (Located under Service). 
 
@@ -83,33 +83,33 @@ Once we have received the returned / damaged item, your account will be credited
 
 13. Select **Next Stage** button to advance to **Review** stage.
 
-   ![](../images/module4/lab1/12.png)
+   ![](../images/module3/lab1/12.png)
 
 14. On the **Command Bar**, select the **Save and Close** button to save your changes and close the article.
 
-   ![](../images/module4/lab1/13.png)
+   ![](../images/module3/lab1/13.png)
 
 After the author initially creates the record, it will generally go through an approval process before it is live. Next, we will act as an approver and approve the article. 
 
 15. In the Knowledge Articles, switch the view to **Proposed Articles** to see which articles need your approval.
 
-   ![](../images/module4/lab1/14.png)
+   ![](../images/module3/lab1/14.png)
 
 16. Open the **Item Broken on Arrival – your initials** article you just created.
 
-   ![](../images/module4/lab1/15.png)
+   ![](../images/module3/lab1/15.png)
 
 17. On the **New Process**, select the **Review** stage. Set the **Review** field to **Approved**.
 
-   ![](../images/module4/lab1/16.png)
+   ![](../images/module3/lab1/16.png)
 
 18. You will be asked to confirm the article approval, select **OK**. 
 
-   ![](../images/module4/lab1/17.png)
+   ![](../images/module3/lab1/17.png)
 
 19. Select the **Next Stage** button to advance to the **Publish** stage. 
 
-   ![](../images/module4/lab1/18.png)
+   ![](../images/module3/lab1/18.png)
 
 20. On the **Command Bar** at the top of the article, select the **vertical ellipsis** at the left of the command bar. From the menu that appears, select **Relate Product**. 
 
@@ -119,7 +119,7 @@ After the author initially creates the record, it will generally go through an a
 
 23. On the **New Process**, select the **Publish** stage. 
 
-   ![](../images/module4/lab1/20.png)
+   ![](../images/module3/lab1/20.png)
 
 24. Mark the **Set Product Associations** as **Complete**. 
 
@@ -127,11 +127,11 @@ After the author initially creates the record, it will generally go through an a
 
 26. Select the **Finish** button to complete the process. 
 
-   ![](../images/module4/lab1/21.png)
+   ![](../images/module3/lab1/21.png)
 
 27. On the **Command Bar** for the article, select the **Publish** button. 
 
-   ![](../images/module4/lab1/22.png)
+   ![](../images/module3/lab1/22.png)
 
 28. Confirm that the following is selected:
 
@@ -147,4 +147,4 @@ After the author initially creates the record, it will generally go through an a
 
 	- **Publish Approved translations:** No
 
-   ![](../images/module4/lab1/23.png)
+   ![](../images/module3/lab1/23.png)
