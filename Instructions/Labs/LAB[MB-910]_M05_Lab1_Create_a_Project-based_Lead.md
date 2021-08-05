@@ -48,7 +48,33 @@ Upon completion of the lab, you will have completed the following:
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+1. Once logged into https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
+
+2. Create a new environment by clicking on **+ New**
+
+    ![](../images/module5/setup/1.png)
+    
+3. On the Window that opens in the right, Enter first a unique name for the environment like **project-operations-deploymentID** and select **Sandbox** as type and Set **Yes** for create a database for this environment and then click **Next**.
+
+    ![](../images/module5/setup/2.png)
+    
+4. Scroll down and select **Enable Dynamics 365 apps** to **Yes** and inautomatically deploy these apps , select **Project Operations**.
+
+    ![](../images/module5/setup/3.png)
+
+5. Just ensure the settings as in the image below and select **Save**.
+
+    ![](../images/module5/setup/4.png)
+
+6. A field will appear under environemnts with name customer and it will be in preparing state and once the environment is ready, select the environment and find and click the URL to open the Customer Service Hub application.
+
+    ![](../images/module3/setup/5.png)
+    
+    ![](../images/module3/setup/6.png)
+    
+    ![](../images/module3/setup/7.png)
+ 
+7. Let it be open to perform the remaining exercises.
 
 ## Instructions
 
