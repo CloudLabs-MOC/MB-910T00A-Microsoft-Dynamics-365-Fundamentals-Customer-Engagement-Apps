@@ -74,17 +74,25 @@ In this exercise you will be creating a project and defining detailed related to
 
 1. With the Project Opportunity open, select the **Quotes** tab. 
 
+  ![](../images/module5/lab3/1.png)
+  
 2. On the Quotes sub-grid, select the **New Quote** button.
+
+  ![](../images/module5/lab3/2.png)
 
 3. After the new quote record open, set the **Product Price List** field on the quote to **US Bill Rates**. 
 
-4. Select the **Quote Lines** Tab.
+  ![](../images/module5/lab3/2-1.png)
 
-5. Select and open the **System Implementation** line item. 
+4. Select the **Quote Lines** Tab. Select and open the **System Implementation** line item. 
 
-6. In the **Project** field, select **New Project.** 
+ ![](../images/module5/lab3/3.png)
 
-7. On the **Quick Create Project** screen, complete the project as follows:
+5. In the **Project** field, select **New Project.** 
+
+ ![](../images/module5/lab3/4.png)
+
+6. On the **Quick Create Project** screen, complete the project as follows:
 
 	- **Name:** Complete Global Implementation – Your Initials
 
@@ -94,27 +102,35 @@ In this exercise you will be creating a project and defining detailed related to
 
 	- **Contracting Unit:** Fabrikam US
 
+        ![](../images/module5/lab3/5.png)
+	
+	![](../images/module5/lab3/5-1.png)
+	
+	![](../images/module5/lab3/5-2.png)
+
 	- **Estimated Start Date:** One week from today
 
 	- **Estimated Labor Cost:** $ 175,000
 
 	- **Estimated Expense Cost:** $ 50,000
 
-	- **Estimated Total Cost:** $ 225,000
+	- **Estimated Total Cost:** $ 225,000  
+	
+	>**Note**: The estimated cost will be automatically shown when you select save and close button.
 
-8. Select **Save and Close** button.
+7. Select **Save and Close** button.
 
-9. Next, we will define the if we can charge for specific roles that are assigned to the project. Select the **Chargeable Roles** tab.
+8. Next, we will define the if we can charge for specific roles that are assigned to the project. Select the **Chargeable Roles** tab.
 
-10. Select and open the **Robotics Engineer** role and set the billing type to Non-Chargeable.
+9. Select and open the **Robotics Engineer** role and set the billing type to Non-Chargeable.
 
-11. On the **Command Bar**, select the **Save and Close** button.
+10. On the **Command Bar**, select the **Save and Close** button.
 
-12. Select the **Quote Line Details** tab.
+11. Select the **Quote Line Details** tab.
 
-13. On the sub-grid, select the **New Quote Line Detail** button.
+12. On the sub-grid, select the **New Quote Line Detail** button.
 
-14. Complete the **Quote line detail** item as follows:
+13. Complete the **Quote line detail** item as follows:
 
 	- **Description:** Communication Line Run – Your Initials
 
@@ -133,9 +149,9 @@ In this exercise you will be creating a project and defining detailed related to
 	- **Unit:** Hour
 
 
-15. Select the **Save and Close** button to close the line detail item. 
+14. Select the **Save and Close** button to close the line detail item. 
 
-16. On the **Command Bar**, select the **Save and Close** button. 
+15. On the **Command Bar**, select the **Save and Close** button. 
 
 
 **Note:** Leave the Project Quote open so it can be used in the next task. 
