@@ -98,7 +98,7 @@ During this exercise you will see that it is very easy to create customer segmen
 
     ![](../images/module1/lab5/6.png)
 
-1. Select the **Name** field at the top of the query and enter **Chicago Contacts - Your initials**.
+1. Select the **Name** field at the top of the query and enter **Chicago Contacts - DeploymentID**.
 
 1. Select **Save** on the command bar to save your segment.
 
