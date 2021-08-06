@@ -106,7 +106,7 @@ In this exercise you will be creating a project and defining detailed related to
 
 	- **Estimated Expense Cost:** $ 50,000
 
-	- **Estimated Total Cost:** $ 225,000  
+	- **Estimated Total Cost:** $ 225,000 (will not have the option to enter but will be generated automatically once saved) 
 	
 	>**Note**: The estimated cost will be automatically shown when you select save and close button.
 
