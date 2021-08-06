@@ -1,8 +1,3 @@
----
-lab:
-    title: 'Lab 5.3: Dynamics 365 Project Operations capstone lab'
-    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
----
 
 Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
 ========================
@@ -94,19 +89,16 @@ In this exercise you will be creating a project and defining detailed related to
 
 6. On the **Quick Create Project** screen, complete the project as follows:
 
-	- **Name:** Complete Global Implementation – Your Initials
+	- **Name:** Complete Global Implementation – DeploymentID
 
 	- **Project Manager:** Select you user record
 
 	- **Calendar template:** Default Work Template
 
-	- **Contracting Unit:** Fabrikam US
-
-        ![](../images/module5/lab3/5.png)
-	
-	![](../images/module5/lab3/5-1.png)
-	
-	![](../images/module5/lab3/5-2.png)
+	- **Contracting Unit:** Fabrikam US (Create New and you will be asked to exit and come back to create the project again)
+           ![](../images/module5/lab3/5.png)
+	   ![](../images/module5/lab3/5-1.png)
+	   ![](../images/module5/lab3/5-2.png)
 
 	- **Estimated Start Date:** One week from today
 
