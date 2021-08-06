@@ -111,3 +111,5 @@ During this exercise you will see that it is very easy to create customer segmen
 1. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
 
 1. You should now see that a **Members** tab has been added. Jackson Anderson is listed.
+
+    ![](../images/module1/lab5/9.png)
