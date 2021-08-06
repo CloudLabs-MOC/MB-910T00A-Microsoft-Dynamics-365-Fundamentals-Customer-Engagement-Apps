@@ -112,6 +112,8 @@ In this exercise you will be creating a project and defining detailed related to
 
 7. Select **Save and Close** button.
 
+    ![](../images/module5/lab3/5-2.png)
+
 8. Next, we will define the if we can charge for specific roles that are assigned to the project. Select the **Chargeable Roles** tab.
 
 9. Select and open the **Robotics Engineer** role and set the billing type to Non-Chargeable.
@@ -154,13 +156,11 @@ In this exercise you will be creating a project and defining detailed related to
 In this task you will be closing the project quote that you created and converting it into a project contract. The Project Contract can be used and leveraged while the project is being executed. 
 
 
-1. With the **Complete Global Security Implementation – Your Initials** Project Quote record open, select the **Close as Won** button on the Command Bar. 
+1. With the **Complete Global Security Implementation – DeploymentID** Project Quote record open, select the **Close as Won** button on the Command Bar. 
 
 2. On the **Are you sure you want to close the quote** screen, select **OK**.
 
 3. Once the quote is closed, the newly created **Complete Global Security Implementation – Your Initials** Project Contact will be displayed. 
-
- 
 
 **Note:** Leave the Project Contact open so it can be used in the next task. 
 
