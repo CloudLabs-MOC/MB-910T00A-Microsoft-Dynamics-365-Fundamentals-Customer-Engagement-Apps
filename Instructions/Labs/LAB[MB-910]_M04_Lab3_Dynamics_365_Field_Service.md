@@ -173,26 +173,8 @@ Both of your newly created work orders are ready to be scheduled.
 
 4. At the bottom of the screen in the requirements panel, select **Unscheduled Work Orders**.  (If the requirements panel is not displayed, select the arrow at the bottom of the screen to expand it.) 
 
-5. Locate the **Munson's Pickles** Work Order you created from the case record. (Remember the work order number). 
+5. Locate the **Adventures** Work Order you created from the case record. (Remember the work order number). 
 
-6. Drag the **Munson's Pickles** record and place it at an open slot for Aiden's contact record. 
+6. Drag the **Adventures** record and place it at an open slot between 9 AM and 11 AM for Aidan's contact record. 
 
-7. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
-
-### Task 2: Schedule with the Schedule Board
-
-1. Using the left navigation, select **Schedule Board**.
-
-2. Using the **Search resources** lookup field, enter the name of your user account. (Your resource record should be displayed.)
-
-3. At the bottom of the screen in the requirements panel, select **Unscheduled Work Orders**.  (If the requirements panel is not displayed, select the arrow at the bottom of the screen to expand it.) 
-
-4. Locate the **Active Transport** Work Order you created from the case record. (Remember the work order number). 
-
-5. Drag the **Active Transport** record and place it at an open slot for your user record. The text will be green if the time slot matches the customer's preferred time slot.
-
-6. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board. 
-
-7. Select in search resources box on the schedule board (Located right above the resource name column), enter **Brady** and locate the work order that is scheduled for **Brady Hannon** later today. 
-
-8. **Right-click** on the scheduled item. From the menu that appears, select **Substitute Resource**. Select the Select/Search box, select your resource record, and select **Re-assign**
+7. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board.
