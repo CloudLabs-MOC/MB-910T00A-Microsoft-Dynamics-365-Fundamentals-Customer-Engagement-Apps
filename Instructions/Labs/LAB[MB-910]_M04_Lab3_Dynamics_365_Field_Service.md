@@ -149,8 +149,6 @@ We will come back to your created case record later. Next, let’s examine how t
 
 Another way to generate work orders is by escalating case records. In this example, we will escalate the Camera Down case record we created earlier. 
 
- 
-
 1. Using the left navigation, select **Cases**. 
 
 2. Open the **Camera Down** case you created earlier. 
@@ -167,6 +165,8 @@ Both of your newly created work orders are ready to be scheduled.
 
 1. Using the left navigation, select **Schedule Board**.
 
+    ![](../images/module4/lab3/new/1.png)
+
 2. In the upper right-hand corner of the screen, set the **New Schedule Board** experience to **ON**. 
 
 3. Using the **Search resources** lookup field, enter Aidan Knaggs. 
@@ -175,6 +175,10 @@ Both of your newly created work orders are ready to be scheduled.
 
 5. Locate the **Adventures** Work Order you created from the case record. (Remember the work order number). 
 
-6. Drag the **Adventures** record and place it at an open slot between 9 AM and 11 AM for Aidan's contact record. 
+    ![](../images/module4/lab3/new/2.png)
+
+6. Drag the **Adventures** record and place it at an open slot between 9 AM and 11 AM for Aidan's contact record.
+
+    ![](../images/module4/lab3/new/3.png)
 
 7. At times, you may need to reschedule a work order based on technician conflicts or other items. This can be easily done by dispatchers leveraging the schedule board.
