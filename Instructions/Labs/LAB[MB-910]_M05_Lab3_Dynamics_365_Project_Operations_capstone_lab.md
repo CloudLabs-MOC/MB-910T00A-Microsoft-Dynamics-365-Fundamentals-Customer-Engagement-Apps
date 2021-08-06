@@ -120,7 +120,11 @@ In this exercise you will be creating a project and defining detailed related to
 
 10. On the **Command Bar**, select the **Save and Close** button.
 
+    ![](../images/module5/lab3/6.png)
+
 11. Select the **Quote Line Details** tab.
+
+    ![](../images/module5/lab3/7.png)
 
 12. On the sub-grid, select the **New Quote Line Detail** button.
 
@@ -142,11 +146,15 @@ In this exercise you will be creating a project and defining detailed related to
 
 	- **Unit:** Hour
 
+    ![](../images/module5/lab3/7.png)
 
 14. Select the **Save and Close** button to close the line detail item. 
 
+    ![](../images/module5/lab3/8.png)
+
 15. On the **Command Bar**, select the **Save and Close** button. 
 
+    ![](../images/module5/lab3/9.png)
 
 **Note:** Leave the Project Quote open so it can be used in the next task. 
 
@@ -155,12 +163,13 @@ In this exercise you will be creating a project and defining detailed related to
 
 In this task you will be closing the project quote that you created and converting it into a project contract. The Project Contract can be used and leveraged while the project is being executed. 
 
+1. With the **Complete Global Implementation – DeploymentID** Project Quote record open, select the **Close as Won** button on the Command Bar. 
 
-1. With the **Complete Global Security Implementation – DeploymentID** Project Quote record open, select the **Close as Won** button on the Command Bar. 
+    ![](../images/module5/lab3/task2-1.png)
 
 2. On the **Are you sure you want to close the quote** screen, select **OK**.
 
-3. Once the quote is closed, the newly created **Complete Global Security Implementation – Your Initials** Project Contact will be displayed. 
+3. Once the quote is closed, the newly created **Complete Global Implementation – DeploymentID** Project Contact will be displayed. 
 
 **Note:** Leave the Project Contact open so it can be used in the next task. 
 
@@ -173,11 +182,11 @@ In this exercise, you will be managing some of the initial tasks related to a pr
 
 ### Task 1: Manage basic project data. 
 
-1. With the **Complete Global Security Implementation- Your Initials** Project Contract open, select the **Related** tab. 
+1. With the **Complete Global Implementation - DeploymentID** Project Contract open, select the **Related** tab. 
 
 2. From the menu that appears, select **Projects.**
 
-3. Open the **Global Security Implementation – Your Initials** Project. 
+3. Open the **Complete Global Implementation - DeploymentID** Project. 
 
 4. On the **Project Service** Business Process Flow, select the **New** Stage, and select the **Next Stage** button to advance to the **Quote** stage. 
 
