@@ -114,13 +114,15 @@ Upon completion of the lab, you will have completed the following:
 
 23. Repeat the process for the remaining sections or other elements in the message.
 
-24. Before we make the email live, we will check it for errors. On the **Command Bar**, select the **Check for Errors** button. 
+24. We will not be performing the following steps as it need a authenticated domain to send emails.
 
-25. Once you have verified that there are no errors, on the **Command Bar**, select the **Go Live** button. 
+25. Before we make the email live, we can check if any errors are present by clicking on the **Check for Errors** button present On the **Command Bar**. But since this is for testing purpose, we wil not doing it.
 
-26. Select the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
+26. Once you have verified that there are no errors, we can go live by clicking on **Go Live** button present on the command bar. But since this is for testing purpose, we wil not doing it.
 
-27. If you have used the same email address for both contacts you will receive a **Duplicate records found** alert. Choose **Ignore and save**.
+27. Select the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
+
+28. If you have used the same email address for both contacts you will receive a **Duplicate records found** alert. Choose **Ignore and save**.
 
 ## Exercise 2: Create a Segment in Dynamics 365 Marketing
 
@@ -134,7 +136,7 @@ Upon completion of the lab, you will have completed the following:
 
 	- **First Name**: Piper 
 
-	- **Last Name**: Smith – Your Initials
+	- **Last Name**: Smith – DeploymentID
 
 	- **Email**: Enter an email address that you can receive mail from.
 
@@ -145,6 +147,8 @@ Upon completion of the lab, you will have completed the following:
 	- **Address 1 State:** WA
 
 	- **Address 1 Zip/Postal:** 98001
+
+	- **Country/Region:** United States
 
 4. Once you have completed the contact, select **Save &amp; Close**.
 
@@ -168,6 +172,8 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Address 1 Zip/Postal:** 98001
 
+	- **Country/Region:** United States
+
 **NOTE:** We are using the same address information, to make it easy to recognize the contacts as sample data. 
 
 ### Task 2: Create a Customer Segment
@@ -184,7 +190,7 @@ Creating a customer segment will let us define the customers that we want to tar
 
 5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
 
-6. In the **Name** field enter **Seattle Customers – Your Initials**. 
+6. In the **Name** field enter **Seattle Customers – DeploymentID**. 
 
 7. In the segment definition window, select **Add query block**.
 
@@ -218,7 +224,7 @@ Now that we have successfully created your segment, let’s verify the dynamics 
 
 	- **First Name**: Rick
 
-	- **Last Name**: Jones – Your Initials
+	- **Last Name**: Jones – DeploymentID
 
 	- **Email**: Enter an email address that you can receive mail from.
 
@@ -234,9 +240,9 @@ Now that we have successfully created your segment, let’s verify the dynamics 
 
 5. Using the navigation on the left, select **Segments** under the **Customers** group. 
 
-6. Open the **Seattle Customers – Your Initials** segment you created earlier. 
+6. Open the **Seattle Customers – DeploymentID** segment you created earlier. 
 
-7. Select the **Members** tab. Notice that **Rick Jones – Your Initials** should now be present. You may need to refresh the view.
+7. Select the **Members** tab. Notice that **Rick Jones – DeploymentID** should now be present. You may need to refresh the view.
 
 **IMPORTANT:** Since we are working a shared environment and everyone is working in the same system, you will likely see other Contacts in the Dynamic Marketing segment as well. That is OK for purposes of this course. 
 
@@ -258,7 +264,7 @@ Now that we have created the marketing content that we want to deliver and defin
 
 7. On the design canvas, move your cursor between **Start** and **End**. Select the **+** sign, from the menu that appears, select **Send an email**.
 
-8. Enter the text **Home** and select the **Home Security – Your Initials** marketing email message you created in Exercise 1. 
+8. Enter the text **Home** and select the **Home Security – DeploymentID** marketing email message you created in Exercise 1. 
 
 9. Move your cursor after the Send an email action. Select the **+** sign, from the menu that appears, select **If/Then**.
 
