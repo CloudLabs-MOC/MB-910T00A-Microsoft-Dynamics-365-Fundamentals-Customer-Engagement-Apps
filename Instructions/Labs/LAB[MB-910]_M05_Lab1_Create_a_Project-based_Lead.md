@@ -66,13 +66,13 @@ Upon completion of the lab, you will have completed the following:
 
     ![](../images/module5/setup/4.png)
 
-6. A field will appear under environemnts with name customer and it will be in preparing state and once the environment is ready, select the environment and find and click the URL to open the Customer Service Hub application.
+6. A field will appear under environments with name customer and it will be in preparing state and once the environment is ready, select the environment and find and click the URL to open the Project operations application.
 
-    ![](../images/module3/setup/5.png)
+    ![](../images/module5/lab1/new/1.png)
     
-    ![](../images/module3/setup/6.png)
+    ![](../images/module5/lab1/new/2.png)
     
-    ![](../images/module3/setup/7.png)
+    ![](../images/module5/lab1/new/3.png)
  
 7. Let it be open to perform the remaining exercises.
 
