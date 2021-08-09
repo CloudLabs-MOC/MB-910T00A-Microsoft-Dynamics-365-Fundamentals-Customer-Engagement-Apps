@@ -86,9 +86,7 @@ Upon completion of the lab, you will have completed the following:
 
 1. When prompted, log in with the user credentials provided to you by the instructor. 
 
-2. From the list of applications that appears, select **Project Service**.
-
-    ![](../images/module5/lab1/1.png)
+2. Open **Project Service**.
 
 3. Using the navigation on the left side of the screen, select the **Sales** Area. 
 
