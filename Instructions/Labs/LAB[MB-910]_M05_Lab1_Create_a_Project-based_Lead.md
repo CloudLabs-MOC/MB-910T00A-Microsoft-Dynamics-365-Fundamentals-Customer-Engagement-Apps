@@ -99,19 +99,19 @@ Upon completion of the lab, you will have completed the following:
 
 6. Complete your new lead record as follows:
 
-	- **Topic:** Complete Global Implementation – Your Initials
+	- **Topic:** Complete Global Implementation – DeploymentID
 
 	- **Type:** Work based
 
 	- **First Name:** Jean
 
-	- **Last Name:** Anderson - Your Initials
+	- **Last Name:** Anderson - DeploymentID
 
 	- **Business Phone:** 888 555-8855
 
 	- **Email:** jean@sample.com
 
-	- **Company:** Consolidated Sample – Your Initials
+	- **Company:** Consolidated Sample – DeploymentID
 
 	- **Street 1:** 219 91<sup data-htmlnode="">st</sup> Ave N
 
@@ -152,7 +152,7 @@ Upon completion of the lab, you will have completed the following:
 
 16. On Quick Create Phone Call Screen, complete the phone call as follows:
 
-	- **Subject:** Initial Qualification Call – Your Initials  
+	- **Subject:** Initial Qualification Call – DeploymentID
 
 	- **Phone Number:** 888 555-8855
 
