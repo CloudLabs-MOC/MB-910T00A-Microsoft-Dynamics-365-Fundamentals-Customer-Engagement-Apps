@@ -73,6 +73,8 @@ Upon completion of the lab, you will have completed the following:
     ![](../images/module5/lab1/new/2.png)
     
     ![](../images/module5/lab1/new/3.png)
+    
+    ![](../images/module5/lab1/new/4.png)    
  
 7. Let it be open to perform the remaining exercises.
 
