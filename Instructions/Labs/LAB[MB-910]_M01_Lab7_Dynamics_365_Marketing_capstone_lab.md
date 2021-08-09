@@ -114,7 +114,7 @@ Upon completion of the lab, you will have completed the following:
 
 23. Repeat the process for the remaining sections or other elements in the message.
 
-24. We will not be performing the following steps as it need a authenticated domain to send emails.
+24. We will not be performing the following steps as it need a authenticated domain to send emails. Please read through the below four steps to just understand how the check for errors and go live functionality works.
 
 25. Before we make the email live, we can check if any errors are present by clicking on the **Check for Errors** button present On the **Command Bar**. But since this is for testing purpose, we wil not doing it.
 
@@ -131,6 +131,8 @@ Upon completion of the lab, you will have completed the following:
 1. Using the navigation on the left, select Contacts under the Customers Group
 
 2. On the command bar, select **New**.
+
+    ![](../images/module1/lab7/new2/1.png)
 
 3. Complete the **New Contact** page as follows.
 
@@ -151,6 +153,8 @@ Upon completion of the lab, you will have completed the following:
 	- **Country/Region:** United States
 
 4. Once you have completed the contact, select **Save &amp; Close**.
+
+    ![](../images/module1/lab7/new2/2.png)
 
 5. Next, we will have you add yourself as a contact, so you have multiple people to work with. 
 
@@ -184,33 +188,55 @@ Creating a customer segment will let us define the customers that we want to tar
 
 2. On the command bar, select **New**.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-1.png)
+
 3. Since we had the membership to change as contacts are added, removed, or edited, we will select **New Dynamic Segment** from the menu that appears. 
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-2.png)
 
 4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-3.png)
+
 5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-4.png)
 
 6. In the **Name** field enter **Seattle Customers – DeploymentID**. 
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-5.png)
+
 7. In the segment definition window, select **Add query block**.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-6.png)
+
 8. Notice that the Contact table is selected by default. Do not Change it. 
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-7.png)
 
 9. Select the text **Select attribute**. 
 
 10. Enter the word City to filter the list. Choose **Address 1: City** from the list.
 
-11. Leave the next drop-down list set to **Equals**. 
+    ![](../images/module1/lab7/new2/ex-2-task-2-8.png)
+
+11. Leave the next drop-down list set to **Is**. 
 
 12. Select the third drop-down list, which contains the text **Enter text** and select **Seattle**.
 
 13. Select **Save** on the command bar to save your segment.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-9.png)
+
 14. Select **Go Live** to publish the segment.
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-10.png)
 
 15. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
 
 16. You should now see that a **Members** tab has been added.
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-11.png)
 
 ### Task 3: Test your Customer Segment
 
