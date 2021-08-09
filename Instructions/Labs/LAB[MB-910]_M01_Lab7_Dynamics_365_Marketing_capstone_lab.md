@@ -270,7 +270,7 @@ Now that we have created the marketing content that we want to deliver and defin
 
 10. In the **If/Then** area on the left side of the screen, under conditions select the **Select a source** field. 
 
-11. Select the **Home Security – Your Initials** segment. 
+11. Select the **Home Security – DeploymentID** segment. 
 
 12. Select the **Select a Condition** field. Choose **a link has been clicked**.
 
@@ -280,7 +280,7 @@ Now that we have created the marketing content that we want to deliver and defin
 
 15. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
 
-	- **Name**: Seattle Area Fall Promotion – Your Initials
+	- **Name**: Seattle Area Fall Promotion – DeploymentID
 
 	- **Start date and time**: Enter Todays Date
 
