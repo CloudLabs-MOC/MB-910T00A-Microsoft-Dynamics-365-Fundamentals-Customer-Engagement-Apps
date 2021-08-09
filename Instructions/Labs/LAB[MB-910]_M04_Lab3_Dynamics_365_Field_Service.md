@@ -1,5 +1,4 @@
-Module 4: Learn the Fundamentals of Dynamics 365 Field Service
-========================
+## Module 4: Learn the Fundamentals of Dynamics 365 Field Service
 
 ## Practice Lab 4.3 - Dynamics 365 Field Service capstone lab
 
