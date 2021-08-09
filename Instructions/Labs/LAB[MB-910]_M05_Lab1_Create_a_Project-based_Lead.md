@@ -1,5 +1,4 @@
-Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
-========================
+## Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
 
 ## Practice Lab 5.1: Create a Project-based Lead
 
