@@ -1,6 +1,4 @@
-
-Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
-========================
+## Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
 
 ## Practice Lab 5.3 - Dynamics 365 Project Operations capstone lab
 
@@ -75,10 +73,24 @@ In this exercise you will be creating a project and defining detailed related to
 
   ![](../images/module5/lab3/2.png)
 
-3. After the new quote record open, set the **Product Price List** field on the quote to **US Bill Rates**. 
-
-  ![](../images/module5/lab3/2-1.png)
-
+3. After the new quote record open, set the **Project Price List** field on the quote to **US Bill Rates**. For this we need to follow the below steps to create a new price list and add that to the project price list and then add the quote. 
+  
+  i)  Navigate to **Project Price Lists** and then click on **Add New Project Price Lists**
+     ![](../images/module5/lab3/new/1.png)
+  
+  ii) Click on **New Price List** and will ask to leave the page and select **OK**.
+     ![](../images/module5/lab3/new/2.png)
+     ![](../images/module5/lab3/new/3.png)
+  
+  iii)Add a new Price list with name **US Bill Rates** and click **Save and Close** 
+     ![](../images/module5/lab3/2-1.png)
+  
+  iv) Now navigate back to Quotes and click on **Project Price Lists** tab and then  click on **Add New Project Price Lists**.
+     ![](../images/module5/lab3/new/4-1.png)
+     ![](../images/module5/lab3/new/4-2.png)
+  v) Add the Price List **US Bill Rates** and Click on **Save and Close**.
+     ![](../images/module5/lab3/new/4.png)
+ 
 4. Select the **Quote Lines** Tab. Select and open the **System Implementation** line item. 
 
  ![](../images/module5/lab3/3.png)
