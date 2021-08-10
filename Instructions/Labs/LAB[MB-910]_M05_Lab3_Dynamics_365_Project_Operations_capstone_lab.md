@@ -266,27 +266,27 @@ Each project will have a team of members that will assist in the execution of th
 Another important part of defining a project is to define the project tasks and schedule for the project. In this task we are adding some project tasks and associating them will different roles. 
 
 
-1. With the **Complete Global Security Implementation – Your Initials** project open, select the **Schedule** tab. 
+1. With the **Complete Global Implementation – DeploymentID** project open, select the **tasks** tab. 
 
-2. On the toolbar in the schedule sub-grid, select the **+ Add** button. 
+2. On the toolbar in the Tasks sub-grid, select the **+ Add new task** button. 
 
 3. In the row that appears, set the **Name** field to **System Development**.
 
-4. On the toolbar in the schedule sub-grid, select the **+ Add** button again to add another item. 
+4. On the toolbar in the tasks sub-grid, select the **+ Add new task** button again to add another item. 
 
 5. Configure the Item as follows:
 
 	- **Name:** Create System Layout
 
-	- **Effort:** 25
+	- **Duration:** 25
 
-6. On the toolbar in the schedule sub-grid, select the **+ Add button** again to add another task. 
+6. On the toolbar in the tasks sub-grid, select the **+ Add new task** button again to add another item. 
 
 7. Configure the Item as follows:
 
 	- **Name:** Design Cameras
 
-	- **Predecessor:** Create System Layout
+	- **Depends on** Create System Layout (click on add column and then add the parameter depends on to enter this field)
 
 	- **Effort:** 50
 
@@ -296,7 +296,7 @@ Another important part of defining a project is to define the project tasks and 
 
 	- **Name:** Verify and Approve design
 
-	- **Predecessor:** Design Cameras
+	- **Depends on** Design Cameras
 
 	- Effort: 8 
 
@@ -308,42 +308,25 @@ Another important part of defining a project is to define the project tasks and 
 
 As part of defining a project schedule, you can specify the types of resources that will be used to fill the staffing requirements. These can be actual named resources, or generic resources that will be replaced by named resources in the future. In this task you will be defining both named and generic resources for the project tasks you created. 
 
-1. If necessary, open the **Complete Global Security Implementation – Your Initials** project, and select the **Schedule** tab. 
+1. If necessary, open the **Complete Global Implementation – DeploymentID** project, and select the **Tasks** tab. 
 
-2. Locate the **Create System Layout** task you added earlier and select in the **Resources** field. 
+2. Locate the **Create System Layout** task you added earlier and select in the **Assigned to** field. 
 
-3. From the menu that appears, select **Create**. 
+3. Select the Project Team Member as follows
 
-4. Configure the Project Team Member as follows
-
-	- **Position Name:** Generic Robotics Engineer – Your Initials
-
-	- **Bookable Resource:** Generic Resource
+	- **Bookable Resource:** Allison Dickson
 
 	- **Role:** Robotics Engineer
 
-5. Select the **Save and Close** button. 
+4. Locate the **Design Cameras** task and select the **Assigned to** field. 
 
-6. Verify that **Generic Robotics Engineer – Your Initials** resources has been added to Resources field. 
+5. Configure the Project team Member as follows:
 
-7. Locate the **Design Cameras** task and select the **Resources** field. 
-
-8. From the menu that appears, select **Create**. 
-
-9. Configure the Project team Member as follows:
-
-	- **Position Name:** Generic Robotics Engineer – Your Initials
-
-	- **Bookable Resource:** Generic Resource
+	- **Bookable Resource:** Allison Dickson
 
 	- **Role:** Robotics Engineer
 
-10. Select the **Save and Close** button. 
-
-11. Locate the **Verify and Approve Design** task and select **Resources** field. 
-
-12. From the menu that appears, select **Allison Dickson**. 
-
+6. Select the **Save and Close** button. 
 
 Congratulations, you have successfully sold and created a project in Dynamics 365 Project Operations. For here Project Managers, can manage different aspects of the project such as scheduling resources, monitoring the project schedule, and managing time and expenses. 
 
