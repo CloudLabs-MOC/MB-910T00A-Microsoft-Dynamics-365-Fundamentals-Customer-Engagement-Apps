@@ -190,6 +190,8 @@ In this task you will be closing the project quote that you created and converti
 2. On the **Are you sure you want to close the quote** screen, select **OK**.
 
     ![](../images/module5/lab3/task2-2.png)
+    
+    ![](../images/module5/lab3/new/6.png)
 
 3. Once the quote is closed, the newly created **Complete Global Implementation – DeploymentID** Project Contract will be displayed. Navigate to Project Contracts to see it.
 
