@@ -12,7 +12,7 @@ Exercise 1 - Access the Dynamics 365
 
 2. In the lab environment, navigate to environment details page as shown in the below image and use the given user credentials to login into dynamics 365. Use the button next to the user details to copy the values.
 
-    ![](../images/module1/lab1/2.png)
+    ![](../images/intro-1.png)
 
 3. After logged in, click on the products tab from the top navigation pane and from the options find marketing and click on it to open the marketing portal. Refer below screenshot for reference.
 
