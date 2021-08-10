@@ -1,5 +1,4 @@
-Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
-========================
+## Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 ## Practice Lab 3.1 - Create and publish a Knowlege Article in Dynamics 365 Customer Service
 
@@ -7,7 +6,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 ## Setup the lab environment
 
-1. Once logged into https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
+1. Open the browser in your virtual machine and navigate and login to https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
 
     ![](../images/intro-1.png)
 
