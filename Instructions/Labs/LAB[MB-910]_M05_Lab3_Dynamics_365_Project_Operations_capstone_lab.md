@@ -128,7 +128,15 @@ In this exercise you will be creating a project and defining detailed related to
 
 8. Next, we will define the if we can charge for specific roles that are assigned to the project. Select the **Chargeable Roles** tab.
 
-9. Select and open the **Robotics Engineer** role and set the billing type to Non-Chargeable.
+9. Select and open the **Robotics Engineer** role and set the billing type to Non-Chargeable. But we need to add the roles for the project.
+
+   i) Change the area and select **Resources**.
+     ![](../images/module5/lab3/new/5.png)
+   ii)Select Roles from the left pane navigation and select **New**
+     ![](../images/module5/lab3/new/5-1.png)
+   iii)Add role **Robotics Engineer** and change billing type to **Chargeable**. then click **Save and close**
+     ![](../images/module5/lab3/new/5-2.png)
+   iv) Similarly add roles - **Network Technician** , **Software Engineer**
 
 10. On the **Command Bar**, select the **Save and Close** button.
 
