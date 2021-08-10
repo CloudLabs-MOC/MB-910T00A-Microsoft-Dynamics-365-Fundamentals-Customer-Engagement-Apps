@@ -322,6 +322,8 @@ Another important part of defining a project is to define the project tasks and 
 
 2. On the toolbar in the Tasks sub-grid, select the **+ Add new task** button. 
 
+    ![](../images/module5/lab3/ex2task3/1-3.png)
+
 3. In the row that appears, set the **Name** field to **System Development**.
 
 4. On the toolbar in the tasks sub-grid, select the **+ Add new task** button again to add another item. 
@@ -338,7 +340,11 @@ Another important part of defining a project is to define the project tasks and 
 
 	- **Name:** Design Cameras
 
-	- **Depends on** Create System Layout (click on add column and then add the parameter depends on to enter this field)
+	- **Depends on** Create System Layout (click on add column and then add the parameter **Depends on** to enter this field)
+	    ![](../images/module5/lab3/ex2task3/1.png)
+	    click on the tab corresponding to this task and select Create System Layout
+	    ![](../images/module5/lab3/ex2task3/1-1.png)
+	    ![](../images/module5/lab3/ex2task3/1-2.png)
 
 	- **Effort:** 50
 
@@ -370,6 +376,8 @@ As part of defining a project schedule, you can specify the types of resources t
 
 	- **Role:** Robotics Engineer
 
+    ![](../images/module5/lab3/ex2task3/2.png)
+
 4. Locate the **Design Cameras** task and select the **Assigned to** field. 
 
 5. Configure the Project team Member as follows:
@@ -378,7 +386,13 @@ As part of defining a project schedule, you can specify the types of resources t
 
 	- **Role:** Robotics Engineer
 
-6. Select the **Save and Close** button. 
+6. Select the **Save and Close** button.
+
+    ![](../images/module5/lab3/ex2task3/3.png)
+
+7. You can see the assignments or schedules under resource assignments.
+
+    ![](../images/module5/lab3/ex2task3/4.png)
 
 Congratulations, you have successfully sold and created a project in Dynamics 365 Project Operations. For here Project Managers, can manage different aspects of the project such as scheduling resources, monitoring the project schedule, and managing time and expenses. 
 
