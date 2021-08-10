@@ -212,49 +212,101 @@ In this exercise, you will be managing some of the initial tasks related to a pr
 
 2. From the menu that appears, select **Projects.**
 
+    ![](../images/module5/lab3/ex2task1/1.png)
+
 3. Open the **Complete Global Implementation - DeploymentID** Project. 
 
+    ![](../images/module5/lab3/ex2task1/2.png)
+
 4. On the **Project Service** Business Process Flow, select the **New** Stage, and select the **Next Stage** button to advance to the **Quote** stage. 
+
+    ![](../images/module5/lab3/ex2task1/3.png)
 
 5. In the **Quote** stage, set the **Estimated Finish Date** field to **six months from today**. 
 
 6. Select the **Next Stage** button to advance to the **Plan** stage. 
+
+    ![](../images/module5/lab3/ex2task1/4.png)
 
  
 ### Task 2: Create a Project Team.
 
 Each project will have a team of members that will assist in the execution of the project. In this task we will be defining the resources that will make up the project team members. 
 
+## SubTask 1: Add Contacts and Resources
+1. Change area to **Sales** and navigate to **Contacts** from left-pane navigation
+
+    ![](../images/module5/lab3/ex2task2/2.png)
+    
+    ![](../images/module5/lab3/ex2task2/3.png)
+    
+2. Add new contact , enter **Allison Dickson - DeploymentID**. enter first name as allison and last name as Dickson - DeploymentID and account name set as consolidated sample - deployment ID.
+
+    ![](../images/module5/lab3/ex2task2/4.png)
+
+3. Similarly enter the following contacts - Bob Kozak - DeploymentID , Dianna Woodward - DeploymentID and after creating them will see the contact list as below.
+
+    ![](../images/module5/lab3/ex2task2/5.png)
+    
+4. Add these contacts as resources, change area to Resources and click on resources from left pan navigation and click on **+ New**.
+
+    ![](../images/module5/lab3/ex2task2/7.png)
+    
+5. **New Bookable Resource** tab will open and need to enter the following to add a resource.
+
+	- **Resource Type:** Contact
+
+	- **Contact:** Allison Dickson - DeploymentID
+
+	- **Name:** will generate automatically 
+
+	-  **Time Zone:** Leave default
+
+    ![](../images/module5/lab3/ex2task2/8.png)
+
+6. Similarly add the following resources for Bob Kozak - DeploymentID , Dianna Woodward - DeploymentID and after creating them will see the resource list as below.
+
+    ![](../images/module5/lab3/ex2task2/9.png)
+
+## SubTask 2: Add resources
  
-1. With the **Complete Global Security Implementation – Your Initials** project record open, select the **Team** tab
+1. With the **Complete Global Security Implementation – DeploymentID** project record open, select the **Team** tab
+
+    ![](../images/module5/lab3/ex2task2/1.png)
 
 2. On the **All Team Members** sub-grid, select the **+ New** button.
 
+    ![](../images/module5/lab3/ex2task2/6.png)
+
 3. Configure the team member record as follows:
 
-	- **Position Name:** Robotics Engineer – Your Initials
+	- **Position Name:** Robotics Engineer – DeploymentID
 
-	- **Bookable Resource:** Allison Dickson
+	- **Bookable Resource:** Allison Dickson – DeploymentID
 
 	- **Role:** Robotics Engineer
 
 4. Select the arrow next to the Save and Close button. From the menu that appears, select **Save and Create New.**
 
+    ![](../images/module5/lab3/ex2task2/10.png)
+
 5. Configure the next team member record as follows:
 
-	- **Position Name:** Software Engineer – Your Initials
+	- **Position Name:** Software Engineer – DeploymentID
 
-	- **Bookable Resource:** Bob Kozak
+	- **Bookable Resource:** Bob Kozak – DeploymentID
 
 	- **Role:** Software Engineer
 
 6. Select the arrow next to the Save and Close button. From the menu that appears, select **Save and Create New.**
 
+    ![](../images/module5/lab3/ex2task2/11.png)
+
 7. Configure the team member record as follows:
 
-	- **Position Name:** Network Technician – Your Initials
+	- **Position Name:** Network Technician – DeploymentID
 
-	- **Bookable Resource:** Dianna Woodward
+	- **Bookable Resource:** Dianna Woodward – DeploymentID
 
 	- **Role:** Network Technician
 
