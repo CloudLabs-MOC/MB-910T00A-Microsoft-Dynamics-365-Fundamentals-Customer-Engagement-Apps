@@ -9,6 +9,8 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 1. Once logged into https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
 
+    ![](../images/intro-1.png)
+
 2. Create a new environment by clicking on **+ New**
 
     ![](../images/module4/lab1/setup/1.png)
