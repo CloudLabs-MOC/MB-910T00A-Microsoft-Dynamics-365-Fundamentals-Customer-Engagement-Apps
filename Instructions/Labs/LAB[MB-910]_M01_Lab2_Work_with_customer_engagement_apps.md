@@ -20,7 +20,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 1. In the lab environment, navigate to environment details page as shown in the below image and use the given user credentials to login into dynamics 365. Use the button next to the user details to copy the values.
 
-    ![](../images/module1/lab1/2.png)
+    ![](../images/intro-1.png)
 
 1. After logged in, create environment for launching the sales portal , follow the below steps. Click on **Environments** and click on **+ New**
 
