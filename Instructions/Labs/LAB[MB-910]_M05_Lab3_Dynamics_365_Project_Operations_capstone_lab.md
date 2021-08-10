@@ -91,7 +91,7 @@ In this exercise you will be creating a project and defining detailed related to
   v) Add the Price List **US Bill Rates** and Click on **Save and Close**.
      ![](../images/module5/lab3/new/4.png)
  
-4. Select the **Quote Lines** Tab. Select and open the **System Implementation** line item. 
+4. Select the **Quote Lines** Tab. Select and open the **System Implementation** line item. (May need to double click to open it) 
 
  ![](../images/module5/lab3/3.png)
 
