@@ -1,5 +1,4 @@
-Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
-========================
+## Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
 
 ## Practice Lab 5.2 - Manage a Project-based Opportunity
 
@@ -86,9 +85,7 @@ Now that you have successfully created a project opportunity based on a project0
 
     ![](../images/module5/lab2/6.png)
 
-8. On the Sales Team sub-grid, select **New Connection**. (If you do not see the **New Connection** button, select the **Vertical Ellipsis**, and from the menu that appears select **New Connection**.) 
-
-    ![](../images/module5/lab2/7.png)
+8. On the Competitors sub-grid, select **Add Existing Competitors**. (If you do not see the **Add Existing Competitors** button, select the **Vertical Ellipsis**, and from the menu that appears select **Add Existing Competitors**.) 
     
     ![](../images/module5/lab2/8.png)
 
@@ -104,7 +101,7 @@ Now that you have successfully created a project opportunity based on a project0
 
 11. Select the **Save and Close** button.
 
-12. Select Coho Security record you just created in a previous exercise is selected, select the **Add** button. 
+12. Select Coho Security record you just created in a previous exercise (it should be automatically selected), select the **Add** button. 
 
     ![](../images/module5/lab2/8-4.png)
 
