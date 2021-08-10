@@ -82,7 +82,7 @@ In this exercise you will be creating a project and defining detailed related to
      ![](../images/module5/lab3/new/2.png)
      ![](../images/module5/lab3/new/3.png)
   
-  iii)Add a new Price list with name **US Bill Rates** and click **Save and Close** 
+  iii)IT will navigate to the price list creation section and then Add a new Price list with name **US Bill Rates** and click **Save and Close** 
      ![](../images/module5/lab3/2-1.png)
   
   iv) Now navigate back to Quotes and click on **Project Price Lists** tab and then  click on **Add New Project Price Lists**.
