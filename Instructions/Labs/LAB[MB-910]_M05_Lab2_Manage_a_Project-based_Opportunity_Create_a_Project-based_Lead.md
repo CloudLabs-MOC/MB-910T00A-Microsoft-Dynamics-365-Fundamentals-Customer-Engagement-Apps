@@ -125,7 +125,7 @@ Now that you have successfully created a project opportunity based on a project0
 
 	- **Product Type:** Project-based Service
 
-	- **Opportunity:** Complete Global Implementation - Your initials
+	- **Opportunity:** Complete Global Implementation - DeploymentID
 
 	- **Name:** System Development
 
