@@ -138,7 +138,7 @@ In this exercise you will be creating a project and defining detailed related to
 
 9. Select and open the **Robotics Engineer** role and set the billing type to Non-Chargeable.(in the image it is different role just change the robotics engineer to Non Chargeable)
 
-11. On the **Command Bar**, select the **Save and Close** button. 
+11. On the **Command Bar**, select the **Save** button. 
 
     ![](../images/module5/lab3/6.png)
 
@@ -150,7 +150,7 @@ In this exercise you will be creating a project and defining detailed related to
 
 13. Complete the **Quote line detail** item as follows:
 
-	- **Description:** Communication Line Run – Your Initials
+	- **Description:** Communication Line Run – DeploymentID
 
 	- **Transaction Class:** Time
 
