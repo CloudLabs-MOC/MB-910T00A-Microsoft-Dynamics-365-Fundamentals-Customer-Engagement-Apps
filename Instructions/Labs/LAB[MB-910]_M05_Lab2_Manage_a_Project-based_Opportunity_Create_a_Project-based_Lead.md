@@ -1,11 +1,4 @@
----
-lab:
-    title: 'Lab 5.2: Manage a Project-based Opportunity'
-    module: 'Module 5: Learn the Fundamentals of Dynamics 365 Project Operations'
----
-
-Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
-========================
+## Module 5: Learn the Fundamentals of Dynamics 365 Project Operations
 
 ## Practice Lab 5.2 - Manage a Project-based Opportunity
 
@@ -64,9 +57,15 @@ Now that you have successfully created a project opportunity based on a project0
 
 1. Using the navigation on the left side of the screen, select **Opportunities**. 
 
-2. From the list of My Open project Service Opportunities, Open the **Complete Global Security Implementation– Your Initials** opportunity that was created when you qualified the lead earlier. Notice the record is already in the **Develop** phase since it was created from a previously qualified Lead.  
+2. From the list of My Open project Service Opportunities, Open the **Complete Global Implementation– DeploymentID** opportunity that was created when you qualified the lead earlier. Notice the record is already in the **Develop** phase since it was created from a previously qualified Lead.
 
-3. On the **Complete Global Security Implementation – Your Initials** opportunity header at the top of the record, select the down arrow next to the owner field. 
+    ![](../images/module5/lab2/1.png)
+    
+    ![](../images/module5/lab2/2.png)
+
+3. On the **Complete Global Implementation – DeploymentID** opportunity header at the top of the record, select the down arrow next to the owner field. 
+
+    ![](../images/module5/lab2/3.png)
 
 4. Complete as follows:
 
@@ -74,41 +73,59 @@ Now that you have successfully created a project opportunity based on a project0
 
 	- **Est Revenue:** 250,000.00
 
+    ![](../images/module5/lab2/4.png)
+
 5. On the Lead to Opportunity business process flow, select the **Develop** Stage. Notice that you need to Identify Stakeholders and Competitors.
+
+    ![](../images/module5/lab2/5.png)
 
 6. Select the **X** on the stage window to close it so you can continue working. 
 
 7. In the **Stakeholders** sub-grid, notice **Jean** is already defined as a stakeholder. 
 
-8. On the Sales Team sub-grid, select **New Connection**. (If you do not see the **New Connection** button, select the **Vertical Ellipsis**, and from the menu that appears select **New Connection**.) 
+    ![](../images/module5/lab2/6.png)
 
-9. In the **Search** field, enter the text **System** and select  **System Administrator.** Once completed, select the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+8. On the Competitors sub-grid, select **Add Existing Competitors**. (If you do not see the **Add Existing Competitors** button, select the **Vertical Ellipsis**, and from the menu that appears select **Add Existing Competitors**.) 
+    
+    ![](../images/module5/lab2/8.png)
 
-10. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
+9. Search for and select **Coho Security.** (If Coho Security does not exist, select **New Record**, and then select **Competitors,**) 
 
-11. Search for and select **Coho Security.** (If Coho Security does not exist, select **New Record**, and then select **Competitors,** otherwise proceed to step 15**.**)  
+    ![](../images/module5/lab2/8-1.png)
+    
+    ![](../images/module5/lab2/8-2.png)
 
-12. In the Quick Create: **Competitor** screen, set the **Name** field to **Coho Security – “Your Initials”**.
+10. In the Quick Create: **Competitor** screen, set the **Name** field to **Coho Security – DeploymentID**.
 
-13. Select the **Save and Close** button.
+    ![](../images/module5/lab2/8-3.png)
 
-14. Select Coho Security record you just created in a previous exercise is selected, select the **Add** button. 
+11. Select the **Save and Close** button.
 
-15. Select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
+12. Select Coho Security record you just created in a previous exercise (it should be automatically selected), select the **Add** button. 
 
-16. Select the **Next Stage** button to advance to the **Propose** stage.
+    ![](../images/module5/lab2/8-4.png)
 
-17. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
+13. Select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 
-18. Select the **X** on the Propose stage to close the stage window. 
+    ![](../images/module5/lab2/9.png)
 
-19. On the opportunity record, select the **Opportunity Lines** tab.
+14. Select the **Next Stage** button to advance to the **Propose** stage.
 
-20. From the Project-based Lines sub-grid, select the Add New Opportunity Line button. Configure the new Opportunity Line item as follows:
+15. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
+
+16. Select the **X** on the Propose stage to close the stage window. 
+
+    ![](../images/module5/lab2/10.png)
+
+17. On the opportunity record, select the **Opportunity Lines** tab.
+
+    ![](../images/module5/lab2/11.png)
+
+18. From the Project-based Lines sub-grid, select the Add New Opportunity Line button. Configure the new Opportunity Line item as follows:
 
 	- **Product Type:** Project-based Service
 
-	- **Opportunity:** Complete Global Security Implementation - Your initials
+	- **Opportunity:** Complete Global Implementation - DeploymentID
 
 	- **Name:** System Development
 
@@ -116,14 +133,16 @@ Now that you have successfully created a project opportunity based on a project0
 
 	- **Billing Method:** Fixed Price
 
-21. Select **Save &amp; Close**
+19. Select **Save &amp; Close**
 
-22. From the **Project-based Lines** sub-grid, select the **Add New Opportunity Line** button again to add another line item.   
+    ![](../images/module5/lab2/12.png)
+
+20. From the **Project-based Lines** sub-grid, select the **Add New Opportunity Line** button again to add another line item.   
 ‎Configure the new Opportunity Line item as follows:
 
-	- **Product Type:** Project-based Service
+- **Product Type:** Project-based Service
 
-	- **Opportunity:** Complete Global Security Implementation - Your Initials
+	- **Opportunity:** Complete Global Implementation - DeploymentID
 
 	- **Name:** System Implementation 
 
@@ -131,4 +150,6 @@ Now that you have successfully created a project opportunity based on a project0
 
 	- **Billing Method:** Time and Material
 
-23. Select **Save &amp; Close**
+21. Select **Save &amp; Close**
+
+    ![](../images/module5/lab2/13.png)

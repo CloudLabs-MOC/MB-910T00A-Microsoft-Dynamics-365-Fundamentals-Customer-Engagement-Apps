@@ -1,11 +1,4 @@
----
-lab:
-    title: 'Lab 1.7: Dynamics 365 Marketing capstone lab'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
----
-
-Module 1: Learn the Fundamentals of Dynamics 365 Marketing
-========================
+## Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 
 ## Practice Lab 1.7 - Dynamics 365 Marketing capstone lab
 
@@ -71,53 +64,65 @@ Upon completion of the lab, you will have completed the following:
 
 3. To create a new marketing email, on the **Command Bar**, select **New**.
 
+    ![](../images/module1/lab7/new/5.png)
+
 4. From the list of **Marketing email Templates**, select **1 column newsletter**, and select the **Select** button.
+
+    ![](../images/module1/lab7/new/6.png)
 
 5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
 
-6. In the **Name** field enter **Home Security – Your Initials**. 
+6. In the **Name** field enter **Home Security – deploymentID**. 
+
+    ![](../images/module1/lab7/new/7.png)
 
 7. In the **Subject** field enter the text **Keep you family Safe**! You may need to scroll to the top of the Design page to reveal the Subject field.
 
-8. In the message window, locate and select the small image **above** the text a **Short headline goes here**. 
+    ![](../images/module1/lab7/new/8.png)
 
-9. In the Properties Pane, hover over and select the **Image gallery** button. 
+8. In the message window, locate and select the small image **above** the text a **Short headline goes here**. Here one can change the images as per there requirements, by clicking on the image and selecting the properties pane and select the image. For now we are not changing and following the next step.
 
-10. Select the **contosologo.png** image and select the **Select** button to insert into your email. 
+    ![](../images/module1/lab7/new/9.png)
 
-11. Use the size handles on the image to size the image to the desired size. 
+9. You can manage the size of by Using the size handles on the image to size the image to the desired size. 
 
-12. Select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
+10. Select the **A short headline goes here** box. Change the text to **Feel Safe 24/7**.
 
-13. Select the section below the text you just modified. 
+    ![](../images/module1/lab7/new/10-1.png)
 
-14. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
+11. Select the section below the text you just modified. 
 
-15. Select the **Image** just below the text you added. 
+12. Replace the text with the following text: Do you know what is always happening in and around your home? You and your family deserve to feel safe and secure whether you are home or away. The right security system can not only provide that sense of security but might also save you money on your insurance. 
 
-16. Select the **Image gallery** button. 
+    ![](../images/module1/lab7/new/11.png)
 
-17. Select the **safebox.png** image, and then select the **Select** button to insert into your email. 
-
-18. Size the image. 
-
-19. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
+13. Select the **Headline or title box** just below the image, replace the text with the text **We have everything you need**. 
 
 20. Select in the text box below the heading you just modified. 
 
 21. Replace the text with the following text: **Our award-winning systems protect you.**
 
+    ![](../images/module1/lab7/new/12.png)
+    
+    ![](../images/module1/lab7/new/12-1.png)
+
 22. Select the entire section below the section you just modified. Press the **trash can** icon to remove the section. 
+
+    ![](../images/module1/lab7/new/13.png)
+    
+    ![](../images/module1/lab7/new/14.png)
 
 23. Repeat the process for the remaining sections or other elements in the message.
 
-24. Before we make the email live, we will check it for errors. On the **Command Bar**, select the **Check for Errors** button. 
+24. We will not be performing the following steps as it need a authenticated domain to send emails. Please read through the below four steps to just understand how the check for errors and go live functionality works.
 
-25. Once you have verified that there are no errors, on the **Command Bar**, select the **Go Live** button. 
+25. Before we make the email live, we can check if any errors are present by clicking on the **Check for Errors** button present On the **Command Bar**. But since this is for testing purpose, we wil not doing it.
 
-26. Select the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
+26. Once you have verified that there are no errors, we can go live by clicking on **Go Live** button present on the command bar. But since this is for testing purpose, we wil not doing it.
 
-27. If you have used the same email address for both contacts you will receive a **Duplicate records found** alert. Choose **Ignore and save**.
+27. Select the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
+
+28. If you have used the same email address for both contacts you will receive a **Duplicate records found** alert. Choose **Ignore and save**.
 
 ## Exercise 2: Create a Segment in Dynamics 365 Marketing
 
@@ -127,11 +132,13 @@ Upon completion of the lab, you will have completed the following:
 
 2. On the command bar, select **New**.
 
+    ![](../images/module1/lab7/new2/1.png)
+
 3. Complete the **New Contact** page as follows.
 
 	- **First Name**: Piper 
 
-	- **Last Name**: Smith – Your Initials
+	- **Last Name**: Smith – DeploymentID
 
 	- **Email**: Enter an email address that you can receive mail from.
 
@@ -143,7 +150,11 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Address 1 Zip/Postal:** 98001
 
+	- **Country/Region:** United States
+
 4. Once you have completed the contact, select **Save &amp; Close**.
+
+    ![](../images/module1/lab7/new2/2.png)
 
 5. Next, we will have you add yourself as a contact, so you have multiple people to work with. 
 
@@ -165,6 +176,8 @@ Upon completion of the lab, you will have completed the following:
 
 	- **Address 1 Zip/Postal:** 98001
 
+	- **Country/Region:** United States
+
 **NOTE:** We are using the same address information, to make it easy to recognize the contacts as sample data. 
 
 ### Task 2: Create a Customer Segment
@@ -175,33 +188,55 @@ Creating a customer segment will let us define the customers that we want to tar
 
 2. On the command bar, select **New**.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-1.png)
+
 3. Since we had the membership to change as contacts are added, removed, or edited, we will select **New Dynamic Segment** from the menu that appears. 
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-2.png)
 
 4. In the **Segment Templates** dialog box that opens, select **Skip** to close it and continue to the **New Segment** screen.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-3.png)
+
 5. After the new record opens, select the drop-down arrow next to the **Status reason** field in the record header at the top. 
 
-6. In the **Name** field enter **Seattle Customers – Your Initials**. 
+    ![](../images/module1/lab7/new2/ex-2-task-2-4.png)
+
+6. In the **Name** field enter **Seattle Customers – DeploymentID**. 
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-5.png)
 
 7. In the segment definition window, select **Add query block**.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-6.png)
+
 8. Notice that the Contact table is selected by default. Do not Change it. 
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-7.png)
 
 9. Select the text **Select attribute**. 
 
 10. Enter the word City to filter the list. Choose **Address 1: City** from the list.
 
-11. Leave the next drop-down list set to **Equals**. 
+    ![](../images/module1/lab7/new2/ex-2-task-2-8.png)
+
+11. Leave the next drop-down list set to **Is**. 
 
 12. Select the third drop-down list, which contains the text **Enter text** and select **Seattle**.
 
 13. Select **Save** on the command bar to save your segment.
 
+    ![](../images/module1/lab7/new2/ex-2-task-2-9.png)
+
 14. Select **Go Live** to publish the segment.
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-10.png)
 
 15. Wait for about a minute and then select **Refresh** on the command bar to refresh the page. 
 
 16. You should now see that a **Members** tab has been added.
+
+    ![](../images/module1/lab7/new2/ex-2-task-2-11.png)
 
 ### Task 3: Test your Customer Segment
 
@@ -215,7 +250,7 @@ Now that we have successfully created your segment, let’s verify the dynamics 
 
 	- **First Name**: Rick
 
-	- **Last Name**: Jones – Your Initials
+	- **Last Name**: Jones – DeploymentID
 
 	- **Email**: Enter an email address that you can receive mail from.
 
@@ -231,9 +266,9 @@ Now that we have successfully created your segment, let’s verify the dynamics 
 
 5. Using the navigation on the left, select **Segments** under the **Customers** group. 
 
-6. Open the **Seattle Customers – Your Initials** segment you created earlier. 
+6. Open the **Seattle Customers – DeploymentID** segment you created earlier. 
 
-7. Select the **Members** tab. Notice that **Rick Jones – Your Initials** should now be present. You may need to refresh the view.
+7. Select the **Members** tab. Notice that **Rick Jones – DeploymentID** should now be present. You may need to refresh the view.
 
 **IMPORTANT:** Since we are working a shared environment and everyone is working in the same system, you will likely see other Contacts in the Dynamic Marketing segment as well. That is OK for purposes of this course. 
 
@@ -255,13 +290,13 @@ Now that we have created the marketing content that we want to deliver and defin
 
 7. On the design canvas, move your cursor between **Start** and **End**. Select the **+** sign, from the menu that appears, select **Send an email**.
 
-8. Enter the text **Home** and select the **Home Security – Your Initials** marketing email message you created in Exercise 1. 
+8. Enter the text **Home** and select the **Home Security – DeploymentID** marketing email message you created in Exercise 1. 
 
 9. Move your cursor after the Send an email action. Select the **+** sign, from the menu that appears, select **If/Then**.
 
 10. In the **If/Then** area on the left side of the screen, under conditions select the **Select a source** field. 
 
-11. Select the **Home Security – Your Initials** segment. 
+11. Select the **Home Security – DeploymentID** segment. 
 
 12. Select the **Select a Condition** field. Choose **a link has been clicked**.
 
@@ -271,7 +306,7 @@ Now that we have created the marketing content that we want to deliver and defin
 
 15. Select the General tab located towards the top of the Customer Journey Record. Enter the following information into the **General** tab:
 
-	- **Name**: Seattle Area Fall Promotion – Your Initials
+	- **Name**: Seattle Area Fall Promotion – DeploymentID
 
 	- **Start date and time**: Enter Todays Date
 

@@ -1,43 +1,47 @@
----
-lab:
-    title: 'Lab 1.1: Validate lab environment'
-    module: 'Module 1: Learn the Fundamentals of Dynamics 365 Marketing'
----
-
-
 Module 1: Learn the Fundamentals of Dynamics 365 Marketing
 ========================
 
-## Practice Lab 1.1 - Validate lab environment 
+Exercise 1 - Access the Dynamics 365
+------------------------------------
 
-In this lab, you will validate that your classroom tenant is working as expected. You will access your individual credentials, record your “alias”, and open the Dynamics 365 model-driven application that we will be using throughout the course. 
+### Task 1 – Log into the Dynamics 365
 
-**Important Note:** This lab will provide you with an actual Dynamics 365 tenant
-and licenses for the Power Platform applications you will be using in this
-course. Please be aware that the Power Platform is evolving all the time. The
-instructions in this document may be different from what you experience in your
-actual tenant. It is also possible to experience a delay of several
-minutes before the virtual machine has network connectivity to begin the labs.
+1.  Navigate to this web URL in a new private window -> <https://dynamics.microsoft.com/en-us/> .
 
-Exercise 1 - Access the Dynamics 365 application
----------------------------------------------------
+    ![](../images/module1/lab1/1.png)
 
-### Task 1 – Log into the Power Platform admin center
+2. In the lab environment, navigate to environment details page as shown in the below image and use the given user credentials to login into dynamics 365. Use the button next to the user details to copy the values.
 
-1.  Access <https://admin.Powerplatform.microsoft.com> and log in with your user credentials.
+    ![](../images/intro-1.png)
 
-2. Record your user credential up to the **@** symbol on a scratch piece of paper or in Notepad. This will be your lab alias that you will use to differentiate the data you create within the shared Dynamics 365 organization. 
+3. After logged in, click on the products tab from the top navigation pane and from the options find marketing and click on it to open the marketing portal. Refer below screenshot for reference.
 
-**Important:** Please be aware that this tenant and the Dynamics 365 organization will be shared with the other students in your classroom, like employees would share a tenant when using the Dynamics 365 instance belonging to their organization. Do not use any PII (personally identifiable information) when creating records. It is also good practice to use your username prefix (ex., **mollyc**) in front of all records, data, apps, flows, etc. you create.
+    ![](../images/module1/lab1/3.png)
+    
+4. Click on **Try for free**. 
 
-3. Feel free to explore the Power Platform admin center but **do not make any changes**.
+    ![](../images/module1/lab1/marketing-1.png)
 
-### Task 2 – Access the Dynamics 365 application
+5. Click on **Start your free trial**.
 
-1.  Expand the App Launcher domino button at the top left of the screen, directly to the left of **Power Platform admin center. Select the Dynamics 365 **Marketing** app to launch it.
+    ![](../images/module1/lab1/marketing-2.png)
 
-2.  Explore the navigation pane on the left hand side. The button on the bottom of the pane allows you to change areas. You are currently viewing the **Marketing** area. 
+6. Enter country/region and phone number and tick the statement and click on **Submit**.
 
-3.  Select **Marketing** at the botton of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane.  
+    ![](../images/module1/lab1/marketing-3.png)
 
-4. Spend a few minutes exploring the application and then return to the **Marketing** area.
+7.  Explore the navigation pane on the left hand side. 
+
+8.  The button on the bottom of the pane allows you to change areas. You are currently viewing the **Marketing** area. 
+
+    ![](../images/module1/lab1/4.png)
+
+9.  Select **Marketing** at the bottom of the navigation pane and select the **Events** area. Explore the **Events** area of the navigation pane. 
+
+    ![](../images/module1/lab1/5.png)
+    
+    ![](../images/module1/lab1/6.png)
+    
+    ![](../images/module1/lab1/7.png)
+
+10. Spend a few minutes exploring the application and then return to the **Marketing** area.

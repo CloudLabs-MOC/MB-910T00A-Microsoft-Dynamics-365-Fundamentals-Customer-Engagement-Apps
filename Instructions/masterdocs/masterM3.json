@@ -1,0 +1,20 @@
+
+[{
+  "Name": "Module 3: Learn the Fundamentals of Dynamics 365 Marketing",
+  "Language": "English",
+  "BaseURL": "https://github.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps",
+  "Files": [
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/bonzz/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M03_Lab1_Create_and_publish_a_Knowledge_Article.md",
+      "Order": 1
+    },
+    {
+      "RawFilePath": "https://raw.githubusercontent.com/bonzz/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M03_Lab2_Create_and_manage_Cases.md",
+      "Order": 2
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/bonzz/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M03_Lab3_Dynamics_365_Customer_Service_capstone_lab.md",
+      "Order": 3
+    }
+     ]
+}]
