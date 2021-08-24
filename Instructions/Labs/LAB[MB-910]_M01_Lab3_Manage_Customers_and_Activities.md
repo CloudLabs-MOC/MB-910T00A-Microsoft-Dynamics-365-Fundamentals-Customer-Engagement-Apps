@@ -100,7 +100,7 @@ In this exercise, you will be working with common records that are used by all D
 
 15. On the **Record Timeline** located in the middle of the screen, select the **+** icon to add a new activity item. 
 
-16. From the menu that appears, select **Meeting**
+16. From the menu that appears, select **Appointment**
 
     ![](../images/module1/lab3/11.png)
 
