@@ -24,12 +24,60 @@
       "Order": 5
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/bonzz/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab7_Dynamics_365_Marketing_capstone_lab.md",
+       "RawFilePath": "https://raw.githubusercontent.com/bonzz/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab6_Create_a_simple_Customer_Journey.md",
       "Order": 6
     },
     {
-       "RawFilePath": "https://raw.githubusercontent.com/bonzz/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab6_Create_a_simple_Customer_Journey.md",
+       "RawFilePath": "https://raw.githubusercontent.com/bonzz/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M01_Lab7_Dynamics_365_Marketing_capstone_lab.md",
       "Order": 7
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M02_Lab1_Create_and_manage_a_Lead.md",
+      "Order": 8
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M02_Lab2_Create_and_manage_an_Opportunity.md",
+      "Order": 9
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M02_Lab3_Dynamics_365_Sales_capstone_lab.md",
+      "Order": 10
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M03_Lab1_Create_and_publish_a_Knowledge_Article.md",
+      "Order": 11
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M03_Lab2_Create_and_manage_Cases.md",
+      "Order": 12
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M03_Lab3_Dynamics_365_Customer_Service_capstone_lab.md",
+      "Order": 13
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M04_Lab1_Creating_Work_Orders.md",
+      "Order": 14
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M04_Lab2_Schedule_Items.md",
+      "Order": 15
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M04_Lab3_Dynamics_365_Field_Service.md",
+      "Order": 16
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M05_Lab1_Create_a_Project-based_Lead.md",
+      "Order": 17
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M05_Lab2_Manage_a_Project-based_Opportunity_Create_a_Project-based_Lead.md",
+      "Order": 18
+    },
+    {
+       "RawFilePath": "https://raw.githubusercontent.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/stage/Instructions/Labs/LAB%5BMB-910%5D_M05_Lab3_Dynamics_365_Project_Operations_capstone_lab.md",
+      "Order": 19
     }
      ]
 }]
