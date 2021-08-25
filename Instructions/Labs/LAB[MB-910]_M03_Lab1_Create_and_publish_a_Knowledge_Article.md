@@ -104,7 +104,7 @@ Once we have received the returned / damaged item, your account will be credited
 
    ![](../images/module3/lab1/11.png)
 
-11. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Delivery** (Located under Service). 
+11. On the **New Process**, select the **Author** stage, set the **Article Subject** field to **Default Subject** (Located under Service). 
 
 12. Set the **Mark for Review** field to **Completed**.
 
