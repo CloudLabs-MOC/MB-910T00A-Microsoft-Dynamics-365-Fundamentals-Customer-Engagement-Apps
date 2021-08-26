@@ -144,7 +144,7 @@ We will come back to your created case record later. Next, let’s examine how t
 
     ![](../images/module4/lab3/task2-7.png)
 
-### Task 3: Generate a Work Order from a Case
+### Task 3: Generate a Work Order from a Case (Read-Only)
 
 Another way to generate work orders is by escalating case records. In this example, we will escalate the Camera Down case record we created earlier. 
 
