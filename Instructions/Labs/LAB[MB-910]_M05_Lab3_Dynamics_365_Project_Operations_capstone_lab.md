@@ -138,25 +138,31 @@ In this exercise you will be creating a project and defining detailed related to
 
 9. Select and open the **Robotics Engineer** role and set the billing type to Non-Chargeable.(in the image it is different role just change the robotics engineer to Non Chargeable)
 
-11. On the **Command Bar**, select the **Save** button. 
+10. On the **Command Bar**, select the **Save** button. 
 
     ![](../images/module5/lab3/6.png)
 
-11. Select the **Quote Line Details** tab.
+11. Change the **(1) area** and select **(2) sales**. From the sidebar under **Sales** select **(3) Quotes** and select **(4) Complete Global Implementation - DeploymentID** and open it.
+
+    ![](../images/module5/lab3/nxt.png)
+    
+12. Select the **Quote lines** tab and open **System Implementation** (You need to double click to open it).
+    
+    ![](../images/module5/lab3/nxt-1.png)
+
+13. Select the **Quote Line Details** tab.
 
     ![](../images/module5/lab3/7.png)
 
-12. On the sub-grid, select the **New Quote Line Detail** button.
+14. On the sub-grid, select the **New Quote Line Detail** button.
 
-13. Complete the **Quote line detail** item as follows:
+15. Complete the **Quote line detail** item as follows:
 
 	- **Description:** Communication Line Run – DeploymentID
 
 	- **Transaction Class:** Time
 
 	- **Role:** Network Technician
-
-	- **Category:** Time
 
 	- **Start Date:** One Month form today
 
@@ -166,13 +172,13 @@ In this exercise you will be creating a project and defining detailed related to
 
 	- **Unit:** Hour
 
-    ![](../images/module5/lab3/7.png)
+    ![](../images/module5/lab3/nxt-2.png)
 
-14. Select the **Save and Close** button to close the line detail item. 
+15. Select the **Save and Close** button to close the line detail item. 
 
     ![](../images/module5/lab3/8.png)
 
-15. On the **Command Bar**, select the **Save and Close** button. 
+16. On the **Command Bar**, select the **Save and Close** button. 
 
     ![](../images/module5/lab3/9.png)
 
@@ -320,6 +326,10 @@ Another important part of defining a project is to define the project tasks and 
 
 1. With the **Complete Global Implementation – DeploymentID** project open, select the **tasks** tab. 
 
+- **Note!:** If you get the following error message please enable cookies on your browser or try switiching to a different browser. Follow this link for further details (https://docs.microsoft.com/en-us/dynamics365/project-operations/project-management/projectplanningUIFAQ)
+ 
+    ![](../images/module5/lab3/error-msg.png)    
+
 2. On the toolbar in the Tasks sub-grid, select the **+ Add new task** button. 
 
     ![](../images/module5/lab3/ex2task3/1-3.png)
@@ -327,6 +337,8 @@ Another important part of defining a project is to define the project tasks and 
 3. In the row that appears, set the **Name** field to **System Development**.
 
 4. On the toolbar in the tasks sub-grid, select the **+ Add new task** button again to add another item. 
+
+    ![](../images/module5/lab3/add-subtask.png)
 
 5. Configure the Item as follows:
 
@@ -394,8 +406,4 @@ As part of defining a project schedule, you can specify the types of resources t
 
     ![](../images/module5/lab3/ex2task3/4.png)
 
-Congratulations, you have successfully sold and created a project in Dynamics 365 Project Operations. For here Project Managers, can manage different aspects of the project such as scheduling resources, monitoring the project schedule, and managing time and expenses. 
-
- 
-
- 
+Congratulations, you have successfully sold and created a project in Dynamics 365 Project Operations. For here Project Managers, can manage different aspects of the project such as scheduling resources, monitoring the project schedule, and managing time and expenses.

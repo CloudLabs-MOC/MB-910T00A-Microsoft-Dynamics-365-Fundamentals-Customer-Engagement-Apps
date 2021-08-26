@@ -45,3 +45,5 @@ Exercise 1 - Access the Dynamics 365
     ![](../images/module1/lab1/7.png)
 
 10. Spend a few minutes exploring the application and then return to the **Marketing** area.
+
+- **Note! : Please leave the Marketing Tab open, you will have to come back to this later.**

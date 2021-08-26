@@ -54,7 +54,7 @@ In this exercise, you will leverage the searching and filtering capabilities of 
 
 12. Complete the **Quick Create Task** form as follows:
 
-	- **Subject:** Send Marketing Materials -Your Initials
+	- **Subject:** Send Marketing Materials - DeploymentID
 
 	- **Due:** Tomorrow at 8:30 AM
 

@@ -81,11 +81,11 @@ Upon completion of the lab, you will have completed the following:
 
 1. Complete your new lead record as follows:
 
-	- **Topic:** Looking for Security Equipment – “Your Name”
+	- **Topic:** Looking for Security Equipment – DeploymentID
 
 	- **First Name:** Piper
 
-	- **Last Name:** Smith - Your Initials
+	- **Last Name:** Smith - DeploymentID
 
 	- **Mobile Phone:** 888 555-1762
 
@@ -161,7 +161,7 @@ After visiting with Piper, you identify that there is enough interest on her end
 
 1. Select the **Qualify** stage to return to the lead.
 
-   ![](images/Image-44.png)
+   ![](images/Image-44-1.png)
 
 1. Select the **Save & Close** button to close the Lead record that was created. 
 
@@ -194,7 +194,7 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
    ![](images/Image-50.png)
 
-1. Select the drop-down arrow next to the **Open Opportunities** view, from the menu that appears, select **My Open Opportunities**. The **Looking for Security Equipment – Your Initials** will likely be the only item that appears, and the chart should reflect this. 
+1. Select the drop-down arrow next to the **Open Opportunities** view, from the menu that appears, select **My Open Opportunities**. The **Looking for Security Equipment – DeploymentID** will likely be the only item that appears, and the chart should reflect this. 
 
    ![](images/Image-51.png)
 
@@ -202,11 +202,11 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
    ![](images/Image-52.png)
 
-1. Open the **Looking for Security Equipment – Your Initials** that was created when you qualified the lead earlier. Notice the record is already in the **Develop** phase since it was created from a previously qualified Lead.  
+1. Open the **Looking for Security Equipment – DeploymentID** that was created when you qualified the lead earlier. Notice the record is already in the **Develop** phase since it was created from a previously qualified Lead.  
 
    ![](images/Image-70.png)
 
-1. On the **Looking for Security Equipment – Your Initials** opportunity header at the top of the record, select the down arrow next to the owner field. 
+1. On the **Looking for Security Equipment – DeploymentID** opportunity header at the top of the record, select the down arrow next to the owner field. 
 
 1. Complete as follows:
 
@@ -220,13 +220,13 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
    ![](images/Image-53.png)
 
-1. From the menu that appears, select **Meeting**.
+1. From the menu that appears, select **Appointment**.
 
    ![](images/Image-54.png)
 
-1. On the **Quick Create: Meeting** screen, complete as follows:
+1. On the **Quick Create: Appointment** screen, complete as follows:
 
-	- **Subject:** Quick Meeting – “Your Initials”
+	- **Subject:** Quick Meeting – DeploymentID
 
 	- **Location:** Online
 
@@ -251,14 +251,14 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 1. Complete as follows:
                
    - **First Name:** Piper 
-   - **Last Name:** initals
+   - **Last Name:** Smith - DeploymentID
    
    ![](images/Image-58.png)   
 
 
 1. select the **Save and Close** button.
 
-1. Notice the Suzanne Burke is added in the contact field.
+1. Notice that Piper Smith - DeploymentID  is added in the contact field.
 
    ![](images/Image-59.png) 
    
@@ -270,7 +270,9 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
    ![](images/Image-61.png) 
 
-1. In the **Search** field, enter the text **System** and select the **System Administrator** record. Once completed, select the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+1. In the **Search** field, enter the text **ODL_user** and select the **ODL_user DeploymentID** record. Once completed, select the **Add** button. ODL_user should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+
+   ![](images/odl-user.png) 
 
 1. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
@@ -281,7 +283,7 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
    ![](images/Image-63.png) 
    ![](images/Image-64.png) 
 
-1. In the Quick Create: **Competitor** screen, set the **Name** field to **Coho Security – “Your Initials”**.
+1. In the Quick Create: **Competitor** screen, set the **Name** field to **Coho Security – DeploymentID**.
 
    ![](images/Image-65.png) 
 
@@ -307,11 +309,11 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 1. On the Quotes sub-grid, select the **New Quote** button.
 
-   ![](images/Image-70.png) 
+   ![](images/Image-70-1.png) 
 
  
 
-**IMPORTANT:** Sine these environments have multiple first party apps deployed it is possible that the quote form that is currently displayed is not the correct one for sales related functionality. If the text under the quote name **Looking for Security Equipment – Your Initials** reads: **Quote . Quote**, the correct form is loaded. If it reads, **Quote . Field Service Information**, you will need to switch it. If you need to change it, Select the drop-down arrow next to **Quote . Field Service Information**. From the menu that appears select **Quote**. 
+**IMPORTANT:** Sine these environments have multiple first party apps deployed it is possible that the quote form that is currently displayed is not the correct one for sales related functionality. If the text under the quote name **Looking for Security Equipment – DeploymentID** reads: **Quote . Quote**, the correct form is loaded. If it reads, **Quote . Field Service Information**, you will need to switch it. If you need to change it, Select the drop-down arrow next to **Quote . Field Service Information**. From the menu that appears select **Quote**. 
 
  
 
@@ -352,7 +354,7 @@ Now that you have a related quote, you will prepare the quote to present it to a
 
 1. Select the **Quotes** Tab. 
 
-1. Open the **Looking for Security Equipment – Your Initials** Quote. 
+1. Open the **Looking for Security Equipment – DeploymentID** Quote. 
 
 1. On the **Command Bar**, select the **Create Order** button.
 

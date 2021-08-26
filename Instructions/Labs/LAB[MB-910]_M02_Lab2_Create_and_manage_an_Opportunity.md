@@ -27,12 +27,27 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 1. Complete the opportunity information as follows:
 
-	- **Topic:** Wants to upgrade their existing equipment – Your Initials
+	- **Topic:** Wants to upgrade their existing equipment – DeploymentID
 
-	- **Contact:** Jay Klein
+	- **Contact:** On **Summary** Section, In the contact field click on **+ New Contact**
 
-	- **Account:** Northwind Traders
+	![](images/Image-22.png)
+	  
+	 - Create a new contact as follows
+	     - **First Name:** Jay 
+   	     - **Last Name:** Klein
+   	     
+	  ![](images/add-user-jay.png)
 
+	- **Account:** On **Summary** Section, In the Account field click on **+ New Account**
+
+	![](images/add-account-select.png)
+	  
+	 - Create a new account
+	     - **Account Name:** Northwind Traders
+	      
+	  ![](images/add-account.png)
+	
 	- **Purchase Timeframe:** This Quarter
 
 	- **Budget Amount:** 50,000
@@ -70,6 +85,8 @@ In this exercise, you will become familiar with how to access the different Dyna
 	- **Est Revenue:** 70,000
 
    ![](images/Image-21.png)
+
+1. On the **Summary** section, in the contact field select **Suzanne Burke**. If the contact is not available, create a new contact named **"Suzanne Burke"** as shown below. 
 
 1. On **Summary** Section below the Lead to Opportunity Business Process Flow, In the contact field click on **+ New Contact**.
 

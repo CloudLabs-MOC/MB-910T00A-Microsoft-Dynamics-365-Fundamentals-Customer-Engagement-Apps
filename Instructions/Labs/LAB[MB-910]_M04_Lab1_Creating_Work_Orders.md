@@ -48,16 +48,16 @@
 3. Complete the Work Order details as follows:
 
 	- **Service Account:** Adventure Works Cycles (Create New), enter the name "Adventure Works Cycles" and then select the account you just created
-	   ![](../images/module4/lab1/new/1-1.png)
-	   ![](../images/module4/lab1/new/1.png)
+	![](../images/module4/lab1/new/1-1.png)
+	![](../images/module4/lab1/new/1.png)
 
 	- **Work Order Type**: Service (Create new)
-           ![](../images/module4/lab1/3.png)
-	   ![](../images/module4/lab1/3-1.png)
+        ![](../images/module4/lab1/3.png)
+	![](../images/module4/lab1/3-1.png)
 
 	- **Price List:** CRM Service USA (sample, Create New)
-            ![](../images/module4/lab1/4.png)
-	    ![](../images/module4/lab1/4-1.png)
+        ![](../images/module4/lab1/4.png)
+	![](../images/module4/lab1/4-1.png)
 
 4. Save the Work Order.
 
