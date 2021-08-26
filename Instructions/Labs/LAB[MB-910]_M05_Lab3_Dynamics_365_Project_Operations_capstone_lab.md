@@ -108,6 +108,7 @@ In this exercise you will be creating a project and defining detailed related to
 	- **Calendar template:** Default Work Template
 
 	- **Contracting Unit:** Fabrikam US (Create New and you will be asked to exit and come back to create the project again)
+	
            ![](../images/module5/lab3/5.png)
 	   ![](../images/module5/lab3/5-1.png)
 	   ![](../images/module5/lab3/5-2.png)
