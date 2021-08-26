@@ -270,7 +270,9 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
    ![](images/Image-61.png) 
 
-1. In the **Search** field, enter the text **System** and select the **System Administrator** record. Once completed, select the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+1. In the **Search** field, enter the text **ODL_user** and select the **ODL_user DeploymentID** record. Once completed, select the **Add** button. ODL_user should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
+
+   ![](images/odl-user.png) 
 
 1. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
