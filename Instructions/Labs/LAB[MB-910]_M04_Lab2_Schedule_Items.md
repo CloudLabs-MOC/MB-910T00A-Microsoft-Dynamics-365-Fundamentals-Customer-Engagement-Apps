@@ -77,24 +77,32 @@
 9. Complete the Work Order details as follows:
 
 	- **Service Account:** Adatum Corporation (create new)
-               ![](../images/module4/lab2/9-accoutnnew.png)
-	       ![](../images/module4/lab2/9-accoutnnew-1.png)
+	
+     ![](../images/module4/lab2/9-accoutnnew.png)
+	 
+     ![](../images/module4/lab2/9-accoutnnew-1.png)
 
 	- **Work Order Type:** Service
-	       ![](../images/module4/lab2/10.png)
+     
+     ![](../images/module4/lab2/10.png)
 
 	- **Price List:** CRM Service USA (sample)
-	       ![](../images/module4/lab2/11.png)
+	       
+     ![](../images/module4/lab2/11.png)
 
 10. Select **Save** to save you changes.
 
-    ![](../images/module4/lab2/11.png)
+     ![](../images/module4/lab2/11.png)
 
 11. Scroll down to fill **Primary Incident Type:** Unit Overheating. (create new) Click **+ new incident type**
+     
      ![](../images/module4/lab2/12.png)
-        - Add name as Unit Overheating and then add a description(optional) and then click Save and close
-           ![](../images/module4/lab2/13.png)
-	   ![](../images/module4/lab2/13-1.png)
+        
+	- Add name as Unit Overheating and then add a description(optional) and then click Save and close
+           
+     ![](../images/module4/lab2/13.png)
+	   
+     ![](../images/module4/lab2/13-1.png)
 
 11. On the **Command Bar** of the **Work Order**, select the **Book** button. This will open the **Schedule Assistant.** 
 
