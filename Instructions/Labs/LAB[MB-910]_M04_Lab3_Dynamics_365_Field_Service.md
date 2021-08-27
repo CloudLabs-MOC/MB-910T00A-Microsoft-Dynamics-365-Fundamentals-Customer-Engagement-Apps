@@ -109,22 +109,29 @@ We will come back to your created case record later. Next, let’s examine how t
 
 3. Complete the Work Order details as follows:
 
-	- **Service Account:** Margie's Travel (Create new by clicking on new account and add this account and then click save and close)
-              ![](../images/module4/lab3/task2-1.png)
-	      ![](../images/module4/lab3/task2-2.png)
+	- **Service Account:** Margie's Travel (Create new by clicking on new account and add this account and then click save and close).      
+	
+	![](../images/module4/lab3/task2-1.png)
+	      
+	![](../images/module4/lab3/task2-2.png)
 
 	- **Price List:** Office 365 US (sample)
 
 	- **Work Order Type:** Service
-	      ![](../images/module4/lab3/task2-3.png)
-	      ![](../images/module4/lab3/task2-3-1.png)
+	
+	![](../images/module4/lab3/task2-3.png)
+	
+	![](../images/module4/lab3/task2-3-1.png)
 
 	Save the record and assign the Primary Incident Type
-	      ![](../images/module4/lab3/task2-4.png)
+  
+        
+	![](../images/module4/lab3/task2-4.png)
 
 	- **Primary Incident Type:** Fan Out (create new by clicking on **+New incident type** and add this incident)
-              ![](../images/module4/lab3/task2-5.png)
-	      ![](../images/module4/lab3/task2-5-1.png)
+        
+	![](../images/module4/lab3/task2-5.png)
+	![](../images/module4/lab3/task2-5-1.png)
 	      
 4. Note the Work Order Number to ensure that you are working with the correct work order later.
 
