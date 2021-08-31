@@ -15,6 +15,8 @@ During this exercise you will see that it is very easy to create customer segmen
 
 1. Open the Dynamics Marketing application. The **Marketing** area should be selected.
 
+    ![](../images/module1/lab5/mark.png)
+
 1. Using the navigation on the left side of the screen, select **Accounts**. 
 
 1. On the Command Bar at the top of the screen, select the **New** button.
