@@ -40,7 +40,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
  
 7. The apps section will appear and from the list select **Sales Hub**.
 
-    ![](../images/module3/setup/7.png)
+    ![](../images/module1/lab2/2.png)
     
 8. We will be now in the Sales hub and let it be open to perform the remaining exercises.
 
@@ -56,7 +56,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 1. Complete your new lead record as follows:
 
-	- **Topic:** Looking for New Equipment – Your Initials
+	- **Topic:** Looking for New Equipment – DeploymentID
 
 	- **First Name:** Suzanne
 
@@ -76,7 +76,9 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 	- **State/Province:** WA
 
-	- **ZIP/Postal Code:** 98001 
+	- **ZIP/Postal Code:** 98001
+
+	- **Country/Region:** United States 
 
    ![](images/Image-05.png)  
 
@@ -118,8 +120,12 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
    ![](images/Image-12.png)
 
-1.  Next you will qualify the lead record. This will create a related Opportunity record[1] and move to the next stage[2] of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button.
+1.  Next you will qualify the lead record. This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process. On the **(1) Qualify** stage, select **(2) Next Stage**. A **Select opportunity** tab will open, select **+ Create**.
    
-      ![](images/Image-18.png)
+      ![](images/qualify-1.png)
 
-1. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
+1. On the **Quick Create: Opportunity** select **Save and close**
+
+      ![](images/qualify-2.png)
+      
+1. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record.
