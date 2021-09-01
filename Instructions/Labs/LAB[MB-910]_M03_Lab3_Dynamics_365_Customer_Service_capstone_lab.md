@@ -130,7 +130,7 @@ In most organizations, after the article author creates the record, it goes thro
 
      ![](../images/module3/lab3/4.png)
 
-2. Open the **Sensor is not working – your initials** article you just created.
+2. Open the **Sensor is not working – DeploymentID** article you just created.
 
      ![](../images/module3/lab3/5.png)
 
@@ -245,9 +245,9 @@ Now that you are familiar with some of the different views and dashboards, we wi
 
 12. Complete the new case record as follows:
 
-	- **Case Title:** Sensor is not working –[DeploymentID]
+	- **Case Title:** Sensor is not working – DeploymentID
 
-	- **Customer:** Piper Smith
+	- **Customer:** Piper Smith - DeploymentID (create new contact)
 
 	- **Origin:** Phone
 
