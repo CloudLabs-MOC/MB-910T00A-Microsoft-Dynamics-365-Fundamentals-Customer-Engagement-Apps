@@ -116,9 +116,9 @@ Upon completion of the lab, you will have completed the following:
 
 24. We will not be performing the following steps as it need a authenticated domain to send emails. Please read through the below four steps to just understand how the check for errors and go live functionality works.
 
-25. Before we make the email live, we can check if any errors are present by clicking on the **Check for Errors** button present On the **Command Bar**. But since this is for testing purpose, we wil not doing it.
+25. Before we make the email live, we can check if any errors are present by clicking on the **Check content** button present On the **Command Bar**. 
 
-26. Once you have verified that there are no errors, we can go live by clicking on **Go Live** button present on the command bar. But since this is for testing purpose, we wil not doing it.
+26. Once you have verified that there are no errors, we can go live by clicking on **Go Live** button present on the command bar. 
 
 27. Select the drop-down arrow next to the **Save** button on the command bar and select **Save and Close**. 
 
@@ -164,7 +164,7 @@ Upon completion of the lab, you will have completed the following:
 
 	- **First Name**: Your First Name
 
-	- **Last Name**: Your Email Address
+	- **Last Name**: Your last name - DeploymentID
 
 	- **Email**: Enter an email address that you can receive mail from.
 
