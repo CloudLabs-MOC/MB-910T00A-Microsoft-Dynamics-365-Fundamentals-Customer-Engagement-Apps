@@ -35,7 +35,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 	  
 	 - Create a new contact as follows
 	     - **First Name:** Jay 
-   	     - **Last Name:** Klein
+   	     - **Last Name:** Klein - DeploymentID
    	     
 	  ![](images/add-user-jay.png)
 
@@ -44,7 +44,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 	![](images/add-account-select.png)
 	  
 	 - Create a new account
-	     - **Account Name:** Northwind Traders
+	     - **Account Name:** Northwind Traders - DeploymentID
 	      
 	  ![](images/add-account.png)
 	
@@ -95,7 +95,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 1. Complete as follows:
                
    - **First Name:** Suzanne
-   - **Last Name:** Burke
+   - **Last Name:** Burke - DeploymentID
 
    ![](images/Image-23.png)
 
@@ -113,7 +113,11 @@ In this exercise, you will become familiar with how to access the different Dyna
 
    ![](images/Image-26.png)
 
-1. Search for and select your user record. Once completed, select the **Add** button.
+1. Search for **(1) ODL** and select your **(2) user** record. Once completed, select the **(3) Add** button.
+
+   ![](images/odl-1.png)
+
+   ![](images/odl-2.png)
 
 1. On the Competitors sub-grid, select **Add Existing Competitor**. 
 
@@ -123,7 +127,7 @@ In this exercise, you will become familiar with how to access the different Dyna
 
    ![](images/Image-28.png)
 
-1. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies**.
+1. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies - DeploymentID**.
 
    ![](images/Image-29.png)
 
