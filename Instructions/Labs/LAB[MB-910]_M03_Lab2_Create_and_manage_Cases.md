@@ -21,7 +21,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 	- **Case Title:** Item arrived Damaged –[DeploymentID]
 
-	- **Customer:** Alpine Ski House (Create new)
+	- **Customer:** Alpine Ski House - DeploymentID (Create new)
 
 	- **Origin:** Phone
 
@@ -41,7 +41,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
     ![](../images/module3/lab2/11.png)
 
-9. Set the **Subject** field to **Return Call to Patrick – Your Initials** and leave the rest of the fields as is. 
+9. Set the **Subject** field to **Return Call to Patrick – DeploymentID** and leave the rest of the fields as is. 
 
 10. Select the **Save and Close** button. 
 
