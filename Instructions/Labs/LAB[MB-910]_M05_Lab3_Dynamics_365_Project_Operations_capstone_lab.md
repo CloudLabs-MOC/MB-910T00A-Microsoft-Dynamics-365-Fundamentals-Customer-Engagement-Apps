@@ -127,7 +127,7 @@ In this exercise you will be creating a project and defining detailed related to
 
 7. Select **Save and Close** button.
 
-    ![](../images/module5/lab3/5-2.png)
+    ![](../images/module5/lab3/non-1.png)
 
 8. Next, we will define the if we can charge for specific roles that are assigned to the project. Select the **Chargeable Roles** tab. But we need to add the roles for the project.
 
@@ -194,7 +194,7 @@ In this task you will be closing the project quote that you created and converti
 
 1. With the **Complete Global Implementation – DeploymentID** Project Quote record open, select the **Close as Won** button on the Command Bar. 
 
-    ![](../images/module5/lab3/task2-1.png)
+    ![](../images/module5/lab3/non-2.png)
 
 2. On the **Are you sure you want to close the quote** screen, select **OK**.
 
@@ -233,7 +233,7 @@ In this exercise, you will be managing some of the initial tasks related to a pr
 
 5. In the **Quote** stage, set the **Estimated Finish Date** field to **six months from today**. 
 
-6. Select the **Next Stage** button to advance to the **Plan** stage. 
+6. Select the **Next Stage** button to advance to the **Plan** stage. Select **Save**. 
 
     ![](../images/module5/lab3/ex2task1/4.png)
 
@@ -279,6 +279,8 @@ Each project will have a team of members that will assist in the execution of th
 
 ## SubTask 2: Add resources
  
+1. Change area to **Projects** and navigate to **Projects** from left-pane navigation
+
 1. With the **Complete Global Security Implementation – DeploymentID** project record open, select the **Team** tab
 
     ![](../images/module5/lab3/ex2task2/1.png)
@@ -361,9 +363,10 @@ Another important part of defining a project is to define the project tasks and 
 	    ![](../images/module5/lab3/ex2task3/1-1.png)
 	    ![](../images/module5/lab3/ex2task3/1-2.png)
 
-	- **Effort:** 50
+	- **Effort:** 50 (click on add column and then add the parameter **Effort** to enter this field)
+	    ![](../images/module5/lab3/effort-1.png)
 
-8. On the toolbar in the schedule sub-grid, select the **+ Add button** again to a finial task. 
+8. On the toolbar in the schedule sub-grid, select the **+ Add button** again to a final task. 
 
 9. Configure the Item as follows:
 
@@ -372,8 +375,6 @@ Another important part of defining a project is to define the project tasks and 
 	- **Depends on** Design Cameras
 
 	- Effort: 8 
-
- 
 **Note:** Stay on the schedule tab as we will be making some additional modifications in the next task. 
 
 
