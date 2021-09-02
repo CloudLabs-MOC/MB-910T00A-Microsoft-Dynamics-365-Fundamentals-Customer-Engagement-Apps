@@ -13,6 +13,14 @@ During this exercise you will see that it is very easy to create customer segmen
 
 ## Instructions
 
+1. Navigate to https://admin.powerplatform.microsoft.com/. On the Power Platform Admin Center, select **Marketing Trial**.
+
+    ![](../images/module1/lab5/market-1.png)
+
+1. On the environment page, select the **environment URL**
+
+    ![](../images/module1/lab5/market-2.png)
+
 1. Open the Dynamics Marketing application. The **Marketing** area should be selected.
 
     ![](../images/module1/lab5/mark.png)
