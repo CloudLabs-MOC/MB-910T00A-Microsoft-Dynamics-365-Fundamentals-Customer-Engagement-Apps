@@ -84,7 +84,7 @@ Recently a corporate customer Active Transport, Inc. contacted support about an 
 
     ![](../images/module4/lab3/3.png)
 
-5. Select the **Field Service** tab. (Click on the ellinois button if you dont see it.)
+5. Select the **Field Service** tab. (Click on the ellipsis button if you dont see it.)
 
     ![](../images/module4/lab3/4.png)
     ![](../images/module4/lab3/4-1.png)
