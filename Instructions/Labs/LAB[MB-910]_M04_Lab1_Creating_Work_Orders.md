@@ -4,7 +4,7 @@
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+  - ## Estimated timing: 10 minutes
 
 ## Setup the lab environment
 
