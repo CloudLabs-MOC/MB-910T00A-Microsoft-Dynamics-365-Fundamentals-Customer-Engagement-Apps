@@ -4,7 +4,7 @@
 
 ## Lab Setup
 
-  - **Estimated Time**: 20 minutes
+  - ## Estimated timing: 20 minutes
 
   **Note:** The Booking Requirements pane cannot be opened in Internet Explorer. Please use Microsoft Edge or Google Chrome to complete this exercise.
   
