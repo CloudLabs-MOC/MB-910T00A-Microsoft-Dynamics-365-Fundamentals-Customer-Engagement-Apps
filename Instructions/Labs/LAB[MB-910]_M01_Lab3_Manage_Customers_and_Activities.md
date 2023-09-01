@@ -9,7 +9,7 @@ Defining and working with account and contact records in Dynamics 365 applicatio
 
 ## Lab Setup
 
-  - **Estimated Time**: 15 minutes
+  - ## Estimated timing: 15 minutes
 
 ## Instructions
 

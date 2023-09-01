@@ -47,7 +47,7 @@ Upon completion of the lab, you will have completed the following:
 
 ## Lab Setup
 
-  - **Estimated Time**: 20 minutes
+  - ## Estimated timing: 20 minutes
   
 ## Exercise 1: Manage a Project-based Opportunity 
 

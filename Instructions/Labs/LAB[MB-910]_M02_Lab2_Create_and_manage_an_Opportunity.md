@@ -9,7 +9,7 @@ During this exercise, you will be manually capturing a sales opportunity for an 
 
 ## Lab Setup
 
-  - **Estimated Time**: 25 minutes
+  - ## Estimated timing: 25 minutes
 
 ## Instructions
 

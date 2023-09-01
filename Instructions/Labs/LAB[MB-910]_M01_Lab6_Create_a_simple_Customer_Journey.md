@@ -8,7 +8,7 @@ During this exercise you will see that Customer Journeys are a key component in 
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+  - ## Estimated timing: 10 minutes
 
 ## Instructions
 

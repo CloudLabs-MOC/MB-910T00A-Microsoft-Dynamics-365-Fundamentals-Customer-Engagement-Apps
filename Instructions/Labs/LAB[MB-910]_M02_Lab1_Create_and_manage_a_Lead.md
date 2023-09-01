@@ -6,7 +6,7 @@
 
 During this exercise, you will be capturing a sales lead for Suzanne Burke. She recently reached out to you and is interested in some of your organization’s products and services. Not only will you be capturing the lead in the system, but you will be using the tools available in Dynamics 365 Sales to work the lead through the qualification process.
 
-  - **Estimated Time**: 15 minutes
+  - ## Estimated timing: 15 minutes
 
 ## Lab Setup
 

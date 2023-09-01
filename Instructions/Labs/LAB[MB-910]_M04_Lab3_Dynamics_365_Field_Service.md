@@ -54,7 +54,7 @@ Recently a corporate customer Active Transport, Inc. contacted support about an 
 
 ## Lab Setup
 
-  - **Estimated Time**: 45 minutes
+  - ## Estimated timing: 45 minutes
 
 ## Instructions
 
