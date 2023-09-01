@@ -5,7 +5,7 @@ Module 3: Learn the Fundamentals of Dynamics 365 Customer Service
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+  - ## Estimated timing: 10 minutes
 
 ## Instructions
 
