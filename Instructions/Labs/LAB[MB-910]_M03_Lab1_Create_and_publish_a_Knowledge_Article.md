@@ -2,7 +2,7 @@
 
 ## Practice Lab 3.1 - Create and publish a Knowlege Article in Dynamics 365 Customer Service
 
-  - **Estimated Time**: 15 minutes
+  - ## Estimated timing: 15 minutes
 
 ## Setup the lab environment
 
