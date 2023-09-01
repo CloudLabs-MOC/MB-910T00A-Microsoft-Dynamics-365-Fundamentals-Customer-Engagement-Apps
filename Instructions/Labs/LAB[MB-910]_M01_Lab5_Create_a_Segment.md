@@ -9,7 +9,7 @@ During this exercise you will see that it is very easy to create customer segmen
 
 ## Lab Setup
 
-  - **Estimated Time**: 20 minutes
+  - ## Estimated timing: 20 minutes
 
 ## Instructions
 
