@@ -5,11 +5,27 @@
 
 ## Objectives
 
-During this exercise you will see that customer journeys are a key component in Dynamics 365 Customer Insights - Journeys. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue. 
+During this execise you will see that customer journeys are a key component in Dynamics 365 Customer Insights - Journeys. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue. 
 
 ## Lab Setup
 
-  - **Estimated Time**: 10 minutes
+**Estimated Time**: 10 minutes
+
+# Task 1: Log-in to Dynamics 365 Customer Insights
+
+1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
+
+1. In the window that appears, click on **Try for Free**
+
+   
+
+
+
+
+
+
+
+
 
 ## Task 1: Create a simple customer journey
 
