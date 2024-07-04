@@ -15,7 +15,11 @@ During this execise you will see that customer journeys are a key component in D
 
 1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
 
-1. In the window that appears, click on **Try for Free**
+1. In the window that appears, click on **Try for Free**.
+
+    ![](./media/pp61.png)
+
+1. Enter 
 
    
 
