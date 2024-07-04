@@ -14,21 +14,25 @@ In this exercise, you will be working with common records that are used by all t
 
 ## Task 1: Manage customers and activities
 
-In this exercise, you will be working with common records that are leveraged by all the first party customer engagement apps. 
+In this task, you will be working with common records that are leveraged by all the first-party customer engagement apps. 
 
 1. If it is not open already, open the **Dynamics 365 Sales Hub** application.
 
 1. Using the navigation on the left side of the screen, select **Accounts**.
 
+   ![](./media/pp14.png)
+
 1. On the Command Bar, select the **New** button.
+
+   ![](./media/pp15.png)
 
 1. Complete the account record as follows:
 
-	- **Account Name:** Contoso Corporate (Your Initials)
+	- **Account Name:** Contoso Corporate 
 
-	- **Phone:** 888-555-1234 (Your Initials)
+	- **Phone:** 888-555-1234 
 
-	- **Address 1 Street 1:** 191 181<sup data-htmlnode="">st</sup> Ave N (Your Initials)
+	- **Address 1 Street 1:** 191 181<sup data-htmlnode="">st</sup> Ave N 
 
 	- **Address 1 City:** Seattle
 
@@ -38,13 +42,17 @@ In this exercise, you will be working with common records that are leveraged by 
 
 1. On the Command bar, select the **Save and Close** button to save and exit the account record.
 
+   ![](./media/pp16.png)
+
 1. On the Command bar, from the list of accounts, select the **New** button again.
+
+   ![](./media/pp17.png)
 
 1. Complete the account record as follows:
 
-	- **Account Name:** Contoso North America (Your Initials)
+	- **Account Name:** Contoso North America 
 
-	- **Phone:** 888-555-4321 (Your Initials)
+	- **Phone:** 888-555-4321 
 
 	- **Address 1 Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N (Your Initials)
 
@@ -56,21 +64,25 @@ In this exercise, you will be working with common records that are leveraged by 
 
 1. Set the **Parent Account** field to the **Contoso Corporate** account you created earlier.
 
+   ![](./media/pp18.png)
+
 1. Click the **Save** button to save the account and leave it open.
 
-1. Locate the **Contacts Sub-grid** on the right side of the screen.
+  ![](./media/pp19.png)
 
-1. Select the **Vertical Ellipsis**, and from the menu that appears, select **New Contact**.
+1. Locate the **Contacts Sub-grid** on the right side of the screen. Select the **Vertical Ellipsis**, and from the menu that appears, select **New Contact**.
 
+   ![](./media/pp20.png)
+ 
 1. Using the **Quick Create Contac**t form, complete the contact as follows:
 
 	- **First Name:** Jackson
 
-	- **Last Name:** Anderson (Your Initials)
+	- **Last Name:** Anderson 
 
 	- **Job Title:** CEO
 
-	- **Email:** [Jackson (Your Initials)@contososample.com](mailto:Jackson@contososample.com)
+	- **Email:** Jackson@contososample.com
 
 1. Select the **Save and Close** button.
 
