@@ -11,7 +11,7 @@ During this execise you will see that customer journeys are a key component in D
 
 **Estimated Time**: 10 minutes
 
-# Task 1: Log-in to Dynamics 365 Customer Insights
+# Task 1: Login to Dynamics 365 Customer Insights
 
 1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
 
@@ -19,16 +19,25 @@ During this execise you will see that customer journeys are a key component in D
 
     ![](./media/pp61.png)
 
-1. Enter 
+1. Enter **<inject key="Username" enableCopy="false" />** for the email and Agree to the term and subsequently  click on **Start Free Trial**.
 
-   
+   ![](./media/pp62.png)
 
+1. In the **Action Required** window,click on **Ask Later**.
 
+1. In the window that appears, enter the phone number and click on **Submit**.
 
+   ![](./media/pp63.png)
 
+1. In the **Where do you want to start?** window, select **Start Customer Insights-Journey**.
 
+   ![](./media/pp64.png)
 
+## Task 2: Create Segments
 
+1. In the Customer Insights portal, from the left navigation pane, select **Segments**.
+
+   ![](./media/pp65.png)
 
 
 ## Task 1: Create a simple customer journey
