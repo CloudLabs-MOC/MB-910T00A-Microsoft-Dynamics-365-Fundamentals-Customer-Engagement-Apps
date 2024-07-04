@@ -82,19 +82,25 @@ In this task, you will be working with common records that are leveraged by all 
 
 	- **Job Title:** CEO
 
-	- **Email:** Jackson@contososample.com
+	- **Email:** Jackson<inject key="DeploymentID" enableCopy="false" />@contososample.com
 
 1. Select the **Save and Close** button.
 
+   ![](./media/pp21.png)
+
 1. Just above the Contact sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created.
+
+   ![](./media/pp22.png)
 
 1. On the **Record Timeline** located in the middle of the screen, select the **Plus Sign Icon** to add a new item.
 
-1. From the menu that appears, select **Meeting.**
+   ![](./media/pp23.png)
+
+1. From the menu that appears, select **Appointment**
 
 1. Complete the appointment as follows:
 
-	- **Subject:** Meeting with Jackson (Your Initials)
+	- **Subject:** Meeting with Jackson 
 
 	- **Start Time:** Today at 4:00 PM
 
@@ -102,9 +108,13 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. Select the **Save and Close** button.
 
+   ![](./media/pp24.png)
+
 1. **Save and close** the account.
 
-1. Click to select the **Appointment** and display the details about it.
+   ![](./media/pp25.png)
+
+1. Open the Contoso Click to select the **Appointment** and display the details about it.
 
 1. Select the **Open Record** link.
 
