@@ -1,15 +1,5 @@
----
-lab:
-    title: 'Learning Path 3 - Lab 3.1: Create and manage an opportunity in Dynamics 365 Sales'
-    learning path: 'Explore the fundamentals of Microsoft Dynamics 365 Sales'
-    module: 'Explore Dynamics 365 Sales'
----
 
-
-Learning Path 3 - Module 1: Explore Dynamics 365 Sales
-========================
-
-## Practice Lab 3.1 - Create and manage an opportunity in Dynamics 365 Sales 
+# Module 3: Explore Dynamics 365 Sales
 
 ## Objectives
 
@@ -17,9 +7,9 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 ## Lab Setup
 
-  - **Estimated Time**: 20 minutes
+**Estimated Time**: 20 minutes
 
-## Instructions
+## Task 1: Create and manage an opportunity in Dynamics 365 Sales 
 
 1. If is not open already, open the **Dynamics 365 Sales Hub** application.
 
