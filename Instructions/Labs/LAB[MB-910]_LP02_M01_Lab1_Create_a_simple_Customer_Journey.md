@@ -1,11 +1,5 @@
----
-lab:
-    title: 'Learning Path 2 - Lab 2.1: Create a simple customer journey'
-    learning path: 'Explore the fundamentals of Dynamics 365 Customer Insights'
-    module: 'Explore Dynamics 365 Customer Insights - Journeys'
----
 
-Learning Path 2 - Module 1: Explore Dynamics 365 Customer Insights - Journeys
+Module 3: Explore Dynamics 365 Customer Insights - Journeys
 ========================
 
 ## Practice Lab 2.1 - Create a simple customer journey
