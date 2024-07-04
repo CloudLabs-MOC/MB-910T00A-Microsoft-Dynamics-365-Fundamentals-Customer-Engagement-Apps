@@ -1,8 +1,5 @@
 
 Module 5: Explore Dynamics 365 Customer Insights - Journeys
-========================
-
-## Practice Lab 2.1 - Create a simple customer journey
 
 **IMPORTANT**: Instructors, make sure that you have completed the all of the setup steps defined in the Dynamics 365 Customer Insights - Journeys section of the Trainer Prep Guide to ensure that your students can complete this lab correctly.   
 
@@ -14,7 +11,8 @@ During this exercise you will see that customer journeys are a key component in 
 
   - **Estimated Time**: 10 minutes
 
-## Instructions
+## Task 1: Create a simple customer journey
+
 1. Using the navigation on the left, select **Journeys** under the **Engagement** group.
 
 1. Using the Command Bar, select **+ New Journey**.
