@@ -6,7 +6,7 @@
 
 # Task 1: Create and manage cases in Dynamics 365 Customer Service
 
-1. If not open already, open the **Dynamics 365 Customer Service Hub** application.
+1. Click on **Sales Hub** from the top left corner and from the list of apps open the **Dynamics 365 Customer Service Hub** application.
 
 2. Using the navigation on the left, select **Cases**.
 
