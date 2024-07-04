@@ -1,5 +1,5 @@
 
-Module 5: Explore Dynamics 365 Customer Insights - Journeys
+# Module 5: Explore Dynamics 365 Customer Insights - Journeys
 
 **IMPORTANT**: Instructors, make sure that you have completed the all of the setup steps defined in the Dynamics 365 Customer Insights - Journeys section of the Trainer Prep Guide to ensure that your students can complete this lab correctly.   
 
