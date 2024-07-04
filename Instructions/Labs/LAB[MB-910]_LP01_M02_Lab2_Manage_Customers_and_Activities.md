@@ -1,24 +1,18 @@
----
-lab:
-    title: 'Learning Path 1 - Lab 1.2: Manage Customers and Activities'
-    learning path: 'Explore the core capabilities of Microsoft Dynamics 365 customer engagement apps'
-    module: 'Describe shared activities and integration options in Dynamics 365 customer engagement apps'
----
 
-Learning Path 2 - Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
-========================
 
-## Practice Lab 1.2 - Manage customers and activities
+# Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
+
+## Exercise 2 - Manage customers and activities
 
 ## Objectives
 
-In this exercise, you will be working with common records that are used by all the first party customer engagement apps. 
+In this exercise, you will be working with common records that are used by all the first-party customer engagement apps. 
 
 ## Lab Setup
 
-  - **Estimated Time**: 15 minutes
+**Estimated Time**: 15 minutes
 
-## Instructions
+## Task 1: Manage customers and activities
 
 In this exercise, you will be working with common records that are leveraged by all the first party customer engagement apps. 
 
