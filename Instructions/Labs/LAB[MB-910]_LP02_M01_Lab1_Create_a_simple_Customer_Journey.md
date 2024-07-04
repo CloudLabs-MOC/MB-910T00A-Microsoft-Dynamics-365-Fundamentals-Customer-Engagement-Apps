@@ -1,5 +1,5 @@
 
-Module 3: Explore Dynamics 365 Customer Insights - Journeys
+Module 5: Explore Dynamics 365 Customer Insights - Journeys
 ========================
 
 ## Practice Lab 2.1 - Create a simple customer journey
