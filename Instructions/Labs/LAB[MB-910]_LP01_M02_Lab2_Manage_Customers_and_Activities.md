@@ -2,11 +2,10 @@
 
 # Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 
-## Exercise 2 - Manage customers and activities
 
 ## Objectives
 
-In this exercise, you will be working with common records that are used by all the first-party customer engagement apps. 
+In this module, you will be working with common records that are used by all the first-party customer engagement apps. 
 
 ## Lab Setup
 
