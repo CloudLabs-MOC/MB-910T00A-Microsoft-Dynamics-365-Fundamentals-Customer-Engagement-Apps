@@ -114,11 +114,17 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp25.png)
 
-1. Open the Contoso Click to select the **Appointment** and display the details about it.
+1. Open the Contoso North America account, click to select the **Appointment** and display the details about it.
+
+   ![](./media/pp26.png)
 
 1. Select the **Open Record** link.
 
+   ![](./media/pp27.png)
+
 1. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to finish the appointment.
+
+   ![](./media/pp28.png)
 
 1. Select the **Save and Close** button to return to the account record.
 
