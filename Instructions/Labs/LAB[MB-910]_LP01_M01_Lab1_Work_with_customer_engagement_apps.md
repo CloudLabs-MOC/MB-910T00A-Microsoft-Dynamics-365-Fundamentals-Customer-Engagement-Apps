@@ -24,7 +24,7 @@ In this module, you will become familiar with how to access and navigate differe
 
    ![](./media/pp2.png)
 
-1. On the right tab enter the following details and leave the others as default:
+1. On the right tab enter the following details and leave the others as default:https://github.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/blob/new-prod-updated/Instructions/Labs/LAB%5BMB-910%5D_LP01_M01_Lab1_Work_with_customer_engagement_apps.md
 
     - Name - **Sales-<inject key="DeploymentID" enableCopy="false" />** (1)
     - Add a Dataverse to a Datastore - **Enabled** (2)
@@ -74,3 +74,7 @@ In this module, you will become familiar with how to access and navigate differe
 
 1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
 
+## Review
+Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.
+
+## You have successfully completed this module. Click Next
