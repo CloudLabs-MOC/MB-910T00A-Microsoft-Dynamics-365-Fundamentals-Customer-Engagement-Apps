@@ -50,7 +50,7 @@ In this task, you will be working with common records that are leveraged by all 
 
 	- **Phone:** 888-555-4321 
 
-	- **Address 1 Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N (Your Initials)
+	- **Address 1 Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N 
 
 	- **Address 1 City:** Chicago
 
