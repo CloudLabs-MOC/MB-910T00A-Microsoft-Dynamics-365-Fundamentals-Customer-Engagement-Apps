@@ -76,7 +76,7 @@ In this exercise, you will become familiar with how to access and navigate diffe
 
 1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
 
-## Task 2: Access Business applications from the Microsoft 365 portal.
+## Task 2: Access Business applications from the Microsoft 365 portal[Read Only].
 
 1. In a web browser, navigate to [https://www.microsoft365.com/apps](https://www.microsoft365.com/apps). All the applications that you have access to will be displayed.
 
