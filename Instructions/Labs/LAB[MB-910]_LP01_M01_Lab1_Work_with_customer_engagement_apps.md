@@ -9,7 +9,7 @@ In this module, you will become familiar with how to access and navigate differe
 
 ## Task 1: Introduction to Microsoft 365 Dynamic Applications
 
-1.  Navigate to this web URL in a new private window -> <https://admin.powerplatform.microsoft.com/> .
+1.  Navigate to this web URL in a new private window -> <https://admin.powerplatform.microsoft.com/> 
 
 1. In the lab environment, provide the following username and password:
 
