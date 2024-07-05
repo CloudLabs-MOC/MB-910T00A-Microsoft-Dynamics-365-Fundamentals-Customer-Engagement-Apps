@@ -3,7 +3,7 @@
 
 ## Objectives
 
-In this exercise, you will become familiar with how to access and navigate different Dynamics 365 customer engagement applications. 
+In this module, you will become familiar with how to access and navigate different Dynamics 365 customer engagement applications. 
 
 ## Lab Setup
 
