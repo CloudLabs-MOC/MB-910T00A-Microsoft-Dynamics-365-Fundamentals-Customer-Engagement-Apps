@@ -13,8 +13,8 @@ In this module, you will become familiar with how to access and navigate differe
 
 1. In the lab environment, provide the following username and password:
 
-   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
-   - **Password:** <inject key="AzurePassword"></inject>
+   - **Email/Username:** <inject key="azureUserName"></inject>
+   - **Password:** <inject key="azurePassword"></inject>
 
 1. In the **Action Required** window that appears,click on **Ask Later**.
 
@@ -78,5 +78,3 @@ In this module, you will become familiar with how to access and navigate differe
 Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.
 
 ## You have successfully completed this module. Click Next
-   - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
-   - **Password:** <inject key="AzurePassword"></inject>
