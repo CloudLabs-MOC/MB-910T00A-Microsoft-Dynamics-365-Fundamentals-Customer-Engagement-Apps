@@ -125,3 +125,9 @@ In this task, you will be working with common records that are leveraged by all 
 1. Select the **Save and Close** button to return to the account record.
 
 1. Select **Save and Close** on the account record to leave the account record.
+
+## Review
+ 
+In this module, we have learnt how to  manage common records like accounts and contacts across Dynamics 365 customer engagement apps, demonstrating proficiency in creating, linking, and managing associated activities such as appointments.
+
+## You have successfully completed this module. Click Next
