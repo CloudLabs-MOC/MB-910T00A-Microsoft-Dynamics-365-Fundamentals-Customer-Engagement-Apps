@@ -2,14 +2,11 @@
 
 # Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 
-
 ## Objectives
 
 In this module, you will be working with common records that are used by all the first-party customer engagement apps. 
 
-## Lab Setup
-
-**Estimated Time**: 15 minutes
+## Estimated Time: 15 minutes
 
 ## Task 1: Manage customers and activities
 
