@@ -1,8 +1,10 @@
 # Module 4: Explore Dynamics 365 Customer Service
 
-## Lab Setup
+## Objectives
 
-**Estimated Time**: 20 minutes
+This module aims to enhance understanding of customer engagement capabilities within Dynamics 365.
+
+## Estimated Time: 20 minutes
 
 # Task 1: Create and manage cases in Dynamics 365 Customer Service
 
