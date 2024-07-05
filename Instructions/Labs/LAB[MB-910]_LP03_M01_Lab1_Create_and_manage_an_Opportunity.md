@@ -138,3 +138,9 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
     ![](./media/pp47.png)
 
 1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
+
+## Review
+
+In this module we have demonstrated proficiency in utilizing tools within Dynamics 365 Sales to progress leads through stages, from initial capture to opportunity closure, effectively optimizing sales workflows.
+
+## You have successfully completed this module.Click Next
