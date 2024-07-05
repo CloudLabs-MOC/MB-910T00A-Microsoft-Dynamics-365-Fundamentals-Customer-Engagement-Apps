@@ -75,7 +75,7 @@ During this exercise, you will manually be creating a lead for Jane Anderson. Ja
 
 1. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
 
-    ![](./media/PP36.png)
+    ![](./media/pp36.png)
 
 1. Complete as follows:
 
