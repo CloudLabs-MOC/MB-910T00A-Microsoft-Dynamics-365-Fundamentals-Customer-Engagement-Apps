@@ -5,11 +5,9 @@
 
 In this module, you will become familiar with how to access and navigate different Dynamics 365 customer engagement applications. 
 
-## Lab Setup
+## Estimated Time**: 20 minutes
 
-**Estimated Time**: 20 minutes
-
-## Task1: Introduction to Microsoft 365 Dynamic Applications
+## Task 1: Introduction to Microsoft 365 Dynamic Applications
 
 1.  Navigate to this web URL in a new private window -> <https://admin.powerplatform.microsoft.com/> .
 
