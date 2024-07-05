@@ -32,7 +32,7 @@ In this exercise, you will become familiar with how to access and navigate diffe
     - Add a Dataverse to a Datastore - **Enabled** (2)
     - Click **Next** (3)
 
-     ![](./media/pp3.png)
+      ![](./media/pp3.png)
     
 1. Under Security Group click on the **+** icon and in the new window that appears, select **None** and subsequently click on **Done**.
 
