@@ -15,7 +15,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
     ![](./media/pp61.png)
 
-1. Enter **<inject key="azureUserName"></inject>** for the email and Agree to the term and subsequently  click on **Start Free Trial**.
+1. Enter **<inject key="azureUserName"></inject>** for the email, agree to the terms and subsequently  click on **Start Free Trial**.
 
    ![](./media/pp62.png)
 
