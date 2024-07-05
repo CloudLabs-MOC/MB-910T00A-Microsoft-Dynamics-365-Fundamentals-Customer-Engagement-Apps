@@ -70,7 +70,7 @@ In this module you will see that customer journeys are a key component in Dynami
    - Name the segment: **Demo**
    - Select a Target Audience: Choose **Contact**
 
-    ![](./media/pp67.png)
+     ![](./media/pp67.png)
 
 1. From the right navigation pane,under the **Attributes** tab, search for and select **Email**.
 
