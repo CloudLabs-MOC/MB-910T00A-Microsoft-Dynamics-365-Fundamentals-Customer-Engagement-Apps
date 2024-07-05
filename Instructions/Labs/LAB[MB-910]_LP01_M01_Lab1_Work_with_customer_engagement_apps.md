@@ -24,7 +24,7 @@ In this module, you will become familiar with how to access and navigate differe
 
    ![](./media/pp2.png)
 
-1. On the right tab enter the following details and leave the others as default:https://github.com/CloudLabs-MOC/MB-910T00A-Microsoft-Dynamics-365-Fundamentals-Customer-Engagement-Apps/blob/new-prod-updated/Instructions/Labs/LAB%5BMB-910%5D_LP01_M01_Lab1_Work_with_customer_engagement_apps.md
+1. On the right tab enter the following details and leave the others as default:
 
     - Name - **Sales-<inject key="DeploymentID" enableCopy="false" />** (1)
     - Add a Dataverse to a Datastore - **Enabled** (2)
