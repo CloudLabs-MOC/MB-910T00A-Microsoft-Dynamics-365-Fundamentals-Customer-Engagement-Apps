@@ -5,7 +5,7 @@
 
 In this module, you will manually be creating a lead for Jane Anderson. Jane works for a company called Jim works for a company called **ABC Consulting**. Not only will you be capturing the lead information in the system, but you will be leveraging the tools available in Dynamics 365 Sales to qualify the lead as an opportunity and work it through closing the opportunity.
 
-## Estimated Time: 20 minutes
+## Estimated Time: 30 minutes
 
 ## Task 1: Create and manage an opportunity in Dynamics 365 Sales 
 
