@@ -56,7 +56,7 @@ In this module, you will become familiar with how to access and navigate differe
 
 1. Now the Dynamics 365 apps page will appear. In the list of **Apps**, open the **Sales Hub** application. When you are within an app, there will be different areas that you can work with based on what you are trying to do. For example, the Sales Hub application contains different administrative settings that you can work with.
 
-   ![](./media/pp9.png)
+   ![](./media/pp9.1.png)
 
 1. On the lower left side of the screen, at the very bottom of the left-hand navigation pane or **Site Map**, select the text **Sales**, from the list that appears, select **App Settings.** **App Settings** is where you can review and make changes to administrative settings. Notice how the left-hand navigation items have changed.
 
