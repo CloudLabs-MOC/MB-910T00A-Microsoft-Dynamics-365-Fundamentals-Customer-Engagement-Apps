@@ -126,3 +126,9 @@ In this module, you will see that customer journeys are a key component in Dynam
 1. Click on **Save**.
 
 1. Your journey is now ready to go. To start the journey, publish it by clicking on  **Publish** from the command bar.
+
+## Review
+
+In this module we have explored the pivotal role of customer journeys within Dynamics 365 Customer Insights, learning to create and configure journeys as essential tools for guiding customer interactions and optimizing marketing efforts.
+
+## You have successfully completed this workshop!
