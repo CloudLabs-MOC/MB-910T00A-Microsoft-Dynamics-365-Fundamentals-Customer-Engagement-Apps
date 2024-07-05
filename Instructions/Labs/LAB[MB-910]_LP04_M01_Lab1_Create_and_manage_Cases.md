@@ -71,3 +71,9 @@ This module aims to enhance understanding of customer engagement capabilities wi
 1. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
 
    ![](./media/pp60.png)
+
+## Review
+
+ In this module, we have learnt to utilize Dynamics 365 Customer Service Hub to create and manage cases, demonstrating proficiency in handling customer issues from inception to resolution. 
+
+## You have successfully completed this module.Click Next
