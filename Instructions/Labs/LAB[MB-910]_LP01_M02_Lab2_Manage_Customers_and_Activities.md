@@ -67,7 +67,7 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. Click the **Save** button to save the account and leave it open.
 
-  ![](./media/pp19.png)
+   ![](./media/pp19.png)
 
 1. Locate the **Contacts Sub-grid** on the right side of the screen. Select the **Vertical Ellipsis**, and from the menu that appears, select **New Contact**.
 
