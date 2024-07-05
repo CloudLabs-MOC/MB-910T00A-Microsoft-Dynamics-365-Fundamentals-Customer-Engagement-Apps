@@ -7,7 +7,7 @@ In this module you will see that customer journeys are a key component in Dynami
 
 ## Lab Setup
 
-**Estimated Time**: 10 minutes
+**Estimated Time**: 40 minutes
 
 # Task 1: Login to Dynamics 365 Customer Insights
 
