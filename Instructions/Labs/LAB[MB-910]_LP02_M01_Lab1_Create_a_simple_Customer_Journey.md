@@ -1,8 +1,6 @@
 
 # Module 5: Explore Dynamics 365 Customer Insights - Journeys
 
-**IMPORTANT**: Instructors, make sure that you have completed the all of the setup steps defined in the Dynamics 365 Customer Insights - Journeys section of the Trainer Prep Guide to ensure that your students can complete this lab correctly.   
-
 ## Objectives
 
 During this execise you will see that customer journeys are a key component in Dynamics 365 Customer Insights - Journeys. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue. 
