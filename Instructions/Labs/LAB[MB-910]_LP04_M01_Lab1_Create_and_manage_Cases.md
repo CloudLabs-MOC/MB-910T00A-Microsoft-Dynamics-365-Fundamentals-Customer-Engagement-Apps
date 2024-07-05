@@ -2,7 +2,7 @@
 
 ## Lab Setup
 
-**Estimated Time**: 10 minutes
+**Estimated Time**: 20 minutes
 
 # Task 1: Create and manage cases in Dynamics 365 Customer Service
 
