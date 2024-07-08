@@ -25,6 +25,8 @@ In this module, you will see that customer journeys are a key component in Dynam
 
    ![](./media/pp63.png)
 
+1. In the window that appears, click on **Launch Trial** button.
+
 1. In the **Where do you want to start?** window, select **Start Customer Insights-Journey**.
 
    ![](./media/pp64.png)
