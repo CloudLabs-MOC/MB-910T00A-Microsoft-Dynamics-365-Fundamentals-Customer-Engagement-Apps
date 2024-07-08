@@ -121,11 +121,9 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 1. In the Email Properties panel on the right, configure as follows:
 
-	- **Select email:** Email 
+	- **Select email:** Email 1
 
 	- **Send to:** Email
-
-	 ![](./media/pp83.png)
 
 1. Click on **Save**.
 
