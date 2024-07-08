@@ -139,6 +139,13 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
 
+   > **Congratulations** on completing the module! Now, it's time to validate it. Hit the **Validate** Button.  
+   > - If you receive a success message, you can proceed to the next task.
+   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+    <validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
+
 ## Review
 
 In this module we have demonstrated proficiency in utilizing tools within Dynamics 365 Sales to progress leads through stages, from initial capture to opportunity closure, effectively optimizing sales workflows.
