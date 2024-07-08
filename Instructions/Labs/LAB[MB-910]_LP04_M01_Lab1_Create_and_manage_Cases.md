@@ -72,6 +72,17 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
    ![](./media/pp60.png)
 
+   > **Congratulations** on completing the module! Now, it's time to validate it. Hit the **Validate** Button.  
+   > - If you receive a success message, you can proceed to the next task.
+   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+    <validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
+
+
+
+
+
 ## Review
 
  In this module, we have learnt to utilize Dynamics 365 Customer Service Hub to create and manage cases, demonstrating proficiency in handling customer issues from inception to resolution. 
