@@ -53,6 +53,8 @@ In this module, you will see that customer journeys are a key component in Dynam
 
      ![](./media/pp71.png)
 
+     >**Note:** You might have to click on the arrow-head facing downwards to view the options.
+
 1. Once you have entered the details,click on **Save** and click on **Ready to Send**.
 
    ![](./media/pp72.png)
