@@ -48,7 +48,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 1. In the window that appears,enter the following details:
 
-   - Sender: Choose **Default Sender**
+   - Sender: Choose **Default brand Sender**
    - Subject: **Demo Email**
 
      ![](./media/pp71.png)
