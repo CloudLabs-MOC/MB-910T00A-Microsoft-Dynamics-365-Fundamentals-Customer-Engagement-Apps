@@ -104,7 +104,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
     - In the Name the Journey field, enter **Demo Customer Journey** (1)
     - Under Choose the Type of Journey, Set to **Segment-based** (2)
-    - Select the **Demo** segment (3)
+    - Search for and select the **Demo** segment (3)
     - Under **Select the frequency**, choose **A one-time journey with a static audience** (4)
     - Set the **Start date** to **Tomorrow’s Date** (5)
     - Select the **Create** button (6)
