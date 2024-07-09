@@ -6,7 +6,7 @@
 
 In this module, you will be working with common records that are used by all the first-party customer engagement apps. 
 
-## Estimated Time: 30 minutes
+## Estimated Time: 45 minutes
 
 ## Task 1: Manage customers and activities
 
