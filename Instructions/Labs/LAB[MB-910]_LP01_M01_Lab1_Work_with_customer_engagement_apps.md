@@ -5,7 +5,7 @@
 
 In this module, you will become familiar with how to access and navigate different Dynamics 365 customer engagement applications. 
 
-## Estimated Time: 20 minutes
+## Estimated Time: 30 minutes
 
 ## Task 1: Introduction to Microsoft 365 Dynamic Applications
 
