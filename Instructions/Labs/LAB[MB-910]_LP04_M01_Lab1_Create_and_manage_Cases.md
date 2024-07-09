@@ -4,7 +4,7 @@
 
 This module aims to enhance understanding of customer engagement capabilities within Dynamics 365.
 
-## Estimated Time: 30 minutes
+## Estimated Time: 60 minutes
 
 # Task 1: Create and manage cases in Dynamics 365 Customer Service
 
