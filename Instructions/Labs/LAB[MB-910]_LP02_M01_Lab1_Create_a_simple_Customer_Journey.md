@@ -5,7 +5,7 @@
 
 In this module, you will see that customer journeys are a key component in Dynamics 365 Customer Insights - Journeys. You will create customer journeys as a basis for any marketing effort to guide the path a customer takes while interacting with your organization's marketing process. The goal of the journey, when it is complete, is to turn them into revenue. 
 
-## Estimated Time: 40 minutes
+## Estimated Time: 60 minutes
 
 # Task 1: Login to Dynamics 365 Customer Insights
 
