@@ -8,6 +8,10 @@ In this module, you will be working with common records that are used by all the
 
 ## Estimated Time: 45 minutes
 
+## Architecture Diagram
+
+   ![](./media/mod2.png)
+
 ## Task 1: Manage customers and activities
 
 In this task, you will be working with common records that are leveraged by all the first-party customer engagement apps. 
