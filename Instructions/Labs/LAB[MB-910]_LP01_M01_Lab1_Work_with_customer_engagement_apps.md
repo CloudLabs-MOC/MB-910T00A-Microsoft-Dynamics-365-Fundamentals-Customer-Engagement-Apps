@@ -3,7 +3,7 @@
 
 ## Objectives
 
-In this module, you will become familiar with how to access and navigate different Dynamics 365 customer engagement applications. 
+In this module, you will become familiar with how to access and navigate through different Dynamics 365 customer engagement applications. 
 
 ## Estimated Time: 30 minutes
 
