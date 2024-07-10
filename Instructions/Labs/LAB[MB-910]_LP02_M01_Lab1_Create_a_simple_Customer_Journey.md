@@ -7,7 +7,11 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 ## Estimated Time: 60 minutes
 
-# Task 1: Login to Dynamics 365 Customer Insights
+## Architecture Diagram
+
+   ![](./media/mod5.png)
+
+## Task 1: Login to Dynamics 365 Customer Insights
 
 1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
 
