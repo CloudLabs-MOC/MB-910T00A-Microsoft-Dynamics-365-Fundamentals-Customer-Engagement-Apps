@@ -7,6 +7,10 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 ## Estimated Time: 60 minutes
 
+## Architecture Diagram
+
+   ![](./media/mod3.png)
+
 ## Task 1: Create and manage an opportunity in Dynamics 365 Sales 
 
 1. In the **Dynamics 365 Sales Hub** application from the left navigation pane, select **Leads**.
