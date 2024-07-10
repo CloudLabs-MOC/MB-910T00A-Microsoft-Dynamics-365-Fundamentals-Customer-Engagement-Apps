@@ -7,6 +7,10 @@ In this module, you will become familiar with how to access and navigate differe
 
 ## Estimated Time: 30 minutes
 
+## Architecture Diagram
+
+   ![](./media/mod1.png)
+
 ## Task 1: Introduction to Microsoft 365 Dynamic Applications
 
 1.  In the lab VM open Microsoft Edge and navigate to this web URL in a new private window -> <https://admin.powerplatform.microsoft.com/> 
