@@ -6,7 +6,11 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 ## Estimated Time: 60 minutes
 
-# Task 1: Create and manage cases in Dynamics 365 Customer Service
+## Architecture Diagram
+
+   ![](./media/mod4.png)
+
+## Task 1: Create and manage cases in Dynamics 365 Customer Service
 
 1. Click on **Sales Hub** from the top left corner and from the list of apps open the **Dynamics 365 Customer Service Hub** application.
 
