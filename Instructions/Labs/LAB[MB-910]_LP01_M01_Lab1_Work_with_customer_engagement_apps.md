@@ -31,12 +31,12 @@ In this module, you will become familiar with how to access and navigate through
 1. On the right tab enter the following details and leave the others as default:
 
     - Name - **Sales-<inject key="DeploymentID" enableCopy="false" />** (1)
-    - Add a Dataverse to a Datastore - **Enabled** (2)
+    - Add a Dataverse data store - **Yes** (2)
     - Click **Next** (3)
 
-      ![](./media/pp3.png)
+      ![](./media/lab01-mod01-01.png)
     
-1. Under Security Group click on the **+** icon and in the new window that appears, select **None** and subsequently click on **Done**.
+1. Under Security Group click on the **+ Select** icon and in the new window that appears, select **None** and subsequently click on **Done**.
 
    ![](./media/pp4.png)
 
@@ -78,12 +78,6 @@ In this module, you will become familiar with how to access and navigate through
 
 1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
 
-   > **Congratulations** on completing the module! Now, it's time to validate it. Hit the **Validate** Button .  
-   > - If you receive a success message, you can proceed to the next task.
-   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-    <validation step="0e9b1f3a-5161-4cd7-bbf7-0d507e2c81f3" />
  
 ## Review
 Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.

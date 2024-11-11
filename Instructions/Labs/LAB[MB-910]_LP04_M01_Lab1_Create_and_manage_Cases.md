@@ -30,7 +30,7 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 	- **Case Title:** Item arrived Damaged 
 
-	- **Customer:** James Anderson
+	- **Customer:** Jackson Anderson
 
 1.  Select the **Save** button to save the record and leave it open. 
 
@@ -40,7 +40,7 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 1.  From the menu that appears, select **Phone Call**.
 
-1.  Set the **Subject** field to **Return Call** and leave the rest of the fields as is.Select the **Save and Close** button.
+1.  Set the **Subject** field to **Return Call** and leave the rest of the fields as default. Select the **Save and Close** button.
 
     ![](./media/pp53.png)
 
@@ -75,16 +75,6 @@ This module aims to enhance understanding of customer engagement capabilities wi
 1. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
 
    ![](./media/pp60.png)
-
-   > **Congratulations** on completing the module! Now, it's time to validate it. Hit the **Validate** Button.  
-   > - If you receive a success message, you can proceed to the next task.
-   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-    <validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
-
-
-
 
 
 ## Review

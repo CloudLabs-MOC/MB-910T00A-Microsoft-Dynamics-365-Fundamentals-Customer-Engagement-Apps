@@ -15,7 +15,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
 
-1. In the window that appears, click on **Try for Free**.
+1. In the window that appears, click on **Try for Free** under Dynamics 365 Customer Insights free trial.
 
     ![](./media/pp61.png)
 
@@ -23,13 +23,13 @@ In this module, you will see that customer journeys are a key component in Dynam
 
    ![](./media/pp62.png)
 
-1. In the **Action Required** window,click on **Ask Later**.
+1. In the **Action Required** window, click on **Ask Later** if prompted.
 
 1. In the window that appears, enter the phone number and click on **Submit**.
 
    ![](./media/pp63.png)
 
-1. In the window that appears, click on **Launch Trial** button.
+1. In the window that appears, click on **Launch Trial** button if prompted.
 
 1. In the **Where do you want to start?** window, select **Start Customer Insights-Journey**.
 
@@ -38,7 +38,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 ## Task 2: Create Email and Segment
 
-1. In the Customer Insights portal, from the left navigation pane, select **Emails**.
+1. In the Customer Insights portal, from the left navigation pane, select **Emails** under Channels.
 
    ![](./media/pp68.png)
 
@@ -52,7 +52,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 1. In the window that appears,enter the following details:
 
-   - Sender: Choose **Default brand Sender**
+   - Sender: Search and Choose **Default brand Sender**
    - Subject: **Demo Email**
 
      ![](./media/pp71.png)
@@ -89,13 +89,6 @@ In this module, you will see that customer journeys are a key component in Dynam
 1. Now click on **Save** and subsequently click on **Ready to Use**.
 
    ![](./media/pp75.png)
-
-   > **Congratulations** on completing this task! Now, it's time to validate it. Hit the **Validate** Button.  
-   > - If you receive a success message, you can proceed to the next task.
-   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-    <validation step="ed3cae2e-346a-4903-b445-7ecc8e3a44e1" />
 
 
 ## Task 3: Create a simple customer journey
@@ -140,15 +133,6 @@ In this module, you will see that customer journeys are a key component in Dynam
 1. Click on **Save**.
 
 1. Your journey is now ready to go. To start the journey, publish it by clicking on  **Publish** from the command bar.
-
-   > **Congratulations** on completing the module! Now, it's time to validate it. Hit the **Validate** Button.  
-   > - If you receive a success message, you can proceed to the next task.
-   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-    <validation step="7bc1d31d-981f-4a88-bd3b-dffa860e86df" />
-
-
 
 
 ## Review

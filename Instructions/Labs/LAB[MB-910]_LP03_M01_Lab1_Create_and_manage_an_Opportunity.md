@@ -17,7 +17,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
    ![](./media/pp29.png)
 
-1. On the **My Open Leads** view, click on the ellipsis and select the **New** button to create a new lead.
+1. On the **My Open Leads** view, click on the ellipsis and select the **+ New** button to create a new lead.
 
    ![](./media/pp30.png)
 
@@ -91,7 +91,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
     ![](./media/pp38.png)
 
-1. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**.
+1. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **+ New Connection**.
 
    ![](./media/pp39.png)
 
@@ -103,7 +103,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
    ![](./media/pp41.png)
 
-1. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
+1. On the **Lookup Record** screen, select **+ New Record**, and then select **Competitors**.
 
 1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies**.
 
@@ -137,18 +137,12 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 1. Now that you have completed the business process, you need to close the opportunity.
 
-1. On the **Command Bar** of the opportunity, select the **Close as Won** button.
+1. On the **Command Bar** of the opportunity, select the **Close as won** button.
 
     ![](./media/pp47.png)
 
 1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
 
-   > **Congratulations** on completing the module! Now, it's time to validate it. Hit the **Validate** Button.  
-   > - If you receive a success message, you can proceed to the next task.
-   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-   > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-    <validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
 
 ## Review
 
