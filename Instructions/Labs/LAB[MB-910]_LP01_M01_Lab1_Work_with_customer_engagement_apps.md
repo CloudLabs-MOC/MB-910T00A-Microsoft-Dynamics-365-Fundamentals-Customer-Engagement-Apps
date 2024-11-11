@@ -31,12 +31,12 @@ In this module, you will become familiar with how to access and navigate through
 1. On the right tab enter the following details and leave the others as default:
 
     - Name - **Sales-<inject key="DeploymentID" enableCopy="false" />** (1)
-    - Add a Dataverse to a Datastore - **Enabled** (2)
+    - Add a Dataverse data store - **Yes** (2)
     - Click **Next** (3)
 
-      ![](./media/pp3.png)
+      ![](./media/lab01-mod01-01.png)
     
-1. Under Security Group click on the **+** icon and in the new window that appears, select **None** and subsequently click on **Done**.
+1. Under Security Group click on the **+ Select** icon and in the new window that appears, select **None** and subsequently click on **Done**.
 
    ![](./media/pp4.png)
 
