@@ -22,7 +22,7 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp14.png)
 
-1. On the Command Bar, select the **New** button.
+1. On the Command Bar, select the **+ New** button.
 
    ![](./media/pp15.png)
 
@@ -38,13 +38,13 @@ In this task, you will be working with common records that are leveraged by all 
 
 	- **Address 1 State/ Province:** WA
 
-	- **Address 1 Postal Code:** 98101
+	- **Address 1 ZIP/Postal Code:** 98101
 
-1. On the Command bar, select the **Save and Close** button to save and exit the account record.
+1. On the Command bar, select the **Save & Close** button to save and exit the account record.
 
    ![](./media/pp16.png)
 
-1. On the Command bar, from the list of accounts, select the **New** button again.
+1. On the Command bar, from the list of accounts, select the **+ New** button again.
 
    ![](./media/pp17.png)
 
@@ -60,7 +60,7 @@ In this task, you will be working with common records that are leveraged by all 
 
 	- **Address 1 State/ Province:** IL
 
-	- **Address 1 Postal Code:** 60176
+	- **Address 1 ZIP/Postal Code:** 60176
 
 1. Set the **Parent Account** field to the **Contoso Corporate** account you created earlier.
 
@@ -70,7 +70,7 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp19.png)
 
-1. Locate the **Contacts Sub-grid** on the right side of the screen. Select the **Vertical Ellipsis**, and from the menu that appears, select **New Contact**.
+1. Locate the **Contacts Sub-grid** on the screen. Select the **Vertical Ellipsis**, and from the menu that appears, select **+ New Contact**.
 
    ![](./media/pp20.png)
  
@@ -92,7 +92,7 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp22.png)
 
-1. On the **Record Timeline** located in the middle of the screen, select the **Plus Sign Icon** to add a new item.
+1. On the **Record Timeline** located in the screen, select the **Plus Sign Icon** to add a new item.
 
    ![](./media/pp23.png)
 
@@ -110,7 +110,7 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp24.png)
 
-1. **Save and close** the account.
+1. **Save & Close** the account.
 
    ![](./media/pp25.png)
 
