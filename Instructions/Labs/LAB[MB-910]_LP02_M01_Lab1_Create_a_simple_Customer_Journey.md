@@ -15,7 +15,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
 
-1. In the window that appears, click on **Try for Free**.
+1. In the window that appears, click on **Try for Free** under Dynamics 365 Customer Insights free trial.
 
     ![](./media/pp61.png)
 
@@ -23,13 +23,13 @@ In this module, you will see that customer journeys are a key component in Dynam
 
    ![](./media/pp62.png)
 
-1. In the **Action Required** window,click on **Ask Later**.
+1. In the **Action Required** window, click on **Ask Later** if prompted.
 
 1. In the window that appears, enter the phone number and click on **Submit**.
 
    ![](./media/pp63.png)
 
-1. In the window that appears, click on **Launch Trial** button.
+1. In the window that appears, click on **Launch Trial** button if prompted.
 
 1. In the **Where do you want to start?** window, select **Start Customer Insights-Journey**.
 
@@ -38,7 +38,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 ## Task 2: Create Email and Segment
 
-1. In the Customer Insights portal, from the left navigation pane, select **Emails**.
+1. In the Customer Insights portal, from the left navigation pane, select **Emails** under Channels.
 
    ![](./media/pp68.png)
 
@@ -52,7 +52,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 1. In the window that appears,enter the following details:
 
-   - Sender: Choose **Default brand Sender**
+   - Sender: Search and Choose **Default brand Sender**
    - Subject: **Demo Email**
 
      ![](./media/pp71.png)
