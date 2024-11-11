@@ -17,7 +17,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
    ![](./media/pp29.png)
 
-1. On the **My Open Leads** view, click on the ellipsis and select the **New** button to create a new lead.
+1. On the **My Open Leads** view, click on the ellipsis and select the **+ New** button to create a new lead.
 
    ![](./media/pp30.png)
 
@@ -91,7 +91,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
     ![](./media/pp38.png)
 
-1. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**.
+1. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **+ New Connection**.
 
    ![](./media/pp39.png)
 
@@ -103,7 +103,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
    ![](./media/pp41.png)
 
-1. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
+1. On the **Lookup Record** screen, select **+ New Record**, and then select **Competitors**.
 
 1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies**.
 
@@ -137,7 +137,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 1. Now that you have completed the business process, you need to close the opportunity.
 
-1. On the **Command Bar** of the opportunity, select the **Close as Won** button.
+1. On the **Command Bar** of the opportunity, select the **Close as won** button.
 
     ![](./media/pp47.png)
 

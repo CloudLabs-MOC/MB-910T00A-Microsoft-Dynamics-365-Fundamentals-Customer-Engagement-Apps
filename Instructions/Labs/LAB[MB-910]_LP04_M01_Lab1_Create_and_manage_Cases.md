@@ -30,7 +30,7 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 	- **Case Title:** Item arrived Damaged 
 
-	- **Customer:** James Anderson
+	- **Customer:** Jackson Anderson
 
 1.  Select the **Save** button to save the record and leave it open. 
 
@@ -40,7 +40,7 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 1.  From the menu that appears, select **Phone Call**.
 
-1.  Set the **Subject** field to **Return Call** and leave the rest of the fields as is.Select the **Save and Close** button.
+1.  Set the **Subject** field to **Return Call** and leave the rest of the fields as default. Select the **Save and Close** button.
 
     ![](./media/pp53.png)
 
