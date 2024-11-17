@@ -1,5 +1,5 @@
 
-# Module 3: Explore Dynamics 365 Sales
+# Module 4: Explore Dynamics 365 Sales
 
 ## Objectives
 
