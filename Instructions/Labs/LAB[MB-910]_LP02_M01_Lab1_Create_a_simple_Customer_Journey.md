@@ -1,5 +1,5 @@
 
-# Module 5: Explore Dynamics 365 Customer Insights - Journeys
+# Module 3: Explore Dynamics 365 Customer Insights - Journeys
 
 ## Objectives
 
