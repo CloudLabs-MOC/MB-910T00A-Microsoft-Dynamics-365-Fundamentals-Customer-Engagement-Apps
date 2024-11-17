@@ -81,4 +81,4 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
  In this module, we have learnt to utilize Dynamics 365 Customer Service Hub to create and manage cases, demonstrating proficiency in handling customer issues from inception to resolution. 
 
-## You have successfully completed this module.Click Next
+## You have successfully completed the workshop!
