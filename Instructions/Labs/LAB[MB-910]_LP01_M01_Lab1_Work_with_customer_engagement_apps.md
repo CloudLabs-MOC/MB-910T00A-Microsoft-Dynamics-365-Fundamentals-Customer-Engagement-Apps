@@ -78,6 +78,9 @@ In this module, you will become familiar with how to access and navigate through
 
 1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
 
+## validation
+
+<validation step="0e9b1f3a-5161-4cd7-bbf7-0d507e2c81f3" />
  
 ## Review
 Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.
