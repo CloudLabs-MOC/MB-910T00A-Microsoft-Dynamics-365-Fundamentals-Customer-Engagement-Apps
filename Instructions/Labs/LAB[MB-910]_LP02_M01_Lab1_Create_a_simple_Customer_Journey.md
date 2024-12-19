@@ -89,6 +89,9 @@ In this module, you will see that customer journeys are a key component in Dynam
 
    ![](./media/pp75.png)
 
+## validation
+
+<validation step="ed3cae2e-346a-4903-b445-7ecc8e3a44e1" />
 
 ## Task 3: Create a simple customer journey
 
@@ -135,7 +138,7 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 ## validation
 
-<validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
+<validation step="7bc1d31d-981f-4a88-bd3b-dffa860e86df" />
 
 ## Review
 
