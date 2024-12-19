@@ -129,9 +129,9 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 	
 	<validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
 
-1. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
+21. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
 
-1. Complete as follows and select the **Next Stage** button to advance to the **Propose** stage.
+22. Complete as follows and select the **Next Stage** button to advance to the **Propose** stage.
 
 	- **Identify Stakeholders**: completed
 
@@ -139,23 +139,23 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
          ![](./media/pp44.png)
 
-1. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
+23. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
 
     ![](./media/pp45.png)
 
-1. On the **Close** stage, mark all tasks as **completed**.
+24. On the **Close** stage, mark all tasks as **completed**.
 
    ![](./media/pp46.png)
 
-1. Select the **Finish** button on the business process flow.
+25. Select the **Finish** button on the business process flow.
 
-1. Now that you have completed the business process, you need to close the opportunity.
+26. Now that you have completed the business process, you need to close the opportunity.
 
-1. On the **Command Bar** of the opportunity, select the **Close as won** button.
+27. On the **Command Bar** of the opportunity, select the **Close as won** button.
 
     ![](./media/pp47.png)
 
-1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
+28. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
 
 ## Review
 
