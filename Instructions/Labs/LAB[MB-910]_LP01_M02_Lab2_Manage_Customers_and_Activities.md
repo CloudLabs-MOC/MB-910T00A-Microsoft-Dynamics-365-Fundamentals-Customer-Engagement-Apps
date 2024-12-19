@@ -68,7 +68,7 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp19.png)
 
-1. Locate the **Contacts Sub-grid** on the screen. Select the **Vertical Ellipsis**, and from the menu that appears, select **+ New Contact**.
+1. Scroll down and locate the **Contacts Sub-grid** on the screen. Select the **Vertical Ellipsis**, and from the menu that appears, select **+ New Contact**.
 
    ![](./media/pp20.png)
  
