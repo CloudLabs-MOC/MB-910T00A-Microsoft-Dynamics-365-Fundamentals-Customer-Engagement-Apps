@@ -42,11 +42,11 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 1.  Set the **Subject** field to **Return Call** and leave the rest of the fields as default. Select the **Save and Close** button.
 
-    ![](./media/pp53.png)
+    ![](./media/pp503.png)
 
 1. On the **Phone to Case Process**, select the **Identify** stage.Select the **Next Stage** button to advance to the **Research** stage.
 
-    ![](./media/pp54.png)
+    ![](./media/pp504.png)
 
 1. Select the **X** on the **Research** stage fly out window so you can continue working. 
 
@@ -60,14 +60,14 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
    ![](./media/pp56.png)
 
->**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-
- > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
- > - Hit the Validate button for the corresponding task.
- > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
- > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-<validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
+	>**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+	
+	 > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
+	 > - Hit the Validate button for the corresponding task.
+	 > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+	 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+	
+	<validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
 
 14. On the **Phone to Case Process**, select the **Research** stage, and select the **Next Stage** button to advance to the **Resolve** stage.
 
