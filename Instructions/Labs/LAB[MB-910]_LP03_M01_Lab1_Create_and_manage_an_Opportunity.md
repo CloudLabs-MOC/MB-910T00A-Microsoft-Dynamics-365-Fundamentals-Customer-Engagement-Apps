@@ -12,6 +12,12 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 ## Task 1: Create and manage an opportunity in Dynamics 365 Sales 
 
+1. On the **Dynamics 365 portal**, click on **Customer Insights - Journeys**.Click on **Customer Insights - Journeys** from the top left corner and from the list of apps open the **Sales Hub**.
+
+   ![](./media/pp290.png)
+
+   ![](./media/pp291.png)
+
 1. In the **Dynamics 365 Sales Hub** application from the left navigation pane, select **Leads**.
 
    ![](./media/pp29.png)
@@ -76,7 +82,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 1. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
 
-    ![](./media/pp36.png)
+    ![](./media/pp360.png)
 
 1. Complete as follows:
 
