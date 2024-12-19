@@ -1,5 +1,3 @@
-
-
 # Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 
 ## Objectives
@@ -128,6 +126,9 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. Select the **Save and Close** button to return to the account record.
 
+## validation
+
+<validation step="7cbb2a40-23ae-4a44-8803-245d152b8f7e" />
 
 ## Review
  
