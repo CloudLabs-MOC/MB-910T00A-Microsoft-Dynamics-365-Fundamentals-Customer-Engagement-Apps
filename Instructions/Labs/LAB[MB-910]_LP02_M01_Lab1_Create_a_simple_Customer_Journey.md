@@ -1,4 +1,3 @@
-
 # Module 3: Explore Dynamics 365 Customer Insights - Journeys
 
 ## Objectives
@@ -134,6 +133,9 @@ In this module, you will see that customer journeys are a key component in Dynam
 
 1. Your journey is now ready to go. To start the journey, publish it by clicking on  **Publish** from the command bar.
 
+## validation
+
+<validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
 
 ## Review
 
