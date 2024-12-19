@@ -30,7 +30,7 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 	- **Case Title:** Item arrived Damaged 
 
-	- **Customer:** Jackson Anderson
+	- **Customer:** Jane Anderson
 
 1.  Select the **Save** button to save the record and leave it open. 
 
@@ -76,6 +76,9 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
    ![](./media/pp60.png)
 
+## validation
+
+<validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
 
 ## Review
 
