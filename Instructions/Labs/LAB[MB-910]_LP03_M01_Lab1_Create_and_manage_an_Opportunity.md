@@ -82,7 +82,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 1. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
 
-    ![](./media/pp360.png)
+    ![](./media/pp3610.png)
 
 1. Complete as follows:
 
@@ -110,7 +110,7 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 1. On the **Lookup Record** screen, select **+ New Record**, and then select **Competitors**.
 
-1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies**.
+1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies**
 
 1. Select the **Save and Close** button.
 
@@ -119,6 +119,15 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 1. **Coho Technologies** should be selected in the lookup record window. Click the **Add** button to finish adding the competitor.
 
    ![](./media/pp43.png)
+
+	>**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+	
+	 > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
+	 > - Hit the Validate button for the corresponding task.
+	 > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+	 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+	
+	<validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
 
 1. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
 
@@ -147,17 +156,6 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
     ![](./media/pp47.png)
 
 1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
-
->**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-
- > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
- > - Hit the Validate button for the corresponding task.
- > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
- > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-## validation
-
-<validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
 
 ## Review
 
