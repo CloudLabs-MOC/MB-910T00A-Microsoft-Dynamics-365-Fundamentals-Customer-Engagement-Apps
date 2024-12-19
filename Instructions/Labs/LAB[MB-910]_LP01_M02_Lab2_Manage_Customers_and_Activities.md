@@ -126,6 +126,13 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. Select the **Save and Close** button to return to the account record.
 
+>**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+ > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
+ > - Hit the Validate button for the corresponding task.
+ > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+ > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ## validation
 
 <validation step="7cbb2a40-23ae-4a44-8803-245d152b8f7e" />
