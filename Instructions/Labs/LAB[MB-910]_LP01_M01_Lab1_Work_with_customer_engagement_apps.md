@@ -78,6 +78,14 @@ In this module, you will become familiar with how to access and navigate through
 
 1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
 
+
+>**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+ > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
+ > - Hit the Validate button for the corresponding task.
+ > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+ > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
 ## validation
 
 <validation step="0e9b1f3a-5161-4cd7-bbf7-0d507e2c81f3" />
