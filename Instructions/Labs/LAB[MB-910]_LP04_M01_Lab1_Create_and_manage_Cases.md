@@ -69,19 +69,19 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 <validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
 
-1. On the **Phone to Case Process**, select the **Research** stage, and select the **Next Stage** button to advance to the **Resolve** stage.
+14. On the **Phone to Case Process**, select the **Research** stage, and select the **Next Stage** button to advance to the **Resolve** stage.
 
     ![](./media/pp57.png)
 
-1. On the **Resolve** stage, select the **Finish** button to complete the business process flow. 
+15. On the **Resolve** stage, select the **Finish** button to complete the business process flow. 
 
    ![](./media/pp58.png)
 
-1. On the **Command Bar** for the case record, select the **Resolve Case** button. 
+16. On the **Command Bar** for the case record, select the **Resolve Case** button. 
 
    ![](./media/pp59.png)
 
-1. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
+17. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
 
    ![](./media/pp60.png)
 
