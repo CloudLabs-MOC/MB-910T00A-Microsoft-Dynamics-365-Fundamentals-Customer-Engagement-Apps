@@ -30,7 +30,7 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 	- **Case Title:** Item arrived Damaged 
 
-	- **Customer:** Jane Anderson
+	- **Customer:** Jackson Anderson
 
 1.  Select the **Save** button to save the record and leave it open. 
 
@@ -60,6 +60,15 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
    ![](./media/pp56.png)
 
+>**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+
+ > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
+ > - Hit the Validate button for the corresponding task.
+ > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+ > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
+
+<validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
+
 1. On the **Phone to Case Process**, select the **Research** stage, and select the **Next Stage** button to advance to the **Resolve** stage.
 
     ![](./media/pp57.png)
@@ -76,16 +85,6 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
    ![](./media/pp60.png)
 
->**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-
- > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
- > - Hit the Validate button for the corresponding task.
- > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
- > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-
-## validation
-
-<validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
 
 ## Review
 
