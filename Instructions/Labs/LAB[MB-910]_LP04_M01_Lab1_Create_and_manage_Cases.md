@@ -75,15 +75,15 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
 15. On the **Resolve** stage, select the **Finish** button to complete the business process flow. 
 
-   ![](./media/pp58.png)
+    ![](./media/pp58.png)
 
 16. On the **Command Bar** for the case record, select the **Resolve Case** button. 
 
-   ![](./media/pp59.png)
+    ![](./media/pp59.png)
 
 17. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
 
-   ![](./media/pp60.png)
+    ![](./media/pp60.png)
 
 
 ## Review
