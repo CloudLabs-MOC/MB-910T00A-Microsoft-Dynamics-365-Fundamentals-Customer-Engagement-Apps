@@ -133,8 +133,6 @@ In this task, you will be working with common records that are leveraged by all 
  > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
  > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-## validation
-
 <validation step="7cbb2a40-23ae-4a44-8803-245d152b8f7e" />
 
 ## Review
