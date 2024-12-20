@@ -86,8 +86,6 @@ In this module, you will become familiar with how to access and navigate through
  > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
  > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
 
-## validation
-
 <validation step="0e9b1f3a-5161-4cd7-bbf7-0d507e2c81f3" />
  
 ## Review
