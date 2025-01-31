@@ -120,18 +120,10 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
    ![](./media/pp43.png)
 
-	>**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-	
-	 > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
-	 > - Hit the Validate button for the corresponding task.
-	 > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-	 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-	
-	<validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
+  
+1. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
 
-21. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
-
-22. Complete as follows and select the **Next Stage** button to advance to the **Propose** stage.
+1. Complete as follows and select the **Next Stage** button to advance to the **Propose** stage.
 
 	- **Identify Stakeholders**: completed
 
@@ -139,23 +131,30 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
          ![](./media/pp44.png)
 
-23. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
+1. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
 
     ![](./media/pp45.png)
 
-24. On the **Close** stage, mark all tasks as **completed**.
+1. On the **Close** stage, mark all tasks as **completed**.
 
    ![](./media/pp46.png)
 
-25. Select the **Finish** button on the business process flow.
+1. Select the **Finish** button on the business process flow.
 
-26. Now that you have completed the business process, you need to close the opportunity.
+1. Now that you have completed the business process, you need to close the opportunity.
 
-27. On the **Command Bar** of the opportunity, select the **Close as won** button.
+1. On the **Command Bar** of the opportunity, select the **Close as won** button.
 
     ![](./media/pp47.png)
 
-28. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
+1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
+
+  > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+  > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed to the next task. 
+  > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+  > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+	
+  <validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
 
 ## Review
 
