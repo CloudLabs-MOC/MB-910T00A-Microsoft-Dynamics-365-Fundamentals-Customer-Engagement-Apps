@@ -1,6 +1,10 @@
 
 # Module 1: Describe the foundations of Dynamics 365 customer engagement apps
 
+## Lab Overview
+
+This lab provides an introduction to Microsoft Power Platform and Dynamics 365 applications, focusing on setting up a new environment and navigating the Sales Hub. You will create an environment, enable Dynamics 365 apps, and explore key areas such as App Settings and navigation between different applications like the Customer Service Hub. 
+
 ## Lab Objective
 
 In this lab, you will be performing the following task:
@@ -83,7 +87,7 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
 
  > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
- > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed further.
+ > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully completed the task.
  > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
  > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
 
