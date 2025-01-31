@@ -1,8 +1,14 @@
 # Module 5: Explore Dynamics 365 Customer Service
 
-## Objectives
+## Lab Overview
 
-This module aims to enhance understanding of customer engagement capabilities within Dynamics 365.
+In this lab, you will learn how to create and manage customer service cases using Dynamics 365 Customer Service Hub. You will go through the complete case lifecycle—from case creation and activity logging to resolution—using the Phone to Case business process flow. 
+
+## Lab Objectives
+
+In this lab, you will be performing the following task:
+
+- Task 1: Create and manage cases in Dynamics 365 Customer Service
 
 ## Estimated Time: 60 minutes
 
