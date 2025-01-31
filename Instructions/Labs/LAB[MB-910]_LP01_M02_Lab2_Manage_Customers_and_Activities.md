@@ -1,8 +1,12 @@
 # Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 
+## Lab Overview
+
+In this lab, you will explore how to manage customer records and activities within Dynamics 365 Sales Hub, which is essential for effective customer engagement.You will create and link accounts, contacts, and appointments, demonstrating how Dynamics 365 enables streamlined customer relationship management.
+
 ## Lab Objective
 
-In this lab you will be performing the following task:
+In this lab, you will be performing the following task:
   
 - Task 1: Manage customers and activities
 
