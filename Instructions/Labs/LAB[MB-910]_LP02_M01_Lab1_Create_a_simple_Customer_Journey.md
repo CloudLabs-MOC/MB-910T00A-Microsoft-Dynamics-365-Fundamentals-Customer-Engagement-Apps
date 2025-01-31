@@ -1,5 +1,9 @@
 # Module 3: Explore Dynamics 365 Customer Insights - Journeys
 
+## Lab Overview
+
+In this lab, you will learn how to navigate Dynamics 365 Customer Insights - Journeys, create customer segments, and automate personalized marketing campaigns. You will go through the essential steps of email creation, segment definition, and customer journey automation, helping you understand how to engage customers effectively. 
+
 ## Lab Objective
 
 In this lab, you will be performing the following task:
