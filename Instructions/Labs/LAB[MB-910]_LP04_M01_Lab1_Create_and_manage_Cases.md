@@ -60,31 +60,28 @@ This module aims to enhance understanding of customer engagement capabilities wi
 
    ![](./media/pp56.png)
 
-	>**Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-	
-	 > - Click the Lab Validation tab located at the upper right corner of the lab guide section and navigate to the Lab Validation tab.
-	 > - Hit the Validate button for the corresponding task.
-	 > - If you receive a success message, you can proceed to the next task. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-	 > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help you out.
-	
-	<validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
-
-14. On the **Phone to Case Process**, select the **Research** stage, and select the **Next Stage** button to advance to the **Resolve** stage.
+1. On the **Phone to Case Process**, select the **Research** stage, and select the **Next Stage** button to advance to the **Resolve** stage.
 
     ![](./media/pp57.png)
 
-15. On the **Resolve** stage, select the **Finish** button to complete the business process flow. 
+1. On the **Resolve** stage, select the **Finish** button to complete the business process flow. 
 
     ![](./media/pp58.png)
 
-16. On the **Command Bar** for the case record, select the **Resolve Case** button. 
+1. On the **Command Bar** for the case record, select the **Resolve Case** button. 
 
     ![](./media/pp59.png)
 
-17. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
+1. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
 
     ![](./media/pp60.png)
 
+  > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+  > - Hit the Validate button for the corresponding task. If you receive a success message, you can proceed further. 
+  > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+  > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
+	
+  <validation step="ae24efd7-832c-441b-9767-bc114d8c10cc" />
 
 ## Review
 
