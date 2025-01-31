@@ -13,6 +13,8 @@ In this module, you will become familiar with how to access and navigate through
 
 ## Task 1: Introduction to Microsoft 365 Dynamic Applications
 
+In this task, we will explore Microsoft Power Platform and Dynamics 365 applications by setting up a new environment and navigating the Sales Hub. 
+
 1.  In the lab VM open Microsoft Edge and navigate to this web URL in a new private window -> <https://admin.powerplatform.microsoft.com/> 
 
 1. In the lab environment, provide the following username and password:
