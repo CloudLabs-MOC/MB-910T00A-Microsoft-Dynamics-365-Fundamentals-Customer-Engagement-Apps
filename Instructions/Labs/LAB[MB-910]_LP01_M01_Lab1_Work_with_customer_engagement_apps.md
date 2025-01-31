@@ -1,9 +1,11 @@
 
 # Module 1: Describe the foundations of Dynamics 365 customer engagement apps
 
-## Objectives
+## Lab Objective
 
-In this module, you will become familiar with how to access and navigate through different Dynamics 365 customer engagement applications. 
+In this lab, you will be performing the following task:
+
+- Task 1: Introduction to Microsoft 365 Dynamic Applications
 
 ## Estimated Time: 30 minutes
 
