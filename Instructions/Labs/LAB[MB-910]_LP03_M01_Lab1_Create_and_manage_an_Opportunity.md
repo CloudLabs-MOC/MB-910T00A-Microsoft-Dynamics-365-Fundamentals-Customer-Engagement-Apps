@@ -1,8 +1,14 @@
 # Module 4: Explore Dynamics 365 Sales
 
-## Objectives
+## Lab Overview
 
 In this module, you will manually be creating a lead for Jane Anderson. Jane works for a company called Jim works for a company called **ABC Consulting**. Not only will you be capturing the lead information in the system, but you will be leveraging the tools available in Dynamics 365 Sales to qualify the lead as an opportunity and work it through closing the opportunity.
+
+## Lab Objectives
+
+In this lab, you will be performing the following task:
+
+- Task 1: Create and manage an opportunity in Dynamics 365 Sales 
 
 ## Estimated Time: 60 minutes
 
@@ -160,4 +166,4 @@ In this module, you will manually be creating a lead for Jane Anderson. Jane wor
 
 In this module we have demonstrated proficiency in utilizing tools within Dynamics 365 Sales to progress leads through stages, from initial capture to opportunity closure, effectively optimizing sales workflows.
 
-## You have successfully completed this module.Click Next
+## You have successfully completed this module. Click Next
