@@ -99,9 +99,12 @@ Task 1: Login to Dynamics 365 Customer Insights
 
    > **Note**:  If you see **Share feedback on segment creation!** tab, select **Cancel**.
 
-## validation
+  > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
+  > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully completed the task. 
+  > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
+  > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
 
-<validation step="ed3cae2e-346a-4903-b445-7ecc8e3a44e1" />
+  <validation step="ed3cae2e-346a-4903-b445-7ecc8e3a44e1" />
 
 ## Task 3: Create a simple customer journey
 
