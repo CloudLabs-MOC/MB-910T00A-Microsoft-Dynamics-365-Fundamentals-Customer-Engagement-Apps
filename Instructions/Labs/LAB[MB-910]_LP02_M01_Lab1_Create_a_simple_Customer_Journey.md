@@ -24,7 +24,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
     ![](./media/pp61.png)
 
-1. Enter <inject key="AzureAdUserEmail"></inject> for the email, agree to the terms and subsequently  click on **Start Free Trial**.
+1. Enter <inject key="AzureAdUserEmail"></inject> for the email, agree to the terms and subsequently  click on **Start your free trial**.
 
    ![](./media/pp62.png)
 
@@ -57,10 +57,12 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. In the window that appears,enter the following details:
 
-   - Sender: Search and Choose **Default brand Sender**
+   - From: You can see **Default brand Sender** is already selected
    - Subject: **Demo Email**
 
-     ![](./media/pp71.png)
+     ![](./media/new-mb910-mod-3-3.png)
+
+     ![](./media/new-mb910-mod-3-2.png)
 
      >**Note:** You might have to click on the arrow-head facing downwards to view the options and if **sender** option is not visible, refresh the page and check.
 
@@ -68,7 +70,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
    ![](./media/pp72.png)
 
-1. In the Customer Insights portal, from the left navigation pane, select **Segments**.
+1. In the Customer Insights portal, from the left navigation pane, select **Segments** under **Audience**.
 
    ![](./media/pp65.png)
 
@@ -83,17 +85,19 @@ Task 1: Login to Dynamics 365 Customer Insights
 
      ![](./media/pp67.png)
 
-1. From the right navigation pane,under the **Attributes** tab, search for and select **Email**.
+1. From the right navigation pane,under the **Attributes** tab, search for and select **Email** under **Contact** option.
 
    ![](./media/pp73.png)
 
-1. In the middle screen under **Group 1** choose **Contains Data** option from the dropdown.
+1. In the middle screen under **Group 1** choose **Contains data** option from the dropdown.
  
    ![](./media/pp74.png)
 
-1. Now click on **Save** and subsequently click on **Ready to Use**.
+1. Now click on **Save** and subsequently click on **Ready to use**.
 
    ![](./media/pp75.png)
+
+   > **Note**:  If you see **Share feedback on segment creation!** tab, select **Cancel**.
 
 ## validation
 
@@ -105,7 +109,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
    ![](./media/pp76.png)
 
-1. Using the Command Bar, select **+ New Journey**.
+1. Using the Command Bar, select **+ New journey**.
 
    ![](./media/pp77.png)
 
@@ -124,7 +128,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
       ![](./media/pp79.png)
 
-1. Select the **Add an Action** button.
+1. Select the **Add an action** button.
 
     ![](./media/pp80.png)
 
@@ -142,6 +146,8 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. Your journey is now ready to go. To start the journey, publish it by clicking on  **Publish** from the command bar.
 
+   > **Note**:  If you see **Congratulations!** tab, select **Skip** button. Subsequently, in the **Share feedback on journey creation!** tab, select **Cancel** tab.
+
   > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
   > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully completed the task. 
   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
@@ -153,4 +159,4 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 In this module we have explored the pivotal role of customer journeys within Dynamics 365 Customer Insights, learning to create and configure journeys as essential tools for guiding customer interactions and optimizing marketing efforts.
 
-## You have successfully completed this module. Click Next
+## You have successfully completed this module. Click on **Next >>** to procced with next exercise.

@@ -22,7 +22,7 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. If it is not open already, open the **Dynamics 365 Sales Hub** application.
 
-1. Using the navigation on the left side of the screen, select **Accounts**.
+1. Using the navigation on the left side of the screen, select **Accounts** under **Customers** section.
 
    ![](./media/pp14.png)
 
@@ -126,6 +126,8 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp27.png)
 
+   > **Note**:  If you don't see the **Open Record** option. You can zoom out your browser page to get it visible.
+
 1. With the appointment record open, from the **Command Bar**, select the **Mark Complete** button to finish the appointment.
 
    ![](./media/pp28.png)
@@ -143,4 +145,4 @@ In this task, you will be working with common records that are leveraged by all 
  
 In this module, we have learnt how to  manage common records like accounts and contacts across Dynamics 365 customer engagement apps, demonstrating proficiency in creating, linking, and managing associated activities such as appointments.
 
-## You have successfully completed this module. Click Next
+## You have successfully completed this module. Click on **Next >>** to procced with next exercise.

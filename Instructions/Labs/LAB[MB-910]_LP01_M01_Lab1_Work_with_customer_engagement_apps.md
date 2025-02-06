@@ -44,7 +44,7 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
       ![](./media/lab01-mod01-01.png)
     
-1. Under Security Group click on the **+ Select** icon and in the new window that appears, select **None** and subsequently click on **Done**.
+1. Under **Security group** click on the **+ Select** icon and in the new window that appears, select **None** and subsequently click on **Done**.
 
    ![](./media/pp4.png)
 
@@ -54,7 +54,7 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
    ![](./media/pp6.png)
         
-1. Now under Environments, the new environment has appeared with the name **Sales-<inject key="DeploymentID" enableCopy="false" />**  click on it to open.
+1. Now under Environments, the new environment has appeared with the name **Sales-<inject key="DeploymentID" enableCopy="false" />**  click on it to open once it is in ready state.
 
    ![](./media/pp7.png)
 
@@ -96,4 +96,4 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 ## Review
 Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.
 
-## You have successfully completed this module. Click Next
+## You have successfully completed this module. Click on **Next >>** to procced with next module.
