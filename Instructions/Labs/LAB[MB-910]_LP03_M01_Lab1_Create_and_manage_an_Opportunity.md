@@ -102,9 +102,9 @@ In this lab, you will be performing the following task:
 
     ![](./media/pp38.png)
 
-1. On the **Sales team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **+ New Connection**.
+1. On the **Sales team** sub-grid, select the **Vertical Ellipsis (1)**. From the menu that appears select **+ New Connection (2)**.
 
-   ![](./media/pp39.png)
+   ![](./media/new-mb910-mod-4-1.png)
 
 1. Search for and choose your user record i.e. **<inject key="AzureAdUserEmail"></inject>**. Once completed, select the **Add** button.
 

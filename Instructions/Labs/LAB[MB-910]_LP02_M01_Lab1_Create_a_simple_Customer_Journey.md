@@ -60,7 +60,9 @@ Task 1: Login to Dynamics 365 Customer Insights
    - From: You can see **Default brand Sender** is already selected
    - Subject: **Demo Email**
 
-     ![](./media/pp71.png)
+     ![](./media/new-mb910-mod-3-3.png)
+
+     ![](./media/new-mb910-mod-3-2.png)
 
      >**Note:** You might have to click on the arrow-head facing downwards to view the options and if **sender** option is not visible, refresh the page and check.
 
