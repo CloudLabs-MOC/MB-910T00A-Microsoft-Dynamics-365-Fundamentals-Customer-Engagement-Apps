@@ -24,7 +24,7 @@ In this lab, you will be performing the following task:
 
    ![](./media/pp291.png)
 
-1. In the **Dynamics 365 Sales Hub** application from the left navigation pane, select **Leads**.
+1. In the **Dynamics 365 Sales Hub** application from the left navigation pane, select **Leads** under **Sales**.
 
    ![](./media/pp29.png)
 
@@ -66,11 +66,11 @@ In this lab, you will be performing the following task:
 
 1. Complete as follows:
 
-	- **Purchase Timeframe:** Immediate
+	- **Purchase Timeframe:** Select **Immediate** from the dropdown
 
 	- **Estimated Budget:** $50,000
 
-	- **Purchase Process:** Committee
+	- **Purchase Process:** Select **Committee** from the dropdown
 
 1. Close the **Qualify** stage fly-out and click on **Save**
 
@@ -102,11 +102,11 @@ In this lab, you will be performing the following task:
 
     ![](./media/pp38.png)
 
-1. On the **Sales Team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **+ New Connection**.
+1. On the **Sales team** sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **+ New Connection**.
 
    ![](./media/pp39.png)
 
-1. Search for and choose your user record. Once completed, select the **Add** button.
+1. Search for and choose your user record i.e. **<inject key="AzureAdUserEmail"></inject>**. Once completed, select the **Add** button.
 
    ![](./media/pp40.png)
 
@@ -116,7 +116,7 @@ In this lab, you will be performing the following task:
 
 1. On the **Lookup Record** screen, select **+ New Record**, and then select **Competitors**.
 
-1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies**
+1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies**.
 
 1. Select the **Save and Close** button.
 
@@ -131,9 +131,9 @@ In this lab, you will be performing the following task:
 
 1. Complete as follows and select the **Next Stage** button to advance to the **Propose** stage.
 
-	- **Identify Stakeholders**: completed
+	- **Identify Stakeholders**: Select **completed** from the dropdown
 
-	- **Identify Competitors**: completed
+	- **Identify Competitors**: Select **completed** from the dropdown
 
          ![](./media/pp44.png)
 
@@ -141,7 +141,7 @@ In this lab, you will be performing the following task:
 
     ![](./media/pp45.png)
 
-1. On the **Close** stage, mark all tasks as **completed**.
+1. On the **Close** stage, mark all tasks as **Completed**.
 
    ![](./media/pp46.png)
 
@@ -155,6 +155,8 @@ In this lab, you will be performing the following task:
 
 1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
 
+    ![](./media/new-mb910-mod-4-2.png)
+
   > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
   > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully completed the task. 
   > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
@@ -166,4 +168,4 @@ In this lab, you will be performing the following task:
 
 In this module we have demonstrated proficiency in utilizing tools within Dynamics 365 Sales to progress leads through stages, from initial capture to opportunity closure, effectively optimizing sales workflows.
 
-## You have successfully completed this module. Click Next
+## You have successfully completed this module. Click on **Next >>** to procced with next exercise.

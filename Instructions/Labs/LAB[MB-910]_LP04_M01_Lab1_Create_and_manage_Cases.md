@@ -24,7 +24,7 @@ In this lab, you will be performing the following task:
 
    ![](./media/pp49.png)
 
-1. Using the navigation on the left, select **Cases**.
+1. Using the navigation on the left, select **Cases** under **Service** section.
 
    ![](./media/pp50.png)
 
@@ -46,6 +46,8 @@ In this lab, you will be performing the following task:
 
 1.  From the menu that appears, select **Phone Call**.
 
+    ![](./media/new-mb910-mod-5-1.png)
+
 1.  Set the **Subject** field to **Return Call** and leave the rest of the fields as default. Select the **Save and Close** button.
 
     ![](./media/pp503.png)
@@ -56,11 +58,15 @@ In this lab, you will be performing the following task:
 
 1. Select the **X** on the **Research** stage fly out window so you can continue working. 
 
+   ![](./media/new-mb910-mod-5-2.png)
+
 1. On the **Timeline**, select the **Phone Call** activity you created earlier. Select **Close activity** to complete the activity. 
 
    ![](./media/pp55.png)
 
 1. On the **Close Phone Call** screen, select the **Close Phone Call** button. 
+
+   ![](./media/new-mb910-mod-5-3.png)
 
 1. Verify the activity updates to **Closed**. 
 
