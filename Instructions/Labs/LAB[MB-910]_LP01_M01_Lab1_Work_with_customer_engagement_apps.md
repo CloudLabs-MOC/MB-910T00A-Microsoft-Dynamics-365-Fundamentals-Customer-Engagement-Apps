@@ -37,15 +37,14 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 1. If you see the pop-up **Stay Signed in?**, click **No**.
 
 1. If **Action required** pop-up window appears, click on **Next**.
-
    
-   ![](../media/mfa1.png)
+   ![](./media/mfa1.png)
 
 1. On **Start by getting the app** page, click on **Next**.
 1. Click on **Next** twice.
 1. In **android**, go to the play store and Search for **Microsoft Authenticator** and Tap on **Install**.
 
-   ![Install](../media/mfa2.png)
+   ![Install](./media/mfa2.png)
 
    > Note: For Ios, Open the app store and repeat the steps.
 
@@ -55,13 +54,13 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
 1. Scan the QR code visible on the screen and click on **Next**.
 
-   ![QR code](../media/mfa3.png)
+   ![QR code](./media/mfa3.png)
 
 1. Enter the digit displayed on the Screen in the Authenticator app on mobile and tap on **Yes**.
 
 1. Once the notification is approved, click on **Next**.
 
-   ![Approved](../media/mfa4.png)
+   ![Approved](./media/mfa4.png)
 
 1. Click on **Done**.
 
