@@ -1,4 +1,4 @@
-# Module 5: Explore Dynamics 365 Customer Service
+# Module 4: Explore Dynamics 365 Customer Service
 
 ## Lab Overview
 
