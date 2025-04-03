@@ -34,11 +34,13 @@ In this lab, you will be performing the following task:
 
 1.  Complete the new case record as follows:
 
-	- **Case Title:** Item arrived Damaged 
+	- **Case Title:** Item arrived Damaged (1)
 
-	- **Customer:** Jackson Anderson
+	- **Customer:** Jane Anderson (2)
 
-1.  Select the **Save** button to save the record and leave it open. 
+1.  Select the **Save (3)** button to save the record and leave it open. 
+
+    ![](./media/lab5p1.png)
 
 1.  Using the **Timeline**, select the **Plus Sign Icon**, to create a new activity. 
 
