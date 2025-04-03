@@ -85,13 +85,6 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
    ![](./media/pp13.png)
 
 1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
-
- > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
- > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully completed the task.
- > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
- > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
-
- <validation step="0e9b1f3a-5161-4cd7-bbf7-0d507e2c81f3" />
  
 ## Review
 Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.
