@@ -56,9 +56,7 @@ In this lab, you will be performing the following task:
 
 	- **Zip/Postal Code:** 58102
 
-1. Select the **Save** button to save the Lead and leave it open.
-
-   ![](./media/pp31.png)
+   ![](./media/lab4p4.png)
 
 1. On the **Lead to Opportunity** sales process, select the **Qualify** stage.
 
@@ -72,17 +70,17 @@ In this lab, you will be performing the following task:
 
 	- **Purchase Process:** Select **Committee** from the dropdown
 
-1. Close the **Qualify** stage fly-out and click on **Save**
+1. Close the **Qualify** stage fly-out and click on **Save & Close**
 
    ![](./media/pp33.png)
 
-   ![](./media/pp34.png)
+   ![](./media/lab4p1.png)
 
-1. On the **Command bar**, select the **Qualify** button.
+1. Select the Lead once again and select the **Qualify** button.
 
-    ![](./media/pp35.png)
+    ![](./media/lab4p2.png)
  
-     > **Note:** If you do not see the Qualify button, select the **More Commands** button (Looks like three vertical dots).
+    > **Note:** If you do not see the Qualify button, select the **More Commands** button (Looks like three vertical dots).
 
 1. The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has automatically been advanced to the **Develop** stage.
 
@@ -141,11 +139,11 @@ In this lab, you will be performing the following task:
 
     ![](./media/pp45.png)
 
-1. On the **Close** stage, mark all tasks as **Completed**.
+1. On the **Close** stage, mark all tasks as **Completed (1)**.
 
-   ![](./media/pp46.png)
+   ![](./media/lab4p3.png)
 
-1. Select the **Finish** button on the business process flow.
+1. Select the **Finish (2)** button on the business process flow.
 
 1. Now that you have completed the business process, you need to close the opportunity.
 
@@ -156,13 +154,6 @@ In this lab, you will be performing the following task:
 1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
 
     ![](./media/new-mb910-mod-4-2.png)
-
-  > **Congratulations** on completing the task! Now, it's time to validate it. Here are the steps:
-  > - Hit the Validate button for the corresponding task. If you receive a success message, you have successfully completed the task. 
-  > - If not, carefully read the error message and retry the step, following the instructions in the lab guide.
-  > - If you need any assistance, please contact us at labs-support@spektrasystems.com. We are available 24/7 to help
-	
-  <validation step="e642cac3-71d8-4e18-bd24-30c694802a39" />
 
 ## Review
 
