@@ -66,6 +66,8 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
 1. If prompted to stay signed in, you can click **"No"**.
 
+## Continue with the Lab
+
 1. Once you have logged in, let us first create an environment. Click on **Environments**  from the left navigation pane and click on **+ New**
 
    ![](./media/pp2.png)
