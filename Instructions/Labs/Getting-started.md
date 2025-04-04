@@ -1,7 +1,7 @@
 #  MB-910: Microsoft Certified: Dynamics 365 Fundamentals (CRM) Workshop
 
 
-### Overall Estimated timing: 255 minutes
+### Overall Estimated timing: 4 hours
 
 ## Overview
 
