@@ -159,4 +159,4 @@ In this lab, you will be performing the following task:
 
 In this module we have demonstrated proficiency in utilizing tools within Dynamics 365 Sales to progress leads through stages, from initial capture to opportunity closure, effectively optimizing sales workflows.
 
-## You have successfully completed this module. Click on **Next >>** to procced with next exercise.
+## You have successfully completed this lab. Click on **Next >>** to procced with next module.
