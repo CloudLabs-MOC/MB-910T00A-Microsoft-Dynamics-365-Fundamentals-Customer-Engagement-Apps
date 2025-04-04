@@ -94,4 +94,4 @@ In this lab, you will be performing the following task:
 
  In this module, we have learnt to utilize Dynamics 365 Customer Service Hub to create and manage cases, demonstrating proficiency in handling customer issues from inception to resolution. 
 
-## You have successfully completed the workshop!
+## You have successfully completed these workshop!
