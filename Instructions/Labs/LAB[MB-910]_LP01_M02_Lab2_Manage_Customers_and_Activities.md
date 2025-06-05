@@ -32,17 +32,19 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. Complete the account record as follows:
 
-	- **Account Name:** Contoso Corporate 
+	- **Account Name:** Contoso Corporate **(1)**
 
-	- **Phone:** 888-555-1234 
+	- **Phone:** 888-555-1234 **(2)**
 
-	- **Address 1 Street 1:** 191 181<sup data-htmlnode="">st</sup> Ave N 
+	- **Address 1 Street 1:** 191 181<sup data-htmlnode="">st</sup> Ave N  **(3)**
 
-	- **Address 1 City:** Seattle
+	- **Address 1 City:** Seattle **(4)**
 
-	- **Address 1 State/ Province:** WA
+	- **Address 1 State/ Province:** WA **(5)**
 
-	- **Address 1 ZIP/Postal Code:** 98101
+	- **Address 1 ZIP/Postal Code:** 98101 **(6)**
+
+      ![](./media/mb11.png)	
 
 1. On the Command bar, select the **Save & Close** button to save and exit the account record.
 
@@ -54,17 +56,19 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. Complete the account record as follows:
 
-	- **Account Name:** Contoso North America 
+	- **Account Name:** Contoso North America **(1)**
 
-	- **Phone:** 888-555-4321 
+	- **Phone:** 888-555-4321 **(2)**
 
-	- **Address 1 Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N 
+	- **Address 1 Street 1**: 187 11<sup data-htmlnode="">th</sup> ST N **(3)**
 
-	- **Address 1 City:** Chicago
+	- **Address 1 City:** Chicago **(4)**
 
-	- **Address 1 State/ Province:** IL
+	- **Address 1 State/ Province:** IL **(5)**
 
-	- **Address 1 ZIP/Postal Code:** 60176
+	- **Address 1 ZIP/Postal Code:** 60176 **(6)**
+
+      ![](./media/mb12.png)	
 
 1. Set the **Parent Account** field to the **Contoso Corporate** account you created earlier.
 
@@ -74,45 +78,43 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp19.png)
 
-1. Scroll down and locate the **Contacts Sub-grid** on the screen. Select the **Vertical Ellipsis**, and from the menu that appears, select **+ New Contact**.
+1. Scroll down and locate the **Contacts Sub-grid** on the screen. Select the **Vertical Ellipsis (1)**, and from the menu that appears, select **+ New Contact (2)**.
 
-   ![](./media/pp20.png)
+   ![](./media/mb13.png)
  
-1. Using the **Quick Create Contac**t form, complete the contact as follows:
+1. Using the **Quick Create Contac**t form, complete the contact as follows and then click on **Save and Close (5)** button.
 
-	- **First Name:** Jackson
+	- **First Name:** Jackson **(1)**
 
-	- **Last Name:** Anderson 
+	- **Last Name:** Anderson **(2)**
 
-	- **Job Title:** CEO
+	- **Job Title:** CEO **(3)**
 
-	- **Email:** Jackson<inject key="DeploymentID" enableCopy="false" />@contososample.com
+	- **Email:** Jackson<inject key="DeploymentID" enableCopy="false" />@contososample.com **(4)**
 
-1. Select the **Save and Close** button.
-
-   ![](./media/pp21.png)
+	  ![](./media/mb14.png)
 
 1. Just above the Contact sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created.
 
-   ![](./media/pp22.png)
+   ![](./media/mb15.png)
 
 1. On the **Record Timeline** located in the screen, select the **Plus Sign Icon** to add a new item.
 
    ![](./media/pp23.png)
 
-1. From the menu that appears, select **Appointment**
+1. From the menu that appears, select **Appointment**.
 
-1. Complete the appointment as follows:
+   ![](./media/mb16.png)
 
-	- **Subject:** Meeting with Jackson 
+1. Complete the appointment as follows and then click on **Save and Close (4)**:
 
-	- **Start Time:** Today at 4:00 PM
+	- **Subject:** Meeting with Jackson **(1)**
 
-	- **End Time:** Today at 4:30 PM
+	- **Start Time:** Today at 4:00 PM **(2)**
 
-1. Select the **Save and Close** button.
+	- **End Time:** Today at 4:30 PM **(3)**
 
-   ![](./media/pp24.png)
+      ![](./media/mb17.png)
 
 1. **Save & Close** the account.
 
