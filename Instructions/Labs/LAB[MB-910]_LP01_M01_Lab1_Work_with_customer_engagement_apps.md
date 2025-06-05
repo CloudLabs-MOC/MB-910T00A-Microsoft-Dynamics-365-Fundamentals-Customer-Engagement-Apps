@@ -21,7 +21,7 @@ In this lab, you will be performing the following task:
 
 In this task, we will explore Microsoft Power Platform and Dynamics 365 applications by setting up a new environment and navigating the Sales Hub. 
 
-1.  In the lab VM open Microsoft Edge and navigate to this web URL in a new private window -> <https://admin.powerplatform.microsoft.com/> 
+1.  In the lab VM open Microsoft Edge, right click on the following URL <https://admin.powerplatform.microsoft.com/> ,then **Copy link** and then paste it on the browser tab.
 
 1. In the lab environment, provide the following username and password:
 
@@ -68,27 +68,33 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
 ## Continue with the Lab
 
-1. Once you have logged in, let us first create an environment. Click on **Environments**  from the left navigation pane and click on **+ New**
+1. On the **Power Platform admin center** portal, turn off the **New admin center** toggle button.
 
-   ![](./media/pp2.png)
+   ![](./media/mb1.png)
+
+1. Once you have logged in, let us first create an environment. Click on **Environments (1)**  from the left navigation pane and click on **+ New (2)**
+
+   ![](./media/mb2.png)
 
 1. On the right tab enter the following details and leave the others as default:
 
-    - Name - **Sales-<inject key="DeploymentID" enableCopy="false" />** (1)
-    - Add a Dataverse data store - **Yes** (2)
-    - Click **Next** (3)
+    - Name - **Sales-<inject key="DeploymentID" enableCopy="false" />** **(1)**
+    - Add a Dataverse data store - **Yes** **(2)**
+    - Click **Next** **(3)**
 
-      ![](./media/lab01-mod01-01.png)
+      ![](./media/mb3.png)
     
-1. Under **Security group** click on the **+ Select** icon and in the new window that appears, select **None** and subsequently click on **Done**.
+1. Under **Security group** click on the **+ Select** icon.
 
    ![](./media/pp4.png)
 
-   ![](./media/pp5.png)
-   
-1. Next  towards the middle of the window, toggle  **Yes** for  **Enable Dynamics 365 apps** leave the others as default and click on **Save**.
+1. In the new window that appears, select **None (1)** and subsequently click on **Done (2)**.   
 
-   ![](./media/pp6.png)
+   ![](./media/mb4.png)
+   
+1. Next  towards the middle of the window, toggle  **Yes (1)** for  **Enable Dynamics 365 apps** leave the others as default and click on **Save (2)**.
+
+   ![](./media/mb5.png)
         
 1. Now under Environments, the new environment has appeared with the name **Sales-<inject key="DeploymentID" enableCopy="false" />**  click on it to open once it is in ready state.
 
@@ -104,24 +110,34 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
    ![](./media/pp9.1.png)
 
-1. On the lower left side of the screen, at the very bottom of the left-hand navigation pane or **Site Map**, select the text **Sales**, from the list that appears, select **App Settings.** **App Settings** is where you can review and make changes to administrative settings. Notice how the left-hand navigation items have changed.
+1. On the lower left side of the screen, at the very bottom of the left-hand navigation pane or **Site Map**, select the text **Sales (1)**, from the list that appears, select **App Settings (2)**. *App Settings* is where you can review and make changes to administrative settings. Notice how the left-hand navigation items have changed.
 
-   ![](./media/pp10.png)
+   ![](./media/mb6.png)
 
-1. Select the **Change Area** selector again and change it from **App Settings** back to **Sales**.
+1. Select the **App Settings (1)** again and change it from **App Settings** back to **Sales (2)**.
 
-   ![](./media/pp11.png)
+   ![](./media/mb7.png)
 
 1. If you want to switch from the Sales app to a different app such as Customer Service workspace, select the **Sales Hub** text in the upper left part of the screen next to the text Dynamic 365.
 
    ![](./media/pp12.png)
 
-1. The **Apps** selector pop-up will appear, select **Customer Service Hub** and you will be taken to the **Customer Service Hub** application. Notice the **Customer Service Hub** has different areas available in the **Change Area** menu.
+1. The **Apps** selector pop-up will appear, select **Customer Service Hub** and you will be taken to the **Customer Service Hub** application.
 
    ![](./media/pp13.png)
 
-1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up. Select **Sales Hub**.
+1. Click on **Services (1)**. Notice the **Customer Service Hub** has different areas available in the **Change Area** menu **(2)**. 
+
+   ![](./media/mb8.png)
+
+1. To switch back to the **Sales Hub** app, select the **Customer Service Hub** text at the top which opens the **Apps** selector pop-up.
+
+   ![](./media/mb9.png)
+
+1. Select **Sales Hub**.
  
+   ![](./media/mb10.png)
+
 ## Review
 Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.
 
