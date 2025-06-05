@@ -18,13 +18,13 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 ## Task 1: Login to Dynamics 365 Customer Insights
 
-1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
+1. Right click on the following link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing), then click **Copy link** and then paste it on the browser tab.
 
 1. In the window that appears, click on **Try for Free** under Dynamics 365 Customer Insights free trial.
 
     ![](./media/pp61.png)
 
-1. Enter <inject key="AzureAdUserEmail"></inject> for the email, agree to the terms and subsequently  click on **Start your free trial**.
+1. Enter **<inject key="AzureAdUserEmail"></inject>** for the email **(1)**, agree to the terms **(2)** and subsequently  click on **Start your free trial (3)**.
 
    ![](./media/pp62.png)
 
