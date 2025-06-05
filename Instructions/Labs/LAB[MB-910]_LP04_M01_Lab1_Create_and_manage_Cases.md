@@ -18,9 +18,11 @@ In this lab, you will be performing the following task:
 
 ## Task 1: Create and manage cases in Dynamics 365 Customer Service
 
-1. Click on **Sales Hub** from the top left corner and from the list of apps open the **Dynamics 365 Customer Service Hub** application.
+1. Click on **Sales Hub** from the top left corner.
 
    ![](./media/pp48.png)
+
+1. From the list of apps open the **Dynamics 365 Customer Service Hub** application.   
 
    ![](./media/pp49.png)
 
@@ -50,11 +52,15 @@ In this lab, you will be performing the following task:
 
     ![](./media/new-mb910-mod-5-1.png)
 
-1.  Set the **Subject** field to **Return Call** and leave the rest of the fields as default. Select the **Save and Close** button.
+1.  Set the **Subject** field to **Return Call (1)** and leave the rest of the fields as default. Select the **Save and Close (2)** button.
 
-    ![](./media/pp503.png)
+    ![](./media/mb44.png)
 
-1. On the **Phone to Case Process**, select the **Identify** stage.Select the **Next Stage** button to advance to the **Research** stage.
+1. On the **Phone to Case Process**, select the **Identify** stage.
+
+    ![](./media/mb45.png)
+
+1. Select the **Next Stage** button to advance to the **Research** stage.
 
     ![](./media/pp504.png)
 
@@ -74,9 +80,9 @@ In this lab, you will be performing the following task:
 
    ![](./media/pp56.png)
 
-1. On the **Phone to Case Process**, select the **Research** stage, and select the **Next Stage** button to advance to the **Resolve** stage.
+1. On the **Phone to Case Process**, select the **Research (1)** stage, and select the **Next Stage (2)** button to advance to the **Resolve** stage.
 
-    ![](./media/pp57.png)
+    ![](./media/mb46.png)
 
 1. On the **Resolve** stage, select the **Finish** button to complete the business process flow. 
 
@@ -86,12 +92,12 @@ In this lab, you will be performing the following task:
 
     ![](./media/pp59.png)
 
-1. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article**. Select the **Resolve** button to complete the process. 
+1. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article (1)**. Select the **Resolve (2)** button to complete the process. 
 
-    ![](./media/pp60.png)
+    ![](./media/mb47.png)
 
 ## Review
 
- In this module, we have learnt to utilize Dynamics 365 Customer Service Hub to create and manage cases, demonstrating proficiency in handling customer issues from inception to resolution. 
+In this module, we have learnt to utilize Dynamics 365 Customer Service Hub to create and manage cases, demonstrating proficiency in handling customer issues from inception to resolution. 
 
 ## You have successfully completed these workshop!
