@@ -18,9 +18,11 @@ In this lab, you will be performing the following task:
 
 ## Task 1: Create and manage an opportunity in Dynamics 365 Sales 
 
-1. Click on **Customer Insights - Journeys** from the top left corner and from the list of apps open the **Sales Hub**.
+1. Click on **Customer Insights - Journeys** from the top left corner.
 
-   ![](./media/pp290.png)
+   ![](./media/mb28.png)
+
+1. From the list of apps open the **Sales Hub**.   
 
    ![](./media/pp291.png)
 
@@ -28,35 +30,37 @@ In this lab, you will be performing the following task:
 
    ![](./media/pp29.png)
 
-1. On the **My Open Leads** view, click on the ellipsis and select the **+ New** button to create a new lead.
+1. On the **My Open Leads** view, click on the ellipsis **(1)** and select the **+ New (2)** button to create a new lead.
 
-   ![](./media/pp30.png)
+   ![](./media/mb29.png)
 
 1. Complete the **Lead** information as follows:
 
-	- **Topic:** Wants to upgrade their existing equipment 
+	- **Topic:** Wants to upgrade their existing equipment **(1)**
 
-	- **First Name:** Jane
+	- **First Name:** Jane **(2)**
 
-	- **Last Name:** Anderson 
+	- **Last Name:** Anderson **(3)**
 
-	- **Job Title:** CEO
+	- **Job Title:** CEO **(4)**
 
-	- **Business Phone:** 888-555-6767
+	- **Business Phone:** 888-555-6767 **(5)**
 
-	- **Email:** JaneA<inject key="DeploymentID" enableCopy="false" />@sample.com
+	- **Email:** JaneA<inject key="DeploymentID" enableCopy="false" />@sample.com **(6)**
 
-	- **Company:** ABC Consulting 
+	- **Company:** ABC Consulting **(7)**
 
-	- **Street 1:** 1987 191st Ave N
+	- **Street 1:** 1987 191st Ave N **(8)**
 
-	- **City:** Fargo
+	- **City:** Fargo **(9)**
 
-	- **State/Province:** ND
+	- **State/Province:** ND **(10)**
 
-	- **Zip/Postal Code:** 58102
+	- **Zip/Postal Code:** 58102 **(11)**
 
-   ![](./media/lab4p4.png)
+     ![](./media/mb30.png)
+
+     ![](./media/mb31.png)   
 
 1. On the **Lead to Opportunity** sales process, select the **Qualify** stage.
 
@@ -64,15 +68,17 @@ In this lab, you will be performing the following task:
 
 1. Complete as follows:
 
-	- **Purchase Timeframe:** Select **Immediate** from the dropdown
+	- **Purchase Timeframe:** Select **Immediate (1)** from the dropdown
 
-	- **Estimated Budget:** $50,000
+	- **Estimated Budget:** $50,000 **(2)**
 
-	- **Purchase Process:** Select **Committee** from the dropdown
+	- **Purchase Process:** Select **Committee (3)** from the dropdown
 
-1. Close the **Qualify** stage fly-out and click on **Save & Close**
+1. Close the **Qualify** stage fly-out **(4)**. 
 
-   ![](./media/pp33.png)
+   ![](./media/mb32.png)
+
+1. Click on **Save & Close**   
 
    ![](./media/lab4p1.png)
 
@@ -84,66 +90,71 @@ In this lab, you will be performing the following task:
 
 1. The system will close the **Lead** record and create a new **Opportunity** record. Notice that the **Lead to Opportunity** business process flow has automatically been advanced to the **Develop** stage.
 
+   ![](./media/mb33.png)
+
 1. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
 
-    ![](./media/pp3610.png)
+    ![](./media/mb34.png)
 
 1. Complete as follows:
 
-   - **Est. Close Date:** Two days from today
+   - **Est. Close Date:** Two days from today **(1)**
 
-   - **Est Revenue:** $50,000
+   - **Est Revenue:** $50,000 **(2)**
 
-        ![](./media/pp37.png)
+     ![](./media/mb35.png)
 
-1. In the **Stakeholders** sub-grid, notice that **Jane Anderson** is already defined as a stakeholder.
+1. Scroll down, In the **Stakeholders** sub-grid, notice that **Jane Anderson** is already defined as a stakeholder.
 
-    ![](./media/pp38.png)
+    ![](./media/mb36.png)
 
 1. On the **Sales team** sub-grid, select the **Vertical Ellipsis (1)**. From the menu that appears select **+ New Connection (2)**.
 
    ![](./media/new-mb910-mod-4-1.png)
 
-1. Search for and choose your user record i.e. **<inject key="AzureAdUserEmail"></inject>**. Once completed, select the **Add** button.
+1. Search for and choose your user record i.e. **<inject key="AzureAdUserEmail"></inject> (1)**. Once completed, select the **Add (2)** button.
 
-   ![](./media/pp40.png)
+   ![](./media/mb37.png)
 
 1. On the **Competitors** sub-grid, select the **Vertical Ellipsis** (look like three vertical dots). From the menu that appears select **Add Existing Competitor**.
 
    ![](./media/pp41.png)
 
-1. On the **Lookup Record** screen, select **+ New Record**, and then select **Competitors**.
+1. On the **Lookup Record** screen, select **+ New**.
 
-1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies**.
+   ![](./media/mb38.png)
 
-1. Select the **Save and Close** button.
+1. Then select **Competitors**.
+
+   ![](./media/mb39.png)
+
+1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies** and then select the **Save and Close** button.
 
    ![](./media/pp42.png)
 
 1. **Coho Technologies** should be selected in the lookup record window. Click the **Add** button to finish adding the competitor.
 
    ![](./media/pp43.png)
-
   
 1. On the **Lead to Opportunity** business process flow, select the **Develop** stage.
 
-1. Complete as follows and select the **Next Stage** button to advance to the **Propose** stage.
+   ![](./media/mb40.png)
+
+1. Complete as follows **(1)** and select the **Next Stage (2)** button to advance to the **Propose** stage.
 
 	- **Identify Stakeholders**: Select **completed** from the dropdown
 
 	- **Identify Competitors**: Select **completed** from the dropdown
 
-         ![](./media/pp44.png)
+         ![](./media/mb41.png)
 
-1. On the **Propose** stage, mark all four tasks as **completed**. Select **Next Stage**.
+1. On the **Propose (1)** stage, mark all four tasks as **completed (2)**. Select **Next Stage (3)**.
 
-    ![](./media/pp45.png)
+    ![](./media/mb42.png)
 
-1. On the **Close** stage, mark all tasks as **Completed (1)**.
+1. On the **Close (1)** stage, mark all tasks as **Completed (2)** and then click the **Finish (3)** button on the business process flow.
 
-   ![](./media/lab4p3.png)
-
-1. Select the **Finish (2)** button on the business process flow.
+   ![](./media/mb43.png)
 
 1. Now that you have completed the business process, you need to close the opportunity.
 
