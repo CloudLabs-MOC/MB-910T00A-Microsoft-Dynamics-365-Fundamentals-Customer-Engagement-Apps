@@ -18,21 +18,21 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 ## Task 1: Login to Dynamics 365 Customer Insights
 
-1. In a new browser window, browse this link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing).
+1. Right click on the following link (https://www.microsoft.com/en-us/dynamics-365/products/customer-insights/pricing), then click **Copy link** and then paste it on the browser tab.
 
 1. In the window that appears, click on **Try for Free** under Dynamics 365 Customer Insights free trial.
 
     ![](./media/pp61.png)
 
-1. Enter <inject key="AzureAdUserEmail"></inject> for the email, agree to the terms and subsequently  click on **Start your free trial**.
+1. Enter **<inject key="AzureAdUserEmail"></inject>** for the email **(1)**, agree to the terms **(2)** and subsequently  click on **Start your free trial (3)**.
 
    ![](./media/pp62.png)
 
 1. In the **Action Required** window, click on **Ask Later** if prompted.
 
-1. In the window that appears, enter the phone number and click on **Submit**.
+1. In the window that appears, enter 10 digit random phone number **(1)** and click on **Submit (2)**.
 
-   ![](./media/pp63.png)
+   ![](./media/mb20.png)
 
 1. In the window that appears, click on **Launch Trial** button if prompted.
 
@@ -51,26 +51,30 @@ Task 1: Login to Dynamics 365 Customer Insights
 
    ![](./media/pp69.png)
 
-1. Choose any email template from the list and click on **Select**.
+1. Choose any email template from the list **(1)** and click on **Select (2)**.
 
-   ![](./media/pp70.png)
+   ![](./media/mb21.png)
 
 1. In the window that appears,enter the following details:
 
    - From: You can see **Default brand Sender** is already selected
-   - Subject: **Demo Email**
+   - Subject: Click on **Add a subject**
+
+     ![](./media/mb22.png)   
+
+1. Provide the Subject name as **Demo Email (1)** and then click on **Save (2)**.
+
+     ![](./media/mb23.png)
 
      ![](./media/new-mb910-mod-3-3.png)
 
-     ![](./media/new-mb910-mod-3-2.png)
+      >**Note:** You might have to click on the arrow-head facing downwards to view the options and if **sender** option is not visible, refresh the page and check.
 
-     >**Note:** You might have to click on the arrow-head facing downwards to view the options and if **sender** option is not visible, refresh the page and check.
-
-1. Once you have entered the details,click on **Save** and click on **Ready to Send**.
+1. Once you have entered the details,click on **Save (1)** and click on **Ready to Send (2)**.
 
    ![](./media/pp72.png)
 
-1. In the Customer Insights portal, from the left navigation pane, select **Segments** under **Audience**.
+1. In the **Customer Insights** portal, from the left navigation pane, select **Segments** under **Audience**.
 
    ![](./media/pp65.png)
 
@@ -78,22 +82,22 @@ Task 1: Login to Dynamics 365 Customer Insights
 
    ![](./media/pp66.png)
 
-1. In window that appears enter the following details and click on **Create**.
+1. In window that appears enter the following details and click on **Create (3)**.
 
-   - Name the segment: **Demo**
-   - Select a Target Audience: Choose **Contact**
+   - Name the segment: **Demo (1)**
+   - Select a Target Audience: Choose **Contact (2)**
 
-     ![](./media/pp67.png)
+     ![](./media/mb24.png)
 
-1. From the right navigation pane,under the **Attributes** tab, search for and select **Email** under **Contact** option.
+1. From the right navigation pane,under the **Attributes (1)** tab, search for **Email (2)**. Expand **Contacts (3)** and then select **Email (4)**.
 
-   ![](./media/pp73.png)
+   ![](./media/mb25.png)
 
 1. In the middle screen under **Group 1** choose **Contains data** option from the dropdown.
  
    ![](./media/pp74.png)
 
-1. Now click on **Save** and subsequently click on **Ready to use**.
+1. Now click on **Save (1)** and subsequently click on **Ready to use (2)**.
 
    ![](./media/pp75.png)
 
@@ -139,15 +143,17 @@ Task 1: Login to Dynamics 365 Customer Insights
 
     ![](./media/pp81.png)
 
-1. In the Email Properties panel on the right, configure as follows:
+1. In the Email Properties panel on the right, configure as follows and then click on **Save (3)**.
 
-	- **Select email:** Email 1
+	- Select email: **Email 1 (1)**
 
-	- **Send to:** Email
+	- Send to: **Email (2)**
 
-1. Click on **Save**.
+     ![](./media/mb26.png)
 
 1. Your journey is now ready to go. To start the journey, publish it by clicking on  **Publish** from the command bar.
+
+   ![](./media/mb27.png)
 
    > **Note**:  If you see **Congratulations!** tab, select **Skip** button. Subsequently, in the **Share feedback on journey creation!** tab, select **Cancel** tab.
 
