@@ -111,7 +111,7 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
 1. Inside the environment, Find and click on the  URL to open the sales hub platform in Dynamics 365.
 
-   ![](./media/pp8.png)
+   ![](./media/51.png)
     
    >**Note:** If you do not find the Environment URL category, kindly delete the existing Environment and perform from step number 4 to 8.
 
