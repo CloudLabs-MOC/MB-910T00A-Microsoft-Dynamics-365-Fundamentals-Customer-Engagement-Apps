@@ -1,6 +1,5 @@
 #  MB-910: Microsoft Certified: Dynamics 365 Fundamentals (CRM) Workshop
 
-
 ### Overall Estimated timing: 4 hours
 
 ## Overview
@@ -21,7 +20,7 @@ By the end of this lab, you will be able to create and manage leads in Dynamics 
 
 1. **Explore Dynamics 365 Customer Service**: You will learn how to create and manage customer service cases, track interactions, and resolve issues efficiently using Dynamics 365 Customer Service. Additionally, you will explore case management workflows, business process flows, and activity tracking to enhance customer support and service delivery.
 
-### **Pre-requisites for this Lab**  
+## Pre-requisites for this Lab*
 
 Before starting this lab, you should have:  
 
@@ -66,7 +65,7 @@ In this hands-on lab, the architecture flow includes several essential component
 
 1. **Case**: A case in Microsoft Dynamics 365 Customer Service (Customer Hub) represents a customer inquiry, issue, or request that needs resolution. It helps service teams track, manage, and resolve customer concerns efficiently by providing tools for case assignment, escalation, knowledge base integration, and automated workflows to improve customer support.
 
-# Getting Started with lab
+## Getting Started with lab
  
 Welcome to your MB-910:Microsoft Certified: Dynamics 365 Fundamentals workshop! We've prepared a seamless environment for you to explore and learn Dynamics 365 Application Services. Let's begin by making the most of this experience:
  
@@ -74,62 +73,43 @@ Welcome to your MB-910:Microsoft Certified: Dynamics 365 Fundamentals workshop! 
  
 Once you're ready to dive in, your virtual machine and lab guide will be right at your fingertips within your web browser.
  
-![Access Your VM and Lab Guide](./media/gmb1.png)
+![Access Your VM and Lab Guide](./media/100.png)
 
-## Lab Guide Zoom In/Zoom Out
- 
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
-
-![](./media/zoomin11.png)
-
-### Virtual Machine & Lab Guide
+## Virtual Machine & Lab Guide
  
 Your virtual machine is your workhorse throughout the workshop. The lab guide is your roadmap to success.
- 
+
 ## Exploring Your Lab Resources
  
 To get a better understanding of your lab resources and credentials, navigate to the **Environment** tab.
  
-![Explore Lab Resources](./media/gmb2.png)
- 
+![Explore Lab Resources](./media/102.png)
+
 ## Utilizing the Split Window Feature
  
 For convenience, you can open the lab guide in a separate window by selecting the **Split Window** button from the top right corner.
  
-![Use the Split Window Feature](./media/gmb3.png)
- 
+![Use the Split Window Feature](./media/103.png)
+
 ## Managing Your Virtual Machine
  
 Feel free to **start, stop, or restart (2)** your virtual machine as needed from the **Resources (1)** tab. Your experience is in your hands!
  
-![Manage Your Virtual Machine](./media/gmb4.png)
+![Manage Your Virtual Machine](./media/104.png)
 
-### Lab Validation
+## Lab Guide Zoom In/Zoom Out
+ 
+To adjust the zoom level for the environment page, click the **A↕** icon located next to the progress bar in the lab environment.
+
+![Zoom](./media/101.png)
+ 
+## Lab Validation
 
 1. After completing the task, hit the **Validate** button under the Validation tab integrated into your lab guide. You can proceed to the next task if you receive a success message. If not, carefully read the error message and retry the step, following the instructions in the lab guide.
 
-   ![Inline Validation](./media/gdev5.png)
+   ![Inline Validation](./media/105.png)
 
 1. If you need any assistance, please contact us at cloudlabs-support@spektrasystems.com.
-
-## Lab Duration Extension
-
-1. To extend the duration of the lab, kindly click the **Hourglass** icon in the top right corner of the lab environment. 
-
-    ![Manage Your Virtual Machine](./media/sg6.png)
-
-    >**Note:** You will get the **Hourglass** icon when 10 minutes are remaining in the lab.
-
-2. Click **OK** to extend your lab duration.
- 
-   ![Manage Your Virtual Machine](./media/gext2.png)
-
-3. If you have not extended the duration prior to when the lab is about to end, a pop-up will appear, giving you the option to extend. Click **OK** to proceed.
-
-4. Click **Next** from the bottom right corner to embark on your Lab journey!
- 
-    ![Start Your Azure Journey](./media/mb-910-get-start-01.png)
-
 
 ## Support Contact
  
@@ -139,5 +119,9 @@ Learner Support Contacts:
  
 - Email Support: cloudlabs-support@spektrasystems.com
 - Live Chat Support: https://cloudlabs.ai/labs-support
+
+Now, click on **Next >>** from the lower right corner to move on to the next page.
+
+   ![Start Your Azure Journey](./media/mb-910-get-start-01.png)
 
 ## Happy Learning !!
