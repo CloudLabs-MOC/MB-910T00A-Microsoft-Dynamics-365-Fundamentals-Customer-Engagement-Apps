@@ -96,4 +96,4 @@ In this exercise, you have completed the following:
    - Handled customer issues from initiation through to resolution.
    - Demonstrated proficiency in case management workflows and tools.
 
-## You have successfully completed these workshop!
+## You have successfully completed this workshop!
