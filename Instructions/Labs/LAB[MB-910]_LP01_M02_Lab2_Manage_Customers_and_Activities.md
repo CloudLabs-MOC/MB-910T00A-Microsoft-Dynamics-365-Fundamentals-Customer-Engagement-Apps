@@ -96,7 +96,7 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. Just above the Contact sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created.
 
-   ![](./media/mb15.png)
+   ![](./media/52.png)
 
 1. On the **Record Timeline**, select the plus sign icon **(+)** located in the top-right corner to add a new item.
 
