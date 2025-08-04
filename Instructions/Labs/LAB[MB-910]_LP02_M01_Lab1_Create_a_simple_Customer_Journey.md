@@ -1,5 +1,7 @@
 # Module 3: Explore Dynamics 365 Customer Insights - Journeys
 
+### Estimated Duration: 60 minutes
+
 ## Lab Overview
 
 In this lab, you will learn how to navigate Dynamics 365 Customer Insights - Journeys, create customer segments, and automate personalized marketing campaigns. You will go through the essential steps of email creation, segment definition, and customer journey automation, helping you understand how to engage customers effectively. 
@@ -9,8 +11,6 @@ In this lab, you will learn how to navigate Dynamics 365 Customer Insights - Jou
 In this lab, you will be performing the following task:
 
 Task 1: Login to Dynamics 365 Customer Insights
-
-## Estimated Time: 60 minutes
 
 ## Architecture Diagram
 
@@ -24,17 +24,17 @@ Task 1: Login to Dynamics 365 Customer Insights
 
     ![](./media/pp61.png)
 
-1. Enter **<inject key="AzureAdUserEmail"></inject>** for the email **(1)**, agree to the terms **(2)** and subsequently  click on **Start your free trial (3)**.
+1. Enter the email **<inject key="AzureAdUserEmail"></inject> (1)** in the provided field, check the box to **agree to the terms and conditions (2)**, then click **Start your free trial (3)** to proceed.
 
-   ![](./media/pp62.png)
+   ![](./media/11.png)
 
-1. In the **Action Required** window, click on **Ask Later** if prompted.
+1. If the **Action Required** window appears, select **Ask Later** to continue.
 
-1. In the window that appears, enter 10 digit random phone number **(1)** and click on **Submit (2)**.
+1. In the window that appears, enter 10 digit random **phone number (1)** and click on **Submit (2)**.
 
-   ![](./media/mb20.png)
+   ![](./media/12.png)
 
-1. In the window that appears, click on **Launch Trial** button if prompted.
+1. If prompted, click the **Launch Trial** button in the window that appears.
 
 1. In the **Where do you want to start?** window, select **Start Customer Insights-Journey**.
 
@@ -53,7 +53,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. Choose any email template from the list **(1)** and click on **Select (2)**.
 
-   ![](./media/mb21.png)
+   ![](./media/13.png)
 
 1. In the window that appears,enter the following details:
 
@@ -64,9 +64,9 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. Provide the Subject name as **Demo Email (1)** and then click on **Save (2)**.
 
-     ![](./media/mb23.png)
+     ![](./media/14.png)
 
-     ![](./media/new-mb910-mod-3-3.png)
+     ![](./media/15.png)
 
       >**Note:** You might have to click on the arrow-head facing downwards to view the options and if **sender** option is not visible, refresh the page and check.
 
@@ -86,6 +86,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
    - Name the segment: **Demo (1)**
    - Select a Target Audience: Choose **Contact (2)**
+   - Click **Create (3)**
 
      ![](./media/mb24.png)
 
@@ -99,7 +100,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. Now click on **Save (1)** and subsequently click on **Ready to use (2)**.
 
-   ![](./media/pp75.png)
+   ![](./media/16.png)
 
    > **Note**:  If you see **Share feedback on segment creation!** tab, select **Cancel**.
 
@@ -122,7 +123,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. On the **Create Journey with Copilot** pop-up, select **Skip** **and create from blank**.
 
-   ![](./media/pp78.png)
+   ![](./media/17.png)
 
 1.  Enter the following details:
 
@@ -133,7 +134,7 @@ Task 1: Login to Dynamics 365 Customer Insights
     - Set the **Start date** to **Tomorrow’s Date** (5)
     - Select the **Create** button (6)
 
-      ![](./media/pp79.png)
+      ![](./media/19.png)
 
 1. Select the **Add an action** button.
 
@@ -159,6 +160,12 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 ## Review
 
-In this module we have explored the pivotal role of customer journeys within Dynamics 365 Customer Insights, learning to create and configure journeys as essential tools for guiding customer interactions and optimizing marketing efforts.
+In this exercise, you have completed the following:
 
-### You have successfully completed this lab. Click on **Next >>** to procced with next module.
+   - Explored the role of customer journeys in Dynamics 365 Customer Insights.
+   - Created and configured customer journeys to guide interactions.
+   - Applied journey settings to enhance and optimize marketing efforts.
+
+## You have successfully completed this module. Click on **Next >>** to procced with next module.
+
+   ![Start Your Azure Journey](./media/mb-910-get-start-01.png)

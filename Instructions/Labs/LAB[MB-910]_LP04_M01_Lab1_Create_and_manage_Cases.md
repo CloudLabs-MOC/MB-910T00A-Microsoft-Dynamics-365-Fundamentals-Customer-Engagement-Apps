@@ -1,5 +1,7 @@
 # Module 5: Explore Dynamics 365 Customer Service
 
+### Estimated Duration: 60 minutes
+
 ## Lab Overview
 
 In this lab, you will learn how to create and manage customer service cases using Dynamics 365 Customer Service Hub. You will go through the complete case lifecycle—from case creation and activity logging to resolution—using the Phone to Case business process flow. 
@@ -9,8 +11,6 @@ In this lab, you will learn how to create and manage customer service cases usin
 In this lab, you will be performing the following task:
 
 - Task 1: Create and manage cases in Dynamics 365 Customer Service
-
-## Estimated Time: 60 minutes
 
 ## Architecture Diagram
 
@@ -22,7 +22,7 @@ In this lab, you will be performing the following task:
 
    ![](./media/pp48.png)
 
-1. From the list of apps open the **Dynamics 365 Customer Service Hub** application.   
+1. From the list of apps open the **Customer Service Hub** application.   
 
    ![](./media/pp49.png)
 
@@ -40,33 +40,25 @@ In this lab, you will be performing the following task:
 
 	- **Customer:** Jane Anderson (2)
 
-1.  Select the **Save (3)** button to save the record and leave it open. 
+    - Select the **Save (3)** button to save the record and leave it open. 
+        
+        ![](./media/40.png)
 
-    ![](./media/lab5p1.png)
+1.  Using the **Timeline**, select the **Plus Sign Icon (1)**, and select **Phone Call (2)**.  
 
-1.  Using the **Timeline**, select the **Plus Sign Icon**, to create a new activity. 
-
-    ![](./media/pp52.png)
-
-1.  From the menu that appears, select **Phone Call**.
-
-    ![](./media/new-mb910-mod-5-1.png)
+    ![](./media/42.png)
 
 1.  Set the **Subject** field to **Return Call (1)** and leave the rest of the fields as default. Select the **Save and Close (2)** button.
 
-    ![](./media/mb44.png)
+    ![](./media/43.png)
 
-1. On the **Phone to Case Process**, select the **Identify** stage.
+1. On the **Phone to Case Process**, select the **Identify (1)** stage, and select the **Next Stage (2)** button to advance to the **Research** stage.
 
-    ![](./media/mb45.png)
-
-1. Select the **Next Stage** button to advance to the **Research** stage.
-
-    ![](./media/pp504.png)
+    ![](./media/45.png)
 
 1. Select the **X** on the **Research** stage fly out window so you can continue working. 
 
-   ![](./media/new-mb910-mod-5-2.png)
+   ![](./media/46.png)
 
 1. On the **Timeline**, select the **Phone Call** activity you created earlier. Select **Close activity** to complete the activity. 
 
@@ -74,15 +66,15 @@ In this lab, you will be performing the following task:
 
 1. On the **Close Phone Call** screen, select the **Close Phone Call** button. 
 
-   ![](./media/new-mb910-mod-5-3.png)
+   ![](./media/47.png)
 
 1. Verify the activity updates to **Closed**. 
 
-   ![](./media/pp56.png)
+   ![](./media/48.png)
 
 1. On the **Phone to Case Process**, select the **Research (1)** stage, and select the **Next Stage (2)** button to advance to the **Resolve** stage.
 
-    ![](./media/mb46.png)
+    ![](./media/49.png)
 
 1. On the **Resolve** stage, select the **Finish** button to complete the business process flow. 
 
@@ -94,10 +86,14 @@ In this lab, you will be performing the following task:
 
 1. On the **Resolve Case** window, set the **Resolution** field to **Knowledge Article (1)**. Select the **Resolve (2)** button to complete the process. 
 
-    ![](./media/mb47.png)
+    ![](./media/50.png)
 
 ## Review
 
-In this module, we have learnt to utilize Dynamics 365 Customer Service Hub to create and manage cases, demonstrating proficiency in handling customer issues from inception to resolution. 
+In this exercise, you have completed the following:
+
+   - Utilized Dynamics 365 Customer Service Hub to create and manage cases.
+   - Handled customer issues from initiation through to resolution.
+   - Demonstrated proficiency in case management workflows and tools.
 
 ## You have successfully completed these workshop!

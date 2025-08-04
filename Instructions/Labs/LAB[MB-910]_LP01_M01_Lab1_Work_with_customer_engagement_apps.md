@@ -1,5 +1,6 @@
-
 # Module 1: Describe the foundations of Dynamics 365 customer engagement apps
+
+### Estimated Duration: 30 minutes
 
 ## Lab Overview
 
@@ -11,8 +12,6 @@ In this lab, you will be performing the following task:
 
 - Task 1: Introduction to Microsoft 365 Dynamic Applications
 
-## Estimated Time: 30 minutes
-
 ## Architecture Diagram
 
    ![](./media/mod1.png)
@@ -21,16 +20,26 @@ In this lab, you will be performing the following task:
 
 In this task, we will explore Microsoft Power Platform and Dynamics 365 applications by setting up a new environment and navigating the Sales Hub. 
 
-1.  In the lab VM open Microsoft Edge, right click on the following URL <https://admin.powerplatform.microsoft.com/> ,then **Copy link** and then paste it on the browser tab.
+1. In the lab VM, open **Microsoft Edge**, then copy and paste the following URL into the browser's address bar: `https://admin.powerplatform.microsoft.com`
+
+   ![](./media/1.png)
 
 1. In the lab environment, provide the following username and password:
 
     - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+
+      ![](./media/2.png)
+
     - **Password:** <inject key="AzureAdUserPassword"></inject>
+
+      ![](./media/3.png)
+
+      > Note: If you're prompted with **Stay signed in?**, select **No**.
 
 1. In the **Action Required** window that appears,click on **Ask Later**.
 
     ![](./media/pp1.png)
+
 
 ## Steps to Proceed with MFA Setup if the "Ask Later" Option is Not Visible
 
@@ -46,7 +55,7 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
    ![Install](./media/mfa2.png)
 
-   > Note: For Ios, Open the app store and repeat the steps.
+   > Note: For IOS, Open the app store and repeat the steps.
 
    > Note: Skip if already installed.
 
@@ -96,9 +105,9 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
    ![](./media/mb5.png)
         
-1. Now under Environments, the new environment has appeared with the name **Sales-<inject key="DeploymentID" enableCopy="false" />**  click on it to open once it is in ready state.
+1. Now under Environments, the new environment has appeared with the name **Sales-<inject key="DeploymentID" enableCopy="false" />**  click on it to open once it is in **Ready** state.
 
-   ![](./media/pp7.png)
+   ![](./media/4.png)
 
 1. Inside the environment, Find and click on the  URL to open the sales hub platform in Dynamics 365.
 
@@ -139,6 +148,12 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
    ![](./media/mb10.png)
 
 ## Review
-Through this module, we gained familiarity with navigating and accessing different Dynamics 365 customer engagement applications, such as Sales Hub and Customer Service Hub, to explore their respective functionalities and administrative settings.
+
+In this exercise, you have completed the following:
+   - Navigated through Dynamics 365 Customer Engagement applications.
+   - Accessed and explored the Sales Hub and Customer Service Hub.
+   - Reviewed key functionalities and administrative settings within each app.
 
 ## You have successfully completed this module. Click on **Next >>** to procced with next module.
+
+   ![Start Your Azure Journey](./media/mb-910-get-start-01.png)
