@@ -1,5 +1,7 @@
 # Module 4: Explore Dynamics 365 Sales
 
+### Estimated Duration: 60 minutes
+
 ## Lab Overview
 
 In this module, you will manually be creating a lead for Jane Anderson. Jane works for a company called Jim works for a company called **ABC Consulting**. Not only will you be capturing the lead information in the system, but you will be leveraging the tools available in Dynamics 365 Sales to qualify the lead as an opportunity and work it through closing the opportunity.
@@ -10,8 +12,6 @@ In this lab, you will be performing the following task:
 
 - Task 1: Create and manage an opportunity in Dynamics 365 Sales 
 
-## Estimated Time: 60 minutes
-
 ## Architecture Diagram
 
    ![](./media/mod3.png)
@@ -20,11 +20,11 @@ In this lab, you will be performing the following task:
 
 1. Click on **Customer Insights - Journeys** from the top left corner.
 
-   ![](./media/mb28.png)
+   ![](./media/20.png)
 
-1. From the list of apps open the **Sales Hub**.   
+1. From the list of apps, open the **Sales Hub**.   
 
-   ![](./media/pp291.png)
+   ![](./media/21.png)
 
 1. In the **Dynamics 365 Sales Hub** application from the left navigation pane, select **Leads** under **Sales**.
 
@@ -32,7 +32,7 @@ In this lab, you will be performing the following task:
 
 1. On the **My Open Leads** view, click on the ellipsis **(1)** and select the **+ New (2)** button to create a new lead.
 
-   ![](./media/mb29.png)
+   ![](./media/22.png)
 
 1. Complete the **Lead** information as follows:
 
@@ -58,9 +58,9 @@ In this lab, you will be performing the following task:
 
 	- **Zip/Postal Code:** 58102 **(11)**
 
-     ![](./media/mb30.png)
+     ![](./media/23.png)
 
-     ![](./media/mb31.png)   
+     ![](./media/24.png)   
 
 1. On the **Lead to Opportunity** sales process, select the **Qualify** stage.
 
@@ -74,9 +74,9 @@ In this lab, you will be performing the following task:
 
 	- **Purchase Process:** Select **Committee (3)** from the dropdown
 
-1. Close the **Qualify** stage fly-out **(4)**. 
+   - Close the **Qualify** stage fly-out **(4)**. 
 
-   ![](./media/mb32.png)
+      ![](./media/25.png)
 
 1. Click on **Save & Close**   
 
@@ -84,7 +84,7 @@ In this lab, you will be performing the following task:
 
 1. Select the Lead once again and select the **Qualify** button.
 
-    ![](./media/lab4p2.png)
+    ![](./media/26.png)
  
     > **Note:** If you do not see the Qualify button, select the **More Commands** button (Looks like three vertical dots).
 
@@ -94,7 +94,7 @@ In this lab, you will be performing the following task:
 
 1. On the **Opportunity Header** at the top of the record, select the down arrow next to the **Owner** field.
 
-    ![](./media/mb34.png)
+    ![](./media/27.png)
 
 1. Complete as follows:
 
@@ -102,11 +102,11 @@ In this lab, you will be performing the following task:
 
    - **Est Revenue:** $50,000 **(2)**
 
-     ![](./media/mb35.png)
+     ![](./media/28.png)
 
 1. Scroll down, In the **Stakeholders** sub-grid, notice that **Jane Anderson** is already defined as a stakeholder.
 
-    ![](./media/mb36.png)
+    ![](./media/29.png)
 
 1. On the **Sales team** sub-grid, select the **Vertical Ellipsis (1)**. From the menu that appears select **+ New Connection (2)**.
 
@@ -128,9 +128,9 @@ In this lab, you will be performing the following task:
 
    ![](./media/mb39.png)
 
-1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies** and then select the **Save and Close** button.
+1. On the **Quick Create: Competitor** form, set the **Name** field to **Coho Technologies (1)** and then select the **Save and Close (2)** button.
 
-   ![](./media/pp42.png)
+   ![](./media/30.png)
 
 1. **Coho Technologies** should be selected in the lookup record window. Click the **Add** button to finish adding the competitor.
 
@@ -140,21 +140,21 @@ In this lab, you will be performing the following task:
 
    ![](./media/mb40.png)
 
-1. Complete as follows **(1)** and select the **Next Stage (2)** button to advance to the **Propose** stage.
+1. Complete as follows and select the **Next Stage (3)** button to advance to the **Propose** stage.
 
-	- **Identify Stakeholders**: Select **completed** from the dropdown
+	- **Identify Stakeholders**: Select **completed (1)** from the dropdown
 
-	- **Identify Competitors**: Select **completed** from the dropdown
+	- **Identify Competitors**: Select **completed (2)** from the dropdown
 
-         ![](./media/mb41.png)
+         ![](./media/31.png)
 
-1. On the **Propose (1)** stage, mark all four tasks as **completed (2)**. Select **Next Stage (3)**.
+1. On the **Propose (1)** stage, mark all four tasks as **completed (2)** and then select **Next Stage (3)**.
 
-    ![](./media/mb42.png)
+    ![](./media/32.png)
 
 1. On the **Close (1)** stage, mark all tasks as **Completed (2)** and then click the **Finish (3)** button on the business process flow.
 
-   ![](./media/mb43.png)
+   ![](./media/33.png)
 
 1. Now that you have completed the business process, you need to close the opportunity.
 
@@ -164,10 +164,16 @@ In this lab, you will be performing the following task:
 
 1. On the **Close Opportunity** dialog, select the **OK** button to finish closing the opportunity record.
 
-    ![](./media/new-mb910-mod-4-2.png)
+    ![](./media/34.png)
 
 ## Review
 
-In this module we have demonstrated proficiency in utilizing tools within Dynamics 365 Sales to progress leads through stages, from initial capture to opportunity closure, effectively optimizing sales workflows.
+In this exercise, you have completed the following:
 
-## You have successfully completed this lab. Click on **Next >>** to procced with next module.
+   - Utilized tools within Dynamics 365 Sales to manage and progress leads.
+   - Advanced leads through various stages from initial capture to opportunity closure.
+   - Optimized sales workflows for improved efficiency and effectiveness.
+
+## You have successfully completed this module. Click on **Next >>** to procced with next module.
+
+   ![Start Your Azure Journey](./media/mb-910-get-start-01.png)

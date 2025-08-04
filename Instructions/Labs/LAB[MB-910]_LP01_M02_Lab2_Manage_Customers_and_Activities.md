@@ -1,5 +1,7 @@
 # Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 
+### Estimated Duration: 45 minutes
+
 ## Lab Overview
 
 In this lab, you will explore how to manage customer records and activities within Dynamics 365 Sales Hub, which is essential for effective customer engagement.You will create and link accounts, contacts, and appointments, demonstrating how Dynamics 365 enables streamlined customer relationship management.
@@ -10,8 +12,6 @@ In this lab, you will be performing the following task:
   
 - Task 1: Manage customers and activities
 
-## Estimated Time: 45 minutes
-
 ## Architecture Diagram
 
    ![](./media/mod2.png)
@@ -20,7 +20,7 @@ In this lab, you will be performing the following task:
 
 In this task, you will be working with common records that are leveraged by all the first-party customer engagement apps. 
 
-1. If it is not open already, open the **Dynamics 365 Sales Hub** application.
+1. Open the **Dynamics 365 Sales Hub** application if it is not open already,
 
 1. Using the navigation on the left side of the screen, select **Accounts** under **Customers** section.
 
@@ -48,7 +48,7 @@ In this task, you will be working with common records that are leveraged by all 
 
 1. On the Command bar, select the **Save & Close** button to save and exit the account record.
 
-   ![](./media/pp16.png)
+   ![](./media/5.png)
 
 1. On the Command bar, from the list of accounts, select the **+ New** button again.
 
@@ -78,7 +78,7 @@ In this task, you will be working with common records that are leveraged by all 
 
    ![](./media/pp19.png)
 
-1. Scroll down and locate the **Contacts Sub-grid** on the screen. Select the **Vertical Ellipsis (1)**, and from the menu that appears, select **+ New Contact (2)**.
+1. Scroll down and locate the **CONTACTS** sub-grid on the screen. Select the **Vertical Ellipsis (1)**, and from the menu that appears, select **+ New Contact (2)**.
 
    ![](./media/mb13.png)
  
@@ -92,19 +92,19 @@ In this task, you will be working with common records that are leveraged by all 
 
 	- **Email:** Jackson<inject key="DeploymentID" enableCopy="false" />@contososample.com **(4)**
 
-	  ![](./media/mb14.png)
+	  ![](./media/6.png)
 
 1. Just above the Contact sub-grid, select the **Primary Contact** field, and set it to the **Jackson Anderson** contact you just created.
 
-   ![](./media/mb15.png)
+   ![](./media/52.png)
 
-1. On the **Record Timeline** located in the screen, select the **Plus Sign Icon** to add a new item.
+1. On the **Record Timeline**, select the plus sign icon **(+)** located in the top-right corner to add a new item.
 
    ![](./media/pp23.png)
 
 1. From the menu that appears, select **Appointment**.
 
-   ![](./media/mb16.png)
+   ![](./media/7.png)
 
 1. Complete the appointment as follows and then click on **Save and Close (4)**:
 
@@ -114,23 +114,21 @@ In this task, you will be working with common records that are leveraged by all 
 
 	- **End Time:** Today at 4:30 PM **(3)**
 
-      ![](./media/mb17.png)
+   - Click **Save and Close (4)**
 
-1. **Save & Close** the account.
+      ![](./media/8.png)
+
+1. From the Command bar, select **Save & Close**.
 
    ![](./media/pp25.png)
 
-1. Open the **Contoso North America** account.
+1. From the list of active accounts, select **Contoso North America** to open the account record.
 
-   ![](./media/mb18.png)
+   ![](./media/10.png)
 
-1. Click to select the **Appointment** and display the details about it.
+1. Under the **Timeline** section, select the **Open Record icon** to view the full activity details.
 
-   ![](./media/pp26.png)
-
-1. Select the **Open Record** link.
-
-   ![](./media/pp27.png)
+   ![](./media/9.png)
 
    > **Note**:  If you don't see the **Open Record** option. You can zoom out your browser page to get it visible.
 
@@ -143,7 +141,12 @@ In this task, you will be working with common records that are leveraged by all 
    ![](./media/mb19.png)
 
 ## Review
- 
-In this module, we have learnt how to  manage common records like accounts and contacts across Dynamics 365 customer engagement apps, demonstrating proficiency in creating, linking, and managing associated activities such as appointments.
 
-## You have successfully completed this lab. Click on **Next >>** to procced with next module.
+In this exercise, you have completed the following:
+   - Managed common records such as accounts and contacts across Dynamics 365 Customer   Engagement apps.
+   - Created and linked records to establish relationships between data.
+   - Managed associated activities, including scheduling and tracking appointments.
+
+## You have successfully completed this module. Click on **Next >>** to procced with next module.
+
+   ![Start Your Azure Journey](./media/mb-910-get-start-01.png)
