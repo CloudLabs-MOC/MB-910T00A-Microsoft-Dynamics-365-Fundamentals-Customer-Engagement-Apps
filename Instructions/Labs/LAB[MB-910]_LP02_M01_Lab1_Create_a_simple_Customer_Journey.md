@@ -1,4 +1,4 @@
-# Module 3: Explore Dynamics 365 Customer Insights - Journeys
+# Lab 03: Explore Dynamics 365 Customer Insights - Journeys
 
 ### Estimated Duration: 60 minutes
 

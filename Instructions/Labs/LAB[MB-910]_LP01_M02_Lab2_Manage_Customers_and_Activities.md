@@ -1,4 +1,4 @@
-# Module 2: Describe shared activities and integration options in Dynamics 365 customer engagement apps
+# Lab 02: Describe shared activities and integration options in Dynamics 365 customer engagement apps
 
 ### Estimated Duration: 30 minutes
 
