@@ -1,4 +1,4 @@
-# Module 1: Describe the foundations of Dynamics 365 customer engagement apps
+# Lab 01: Describe the foundations of Dynamics 365 customer engagement apps
 
 ### Estimated Duration: 30 minutes
 
