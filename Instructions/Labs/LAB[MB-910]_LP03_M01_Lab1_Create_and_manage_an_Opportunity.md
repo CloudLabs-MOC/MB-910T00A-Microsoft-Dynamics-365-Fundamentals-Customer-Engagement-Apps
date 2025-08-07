@@ -1,4 +1,4 @@
-# Module 4: Explore Dynamics 365 Sales
+# Lab 04: Explore Dynamics 365 Sales
 
 ### Estimated Duration: 60 minutes
 
