@@ -1,4 +1,4 @@
-# Module 5: Explore Dynamics 365 Customer Service
+# Lab 05: Explore Dynamics 365 Customer Service
 
 ### Estimated Duration: 60 minutes
 
