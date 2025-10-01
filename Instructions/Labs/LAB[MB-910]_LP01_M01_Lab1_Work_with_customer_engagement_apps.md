@@ -77,13 +77,9 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
 
 ## Continue with the Lab
 
-1. On the **Power Platform admin center** portal, turn off the **New admin center** toggle button.
+1. Once you have logged in, let us first create an environment. Select **Manage (1)** then click on **Environments (2)**  from the left navigation pane and click on **+ New (3)**
 
-   ![](./media/mb1.png)
-
-1. Once you have logged in, let us first create an environment. Click on **Environments (1)**  from the left navigation pane and click on **+ New (2)**
-
-   ![](./media/mb2.png)
+   ![](./media/mbb1.png)
 
 1. On the right tab enter the following details and leave the others as default:
 
@@ -91,27 +87,27 @@ In this task, we will explore Microsoft Power Platform and Dynamics 365 applicat
     - Add a Dataverse data store - **Yes** **(2)**
     - Click **Next** **(3)**
 
-      ![](./media/mb3.png)
+      ![](./media/mbb2.png)
     
 1. Under **Security group** click on the **+ Select** icon.
 
-   ![](./media/pp4.png)
+   ![](./media/mbb3.png)
 
 1. In the new window that appears, select **None (1)** and subsequently click on **Done (2)**.   
 
-   ![](./media/mb4.png)
+   ![](./media/mbb4.png)
    
 1. Next  towards the middle of the window, toggle  **Yes (1)** for  **Enable Dynamics 365 apps** leave the others as default and click on **Save (2)**.
 
-   ![](./media/mb5.png)
+   ![](./media/mbb5.png)
         
 1. Now under Environments, the new environment has appeared with the name **Sales-<inject key="DeploymentID" enableCopy="false" />**  click on it to open once it is in **Ready** state.
 
-   ![](./media/4.png)
+   ![](./media/mbb6.png)
 
 1. Inside the environment, Find and click on the  URL to open the sales hub platform in Dynamics 365.
 
-   ![](./media/51.png)
+   ![](./media/mbb7.png)
     
    >**Note:** If you do not find the Environment URL category, kindly delete the existing Environment and perform from step number 4 to 8.
 
