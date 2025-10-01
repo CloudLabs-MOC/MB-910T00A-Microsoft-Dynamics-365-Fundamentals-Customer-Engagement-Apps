@@ -57,7 +57,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. In the window that appears,enter the following details:
 
-   - From: You can see **Default brand Sender** is already selected
+   - From: You can see **Default brand Sender** is already selected (Sometimes it may take some time to appear please do repeat the steps 1 -3 until **Default brand Sender** is selected )
    - Subject: Click on **Add a subject**
 
      ![](./media/mb22.png)   
