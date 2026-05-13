@@ -1,6 +1,6 @@
 # Lab 05: Explore Dynamics 365 Customer Service
 
-### Estimated Duration: 60 minutes
+### Estimated Duration: 60 Minutes
 
 ## Lab Overview
 

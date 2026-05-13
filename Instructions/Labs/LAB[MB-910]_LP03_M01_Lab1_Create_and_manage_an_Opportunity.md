@@ -1,6 +1,6 @@
 # Lab 04: Explore Dynamics 365 Sales
 
-### Estimated Duration: 60 minutes
+### Estimated Duration: 60 Minutes
 
 ## Lab Overview
 
@@ -78,7 +78,7 @@ In this lab, you will be performing the following task:
 
       ![](./media/25.png)
 
-1. Click on **Save & Close**   
+1. Click on **Save**.  
 
    ![](./media/lab4p1.png)
 

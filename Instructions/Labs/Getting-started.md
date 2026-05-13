@@ -1,6 +1,6 @@
 #  MB-910: Microsoft Certified: Dynamics 365 Fundamentals (CRM) Workshop
 
-### Overall Estimated timing: 4 hours
+### Overall Estimated timing: 4 Hours
 
 ## Overview
 
@@ -20,7 +20,7 @@ By the end of this lab, you will be able to create and manage leads in Dynamics 
 
 1. **Explore Dynamics 365 Customer Service**: You will learn how to create and manage customer service cases, track interactions, and resolve issues efficiently using Dynamics 365 Customer Service. Additionally, you will explore case management workflows, business process flows, and activity tracking to enhance customer support and service delivery.
 
-## Pre-requisites for this Lab*
+## Pre-requisites for this Lab
 
 Before starting this lab, you should have:  
 

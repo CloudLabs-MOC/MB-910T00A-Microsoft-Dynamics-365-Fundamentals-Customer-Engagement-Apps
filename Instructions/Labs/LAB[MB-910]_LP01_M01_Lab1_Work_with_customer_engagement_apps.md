@@ -1,6 +1,6 @@
 # Lab 01: Describe the foundations of Dynamics 365 customer engagement apps
 
-### Estimated Duration: 30 minutes
+### Estimated Duration: 30 Minutes
 
 ## Lab Overview
 

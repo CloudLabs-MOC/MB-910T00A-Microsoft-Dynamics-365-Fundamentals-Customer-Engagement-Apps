@@ -1,6 +1,6 @@
 # Lab 03: Explore Dynamics 365 Customer Insights - Journeys
 
-### Estimated Duration: 60 minutes
+### Estimated Duration: 60 Minutes
 
 ## Lab Overview
 
@@ -30,7 +30,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1. If the **Action Required** window appears, select **Ask Later** to continue.
 
-1. In the window that appears, enter 10 digit random **phone number (1)** and click on **Submit (2)**.
+1. In the window that appears, type **student (1)** as job title, enter 10 digit random **phone number (2)** and click on **Submit (3)**.
 
    ![](./media/12.png)
 
