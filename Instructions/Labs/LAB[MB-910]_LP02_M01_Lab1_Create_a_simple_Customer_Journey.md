@@ -127,12 +127,12 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 1.  Enter the following details:
 
-    - In the Name the Journey field, enter **Demo Customer Journey** (1)
-    - Under Choose the Type of Journey, Set to **Segment-based** (2)
-    - Search for and select the **Demo** segment (3)
-    - Under **Select the frequency**, choose **A one-time journey with a static audience** (4)
-    - Set the **Start date** to **Tomorrow’s Date** (5)
-    - Select the **Create** button (6)
+    - In the Name the Journey field, enter **Demo Customer Journey (1)**
+    - Under Choose the Type of Journey, Set to **Segment-based (2)**
+    - Search for and select the **Demo** segment **(3)**
+    - Under **Select the frequency**, choose **A one-time journey with a static audience (4)**
+    - Set the **Start date** to **Tomorrow’s Date (5)**
+    - Select the **Create (6)**
 
       ![](./media/19.png)
 
@@ -150,7 +150,7 @@ Task 1: Login to Dynamics 365 Customer Insights
 
 	- Send to: **Email (2)**
 
-     ![](./media/mb26.png)
+      ![](./media/mb26.png)
 
 1. Your journey is now ready to go. To start the journey, publish it by clicking on  **Publish** from the command bar.
 
